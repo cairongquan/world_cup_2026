@@ -1,0 +1,5633 @@
+{
+  "_meta": {
+    "description": "2026 FIFA World Cup 球队阵容信息",
+    "teamCount": 48,
+    "sources": [
+      "https://www.olympics.com/en/news/2026-fifa-world-cup-football-teams-squads-players-complete-list",
+      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+      "https://www.skysports.com/football/news/11095/13543070/world-cup-2026-squad-lists"
+    ],
+    "note": "数据截至 2026 年 5 月 19 日；已公布正式 26 人名单的球队已对齐官方名单，其余为初选或待公布",
+    "generatedAt": "2026-05-19T15:05:37.868Z",
+    "playerFormat": "nameZh, clubZh, valueZh, photo",
+    "valueSource": "Transfermarkt 身价估算（2025-26）"
+  },
+  "teams": {
+    "墨西哥": {
+      "coach": "Javier Aguirre",
+      "coachZh": "哈维尔·阿吉雷",
+      "squadStatus": "provisional",
+      "goalkeepers": [
+        {
+          "nameZh": "吉列尔莫·奥乔亚",
+          "nameEn": "Guillermo Ochoa",
+          "clubZh": "利马索尔",
+          "valueZh": "80万欧元",
+          "valueWan": 80,
+          "photo": "assets/players/mexico_guillermo-ochoa.jpg"
+        },
+        {
+          "nameZh": "卡洛斯·阿塞韦多",
+          "nameEn": "Carlos Acevedo",
+          "clubZh": "桑托斯拉古纳",
+          "valueZh": "300万欧元",
+          "valueWan": 300,
+          "photo": "assets/players/mexico_carlos-acevedo.jpg"
+        },
+        {
+          "nameZh": "劳尔·兰赫尔",
+          "nameEn": "Raúl Rangel",
+          "clubZh": "瓜达拉哈拉",
+          "valueZh": "150万欧元",
+          "valueWan": 150,
+          "photo": "assets/players/mexico_raul-rangel.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "埃德森·阿尔瓦雷斯",
+          "nameEn": "Edson Álvarez",
+          "clubZh": "费内巴切",
+          "valueZh": "2800万欧元",
+          "valueWan": 2800,
+          "photo": "assets/players/mexico_edson-alvarez.jpg"
+        },
+        {
+          "nameZh": "约翰·巴斯克斯",
+          "nameEn": "Johan Vásquez",
+          "clubZh": "热那亚",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/mexico_johan-vasquez.jpg"
+        },
+        {
+          "nameZh": "塞萨尔·蒙特斯",
+          "nameEn": "César Montes",
+          "clubZh": "莫斯科火车头",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/mexico_cesar-montes.jpg"
+        },
+        {
+          "nameZh": "胡利安·阿拉乌霍",
+          "nameEn": "Julián Araujo",
+          "clubZh": "凯尔特人",
+          "valueZh": "900万欧元",
+          "valueWan": 900,
+          "photo": "assets/players/mexico_julian-araujo.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "路易斯·查韦斯",
+          "nameEn": "Luis Chávez",
+          "clubZh": "莫斯科迪纳摩",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/mexico_luis-chavez.jpg"
+        },
+        {
+          "nameZh": "奥贝尔林·皮内达",
+          "nameEn": "Orbelin Pineda",
+          "clubZh": "雅典AEK",
+          "valueZh": "500万欧元",
+          "valueWan": 500,
+          "photo": "assets/players/mexico_orbelin-pineda.jpg"
+        },
+        {
+          "nameZh": "卡洛斯·罗德里格斯",
+          "nameEn": "Carlos Rodríguez",
+          "clubZh": "蓝十字",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/mexico_carlos-rodriguez.jpg"
+        },
+        {
+          "nameZh": "奥贝德·巴尔加斯",
+          "nameEn": "Obed Vargas",
+          "clubZh": "马德里竞技",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/mexico_obed-vargas.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "劳尔·希门尼斯",
+          "nameEn": "Raúl Jiménez",
+          "clubZh": "富勒姆",
+          "valueZh": "500万欧元",
+          "valueWan": 500,
+          "photo": "assets/players/mexico_raul-jimenez.jpg"
+        },
+        {
+          "nameZh": "圣地亚哥·希门尼斯",
+          "nameEn": "Santiago Giménez",
+          "clubZh": "AC米兰",
+          "valueZh": "4500万欧元",
+          "valueWan": 4500,
+          "photo": "assets/players/mexico_santiago-gimenez.jpg"
+        },
+        {
+          "nameZh": "塞萨尔·韦尔塔",
+          "nameEn": "César Huerta",
+          "clubZh": "安德莱赫特",
+          "valueZh": "700万欧元",
+          "valueWan": 700,
+          "photo": "assets/players/mexico_cesar-huerta.jpg"
+        },
+        {
+          "nameZh": "赫尔曼·贝尔特拉梅",
+          "nameEn": "Germán Berterame",
+          "clubZh": "迈阿密国际",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/mexico_german-berterame.jpg"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "2.10亿欧元",
+      "marketValueMillion": 210
+    },
+    "南非": {
+      "coach": "Hugo Broos",
+      "coachZh": "雨果·布罗奥斯",
+      "squadStatus": "pending",
+      "note": "正式 26 人名单计划于 5 月 27 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "罗文·威廉姆斯",
+          "nameEn": "Ronwen Williams",
+          "clubZh": "马梅洛迪日落",
+          "valueZh": "350万欧元",
+          "valueWan": 350,
+          "photo": "assets/players/south-africa_ronwen-williams.jpg"
+        },
+        {
+          "nameZh": "珀西·塔乌",
+          "nameEn": "Percy Tau",
+          "clubZh": "阿尔阿赫利",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/south-africa_percy-tau.jpg"
+        },
+        {
+          "nameZh": "滕巴·兹瓦内",
+          "nameEn": "Themba Zwane",
+          "clubZh": "马梅洛迪日落",
+          "valueZh": "300万欧元",
+          "valueWan": 300,
+          "photo": "assets/players/south-africa_themba-zwane.jpg"
+        },
+        {
+          "nameZh": "特博霍·莫科埃纳",
+          "nameEn": "Teboho Mokoena",
+          "clubZh": "马德里竞技",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/south-africa_teboho-mokoena.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "85万欧元",
+      "marketValueMillion": 85
+    },
+    "捷克": {
+      "coach": "Miroslav Koubek",
+      "coachZh": "米罗斯拉夫·库贝克",
+      "squadStatus": "provisional",
+      "goalkeepers": [
+        {
+          "nameZh": "安东宁·金斯基",
+          "nameEn": "Antonín Kinsky",
+          "clubZh": "热刺",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/czechia_antonin-kinsky.jpg"
+        },
+        {
+          "nameZh": "马泰·科瓦尔",
+          "nameEn": "Matěj Kovář",
+          "clubZh": "埃因霍温",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/czechia_matej-kovar.jpg"
+        },
+        {
+          "nameZh": "因德里赫·斯塔内克",
+          "nameEn": "Jindřich Staněk",
+          "clubZh": "布拉格斯拉维亚",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/czechia_jindrich-stanek.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "弗拉基米尔·库法尔",
+          "nameEn": "Vladimír Coufal",
+          "clubZh": "霍芬海姆",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/czechia_vladimir-coufal.jpg"
+        },
+        {
+          "nameZh": "罗宾·赫拉纳奇",
+          "nameEn": "Robin Hranáč",
+          "clubZh": "霍芬海姆",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/czechia_robin-hranac.jpg"
+        },
+        {
+          "nameZh": "大卫·齐马",
+          "nameEn": "David Zima",
+          "clubZh": "布拉格斯拉维亚",
+          "valueZh": "500万欧元",
+          "valueWan": 500,
+          "photo": "assets/players/czechia_david-zima.jpg"
+        },
+        {
+          "nameZh": "拉迪斯拉夫·克雷伊奇",
+          "nameEn": "Ladislav Krejčí",
+          "clubZh": "狼队",
+          "valueZh": "700万欧元",
+          "valueWan": 700,
+          "photo": "assets/players/czechia_ladislav-krejci.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "托马斯·绍切克",
+          "nameEn": "Tomáš Souček",
+          "clubZh": "西汉姆联",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/czechia_tomas-soucek.jpg"
+        },
+        {
+          "nameZh": "卢卡斯·普罗沃德",
+          "nameEn": "Lukáš Provod",
+          "clubZh": "布拉格斯拉维亚",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/czechia_lukas-provod.jpg"
+        },
+        {
+          "nameZh": "帕维尔·舒尔茨",
+          "nameEn": "Pavel Šulc",
+          "clubZh": "里昂",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/czechia_pavel-sulc.jpg"
+        },
+        {
+          "nameZh": "米哈尔·萨迪莱克",
+          "nameEn": "Michal Sadílek",
+          "clubZh": "布拉格斯拉维亚",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/czechia_michal-sadilek.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "帕特里克·希克",
+          "nameEn": "Patrik Schick",
+          "clubZh": "勒沃库森",
+          "valueZh": "2500万欧元",
+          "valueWan": 2500,
+          "photo": "assets/players/czechia_patrik-schick.jpg"
+        },
+        {
+          "nameZh": "亚当·赫洛热克",
+          "nameEn": "Adam Hložek",
+          "clubZh": "霍芬海姆",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/czechia_adam-hlozek.jpg"
+        },
+        {
+          "nameZh": "扬·库赫塔",
+          "nameEn": "Jan Kuchta",
+          "clubZh": "布拉格斯巴达",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/czechia_jan-kuchta.jpg"
+        },
+        {
+          "nameZh": "马泰·维德拉",
+          "nameEn": "Matěj Vydra",
+          "clubZh": "比尔森胜利",
+          "valueZh": "300万欧元",
+          "valueWan": 300,
+          "photo": "assets/players/czechia_matej-vydra.jpg"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "1.80亿欧元",
+      "marketValueMillion": 180
+    },
+    "哥伦比亚": {
+      "coach": "Néstor Lorenzo",
+      "coachZh": "内斯托尔·洛伦佐",
+      "squadStatus": "provisional",
+      "note": "2026-05-14 公布 55 人初选，正式 26 人计划于 6/1 公布",
+      "goalkeepers": [
+        {
+          "nameZh": "大卫·奥斯皮纳",
+          "nameEn": "David Ospina",
+          "clubZh": "国民竞技",
+          "valueZh": "200万欧元",
+          "valueWan": 200,
+          "photo": "assets/players/colombia_david-ospina.jpg"
+        },
+        {
+          "nameZh": "卡米洛·巴尔加斯",
+          "nameEn": "Camilo Vargas",
+          "clubZh": "阿特拉斯",
+          "valueZh": "250万欧元",
+          "valueWan": 250,
+          "photo": "assets/players/colombia_camilo-vargas.jpg"
+        },
+        {
+          "nameZh": "凯文·米耶尔",
+          "nameEn": "Kevin Mier",
+          "clubZh": "蓝十字",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/colombia_kevin-mier.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "达维森·桑切斯",
+          "nameEn": "Davinson Sánchez",
+          "clubZh": "加拉塔萨雷",
+          "valueZh": "1800万欧元",
+          "valueWan": 1800,
+          "photo": "assets/players/colombia_davinson-sanchez.jpg"
+        },
+        {
+          "nameZh": "丹尼尔·穆尼奥斯",
+          "nameEn": "Daniel Muñoz",
+          "clubZh": "水晶宫",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/colombia_daniel-munoz.jpg"
+        },
+        {
+          "nameZh": "耶里·米纳",
+          "nameEn": "Yerry Mina",
+          "clubZh": "卡利亚里",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/colombia_yerry-mina.jpg"
+        },
+        {
+          "nameZh": "约翰·卢库米",
+          "nameEn": "Jhon Lucumí",
+          "clubZh": "博洛尼亚",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/colombia_jhon-lucumi.jpg"
+        },
+        {
+          "nameZh": "Santiago Arias",
+          "nameEn": "Santiago Arias",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Santiago%20Arias&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Johan Mojica",
+          "nameEn": "Johan Mojica",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Johan%20Mojica&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "哈梅斯·罗德里格斯",
+          "nameEn": "James Rodríguez",
+          "clubZh": "明尼苏达联",
+          "valueZh": "300万欧元",
+          "valueWan": 300,
+          "photo": "assets/players/colombia_james-rodriguez.jpg"
+        },
+        {
+          "nameZh": "杰斐逊·莱尔马",
+          "nameEn": "Jefferson Lerma",
+          "clubZh": "水晶宫",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/colombia_jefferson-lerma.jpg"
+        },
+        {
+          "nameZh": "理查德·里奥斯",
+          "nameEn": "Richard Ríos",
+          "clubZh": "本菲卡",
+          "valueZh": "2200万欧元",
+          "valueWan": 2200,
+          "photo": "assets/players/colombia_richard-rios.jpg"
+        },
+        {
+          "nameZh": "胡安·夸德拉多",
+          "nameEn": "Juan Cuadrado",
+          "clubZh": "比萨",
+          "valueZh": "200万欧元",
+          "valueWan": 200,
+          "photo": "assets/players/colombia_juan-cuadrado.jpg"
+        },
+        {
+          "nameZh": "Wilmar Barrios",
+          "nameEn": "Wilmar Barrios",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Wilmar%20Barrios&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Jhon Arias",
+          "nameEn": "Jhon Arias",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jhon%20Arias&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "路易斯·迪亚斯",
+          "nameEn": "Luis Díaz",
+          "clubZh": "拜仁慕尼黑",
+          "valueZh": "7000万欧元",
+          "valueWan": 7000,
+          "photo": "assets/players/colombia_luis-diaz.jpg"
+        },
+        {
+          "nameZh": "拉斐尔·博雷",
+          "nameEn": "Rafael Borré",
+          "clubZh": "国际米兰",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/colombia_rafael-borre.jpg"
+        },
+        {
+          "nameZh": "库乔·埃尔南德斯",
+          "nameEn": "Cucho Hernández",
+          "clubZh": "皇家贝蒂斯",
+          "valueZh": "1800万欧元",
+          "valueWan": 1800,
+          "photo": "assets/players/colombia_cucho-hernandez.jpg"
+        },
+        {
+          "nameZh": "约翰·杜兰",
+          "nameEn": "Jhon Durán",
+          "clubZh": "泽尼特",
+          "valueZh": "2500万欧元",
+          "valueWan": 2500,
+          "photo": "assets/players/colombia_jhon-duran.jpg"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "2.80亿欧元",
+      "marketValueMillion": 280
+    },
+    "乌兹别克": {
+      "coach": "Fabio Cannavaro",
+      "coachZh": "法比奥·卡纳瓦罗",
+      "squadStatus": "provisional",
+      "note": "2026-05-05 公布 40 人初选名单（下列为核心球员）",
+      "goalkeepers": [
+        {
+          "nameZh": "Utkir Yusupov",
+          "nameEn": "Utkir Yusupov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_utkir-yusupov.jpg"
+        },
+        {
+          "nameZh": "Abduvokhid Nematov",
+          "nameEn": "Abduvokhid Nematov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_abduvokhid-nematov.jpg"
+        },
+        {
+          "nameZh": "Botirali Ergashev",
+          "nameEn": "Botirali Ergashev",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Botirali%20Ergashev&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Rustam Ashurmatov",
+          "nameEn": "Rustam Ashurmatov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Rustam%20Ashurmatov&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Farrukh Sayfiev",
+          "nameEn": "Farrukh Sayfiev",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_farrukh-sayfiev.jpg"
+        },
+        {
+          "nameZh": "Khojiakbar Alijonov",
+          "nameEn": "Khojiakbar Alijonov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Khojiakbar%20Alijonov&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Umar Eshmurodov",
+          "nameEn": "Umar Eshmurodov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_umar-eshmurodov.jpg"
+        },
+        {
+          "nameZh": "阿布杜科迪尔·胡萨诺夫",
+          "nameEn": "Abdukodir Khusanov",
+          "clubZh": "曼城",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/uzbekistan_abdukodir-khusanov.jpg"
+        },
+        {
+          "nameZh": "Sherzod Nasrullaev",
+          "nameEn": "Sherzod Nasrullaev",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Sherzod%20Nasrullaev&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ibrokhimkhalil Yuldoshev",
+          "nameEn": "Ibrokhimkhalil Yuldoshev",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ibrokhimkhalil%20Yuldoshev&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Otabek Shukurov",
+          "nameEn": "Otabek Shukurov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_otabek-shukurov.jpg"
+        },
+        {
+          "nameZh": "Odiljon Hamrobekov",
+          "nameEn": "Odiljon Hamrobekov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Odiljon%20Hamrobekov&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Jamshid Iskanderov",
+          "nameEn": "Jamshid Iskanderov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jamshid%20Iskanderov&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Jasurbek Jaloliddinov",
+          "nameEn": "Jasurbek Jaloliddinov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_jasurbek-jaloliddinov.jpg"
+        },
+        {
+          "nameZh": "Akmal Mozgovoy",
+          "nameEn": "Akmal Mozgovoy",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Akmal%20Mozgovoy&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Abbosek Fayzullaev",
+          "nameEn": "Abbosek Fayzullaev",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Abbosek%20Fayzullaev&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "埃尔多尔·绍穆罗多夫",
+          "nameEn": "Eldor Shomurodov",
+          "clubZh": "巴萨克赛尔",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/uzbekistan_eldor-shomurodov.jpg"
+        },
+        {
+          "nameZh": "Igor Sergeev",
+          "nameEn": "Igor Sergeev",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_igor-sergeev.jpg"
+        },
+        {
+          "nameZh": "Jaloliddin Masharipov",
+          "nameEn": "Jaloliddin Masharipov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jaloliddin%20Masharipov&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Dostonbek Khamdamov",
+          "nameEn": "Dostonbek Khamdamov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uzbekistan_dostonbek-khamdamov.jpg"
+        },
+        {
+          "nameZh": "Oston Urunov",
+          "nameEn": "Oston Urunov",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Oston%20Urunov&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "38万欧元",
+      "marketValueMillion": 38
+    },
+    "韩国": {
+      "coach": "Hong Myung-bo",
+      "coachZh": "洪明甫",
+      "squadStatus": "final",
+      "note": "2026-05-15 公布正式 26 人名单",
+      "goalkeepers": [
+        {
+          "nameZh": "金承奎",
+          "nameEn": "Kim Seung-gyu",
+          "clubZh": "东京FC",
+          "valueZh": "300万欧元",
+          "valueWan": 300,
+          "photo": "assets/players/south-korea_kim-seung-gyu.jpg"
+        },
+        {
+          "nameZh": "赵贤祐",
+          "nameEn": "Jo Hyeon-woo",
+          "clubZh": "蔚山现代",
+          "valueZh": "350万欧元",
+          "valueWan": 350,
+          "photo": "assets/players/south-korea_jo-hyeon-woo.jpg"
+        },
+        {
+          "nameZh": "宋范根",
+          "nameEn": "Song Bum-keun",
+          "clubZh": "全北现代",
+          "valueZh": "200万欧元",
+          "valueWan": 200,
+          "photo": "assets/players/south-korea_song-bum-keun.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "金玟哉",
+          "nameEn": "Kim Min-jae",
+          "clubZh": "拜仁慕尼黑",
+          "valueZh": "4500万欧元",
+          "valueWan": 4500,
+          "photo": "assets/players/south-korea_kim-min-jae.jpg"
+        },
+        {
+          "nameZh": "李汉范",
+          "nameEn": "Lee Han-beom",
+          "clubZh": "中日德兰",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/south-korea_lee-han-beom.jpg"
+        },
+        {
+          "nameZh": "薛英佑",
+          "nameEn": "Seol Young-woo",
+          "clubZh": "贝尔格莱德红星",
+          "valueZh": "500万欧元",
+          "valueWan": 500,
+          "photo": "assets/players/south-korea_seol-young-woo.jpg"
+        },
+        {
+          "nameZh": "Kim Tae-hyeon",
+          "nameEn": "Kim Tae-hyeon",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/south-korea_kim-tae-hyeon.jpg"
+        },
+        {
+          "nameZh": "Jens Castrop",
+          "nameEn": "Jens Castrop",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/south-korea_jens-castrop.jpg"
+        },
+        {
+          "nameZh": "Kim Moon-hwan",
+          "nameEn": "Kim Moon-hwan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Kim%20Moon-hwan&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Park Jin-seob",
+          "nameEn": "Park Jin-seob",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Park%20Jin-seob&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Lee Ki-hyuk",
+          "nameEn": "Lee Ki-hyuk",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Lee%20Ki-hyuk&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Lee Tae-seok",
+          "nameEn": "Lee Tae-seok",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Lee%20Tae-seok&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Cho Yu-min",
+          "nameEn": "Cho Yu-min",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Cho%20Yu-min&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "李刚仁",
+          "nameEn": "Lee Kang-in",
+          "clubZh": "巴黎圣日耳曼",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/south-korea_lee-kang-in.jpg"
+        },
+        {
+          "nameZh": "李在城",
+          "nameEn": "Lee Jae-sung",
+          "clubZh": "美因茨",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/south-korea_lee-jae-sung.jpg"
+        },
+        {
+          "nameZh": "黄喜灿",
+          "nameEn": "Hwang Hee-chan",
+          "clubZh": "狼队",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/south-korea_hwang-hee-chan.jpg"
+        },
+        {
+          "nameZh": "黄仁范",
+          "nameEn": "Hwang In-beom",
+          "clubZh": "费耶诺德",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/south-korea_hwang-in-beom.jpg"
+        },
+        {
+          "nameZh": "白昇浩",
+          "nameEn": "Paik Seung-ho",
+          "clubZh": "伯明翰",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/south-korea_paik-seung-ho.jpg"
+        },
+        {
+          "nameZh": "Bae Jun-ho",
+          "nameEn": "Bae Jun-ho",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/south-korea_bae-jun-ho.jpg"
+        },
+        {
+          "nameZh": "Kim Jin-gyu",
+          "nameEn": "Kim Jin-gyu",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Kim%20Jin-gyu&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Yang Hyun-jun",
+          "nameEn": "Yang Hyun-jun",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Yang%20Hyun-jun&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Eom Ji-sung",
+          "nameEn": "Eom Ji-sung",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Eom%20Ji-sung&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Lee Dong-gyeong",
+          "nameEn": "Lee Dong-gyeong",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Lee%20Dong-gyeong&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "孙兴慜",
+          "nameEn": "Son Heung-min",
+          "clubZh": "洛杉矶FC",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/south-korea_son-heung-min.jpg"
+        },
+        {
+          "nameZh": "曹圭成",
+          "nameEn": "Cho Gue-sung",
+          "clubZh": "中日德兰",
+          "valueZh": "500万欧元",
+          "valueWan": 500,
+          "photo": "assets/players/south-korea_cho-gue-sung.jpg"
+        },
+        {
+          "nameZh": "吴贤揆",
+          "nameEn": "Oh Hyeon-gyu",
+          "clubZh": "贝西克塔斯",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/south-korea_oh-hyeon-gyu.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "1.85亿欧元",
+      "marketValueMillion": 185
+    },
+    "刚果(金)": {
+      "coach": "Sébastien Desabre",
+      "coachZh": "塞巴斯蒂安·德萨布雷",
+      "squadStatus": "final",
+      "note": "2026-05-18 公布正式 26 人名单",
+      "goalkeepers": [
+        {
+          "nameZh": "Lionel Mpasi",
+          "nameEn": "Lionel Mpasi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Lionel%20Mpasi&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Timothy Fayulu",
+          "nameEn": "Timothy Fayulu",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Timothy%20Fayulu&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Matthieu Epolo",
+          "nameEn": "Matthieu Epolo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Matthieu%20Epolo&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Chancel Mbemba",
+          "nameEn": "Chancel Mbemba",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/dr-congo_chancel-mbemba.jpg"
+        },
+        {
+          "nameZh": "Arthur Masuaku",
+          "nameEn": "Arthur Masuaku",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/dr-congo_arthur-masuaku.jpg"
+        },
+        {
+          "nameZh": "Gédéon Kalulu",
+          "nameEn": "Gédéon Kalulu",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=G%C3%A9d%C3%A9on%20Kalulu&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Joris Kayembe",
+          "nameEn": "Joris Kayembe",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Joris%20Kayembe&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Dylan Batubinsika",
+          "nameEn": "Dylan Batubinsika",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Dylan%20Batubinsika&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Axel Tuanzebe",
+          "nameEn": "Axel Tuanzebe",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Axel%20Tuanzebe&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Aaron Wan-Bissaka",
+          "nameEn": "Aaron Wan-Bissaka",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Aaron%20Wan-Bissaka&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Rocky Bushiri",
+          "nameEn": "Rocky Bushiri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Rocky%20Bushiri&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Steve Kapuadi",
+          "nameEn": "Steve Kapuadi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Steve%20Kapuadi&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Meschak Elia",
+          "nameEn": "Meschak Elia",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Meschak%20Elia&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Samuel Moutoussamy",
+          "nameEn": "Samuel Moutoussamy",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Samuel%20Moutoussamy&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Edo Kayembe",
+          "nameEn": "Edo Kayembe",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Edo%20Kayembe&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Charles Pickel",
+          "nameEn": "Charles Pickel",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Charles%20Pickel&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Gaël Kakuta",
+          "nameEn": "Gaël Kakuta",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ga%C3%ABl%20Kakuta&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Noah Sadiki",
+          "nameEn": "Noah Sadiki",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Noah%20Sadiki&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Nathanaël Mbuku",
+          "nameEn": "Nathanaël Mbuku",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Nathana%C3%ABl%20Mbuku&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ngal'ayel Mukau",
+          "nameEn": "Ngal'ayel Mukau",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ngal'ayel%20Mukau&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Brian Cipenga",
+          "nameEn": "Brian Cipenga",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Brian%20Cipenga&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Cédric Bakambu",
+          "nameEn": "Cédric Bakambu",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=C%C3%A9dric%20Bakambu&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Théo Bongonda",
+          "nameEn": "Théo Bongonda",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/dr-congo_theo-bongonda.jpg"
+        },
+        {
+          "nameZh": "Fiston Mayele",
+          "nameEn": "Fiston Mayele",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Fiston%20Mayele&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "约安·维萨",
+          "nameEn": "Yoane Wissa",
+          "clubZh": "布伦特福德",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/dr-congo_yoane-wissa.jpg"
+        },
+        {
+          "nameZh": "Simon Banza",
+          "nameEn": "Simon Banza",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Simon%20Banza&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "1.20亿欧元",
+      "marketValueMillion": 120
+    },
+    "西班牙": {
+      "coach": "Luis de la Fuente",
+      "coachZh": "路易斯·德拉富恩特",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 25 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "佩德里",
+          "nameEn": "Pedri",
+          "clubZh": "巴塞罗那",
+          "valueZh": "1.40亿欧元",
+          "valueWan": 14000,
+          "photo": "assets/players/spain_pedri.jpg"
+        },
+        {
+          "nameZh": "亚马尔",
+          "nameEn": "Lamine Yamal",
+          "clubZh": "巴塞罗那",
+          "valueZh": "1.80亿欧元",
+          "valueWan": 18000,
+          "photo": "assets/players/spain_lamine-yamal.jpg"
+        },
+        {
+          "nameZh": "罗德里",
+          "nameEn": "Rodri",
+          "clubZh": "曼城",
+          "valueZh": "1.10亿欧元",
+          "valueWan": 11000,
+          "photo": "assets/players/spain_rodri.jpg"
+        },
+        {
+          "nameZh": "Álvaro Morata",
+          "nameEn": "Álvaro Morata",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/spain_alvaro-morata.jpg"
+        },
+        {
+          "nameZh": "Unai Simón",
+          "nameEn": "Unai Simón",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/spain_unai-simon.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "10.50亿欧元",
+      "marketValueMillion": 1050
+    },
+    "乌拉圭": {
+      "coach": "Marcelo Bielsa",
+      "coachZh": "马塞洛·贝尔萨",
+      "squadStatus": "pending",
+      "keyPlayers": [
+        {
+          "nameZh": "达尔文·努涅斯",
+          "nameEn": "Darwin Núñez",
+          "clubZh": "利物浦",
+          "valueZh": "4500万欧元",
+          "valueWan": 4500,
+          "photo": "assets/players/uruguay_darwin-nunez.jpg"
+        },
+        {
+          "nameZh": "费德里科·巴尔韦德",
+          "nameEn": "Federico Valverde",
+          "clubZh": "皇家马德里",
+          "valueZh": "1.20亿欧元",
+          "valueWan": 12000,
+          "photo": "assets/players/uruguay_federico-valverde.jpg"
+        },
+        {
+          "nameZh": "罗纳德·阿劳霍",
+          "nameEn": "Ronald Araújo",
+          "clubZh": "巴塞罗那",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/uruguay_ronald-araujo.jpg"
+        },
+        {
+          "nameZh": "Giorgian Arrascaeta",
+          "nameEn": "Giorgian Arrascaeta",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/uruguay_giorgian-arrascaeta.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "4.20亿欧元",
+      "marketValueMillion": 420
+    },
+    "佛得角": {
+      "coach": "Bubista",
+      "coachZh": "布比斯塔",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Vozinha",
+          "nameEn": "Vozinha",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_vozinha.jpg"
+        },
+        {
+          "nameZh": "Marcio Rosa",
+          "nameEn": "Marcio Rosa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_marcio-rosa.jpg"
+        },
+        {
+          "nameZh": "Carlos Santos",
+          "nameEn": "Carlos Santos",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_carlos-santos.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Stopira",
+          "nameEn": "Stopira",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_stopira.jpg"
+        },
+        {
+          "nameZh": "Logan Costa",
+          "nameEn": "Logan Costa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_logan-costa.jpg"
+        },
+        {
+          "nameZh": "Steven Moreira",
+          "nameEn": "Steven Moreira",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_steven-moreira.jpg"
+        },
+        {
+          "nameZh": "Roberto Lopes",
+          "nameEn": "Roberto Lopes",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_roberto-lopes.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Jamiro Monteiro",
+          "nameEn": "Jamiro Monteiro",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_jamiro-monteiro.jpg"
+        },
+        {
+          "nameZh": "Kevin Pina",
+          "nameEn": "Kevin Pina",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_kevin-pina.jpg"
+        },
+        {
+          "nameZh": "Deroy Duarte",
+          "nameEn": "Deroy Duarte",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_deroy-duarte.jpg"
+        },
+        {
+          "nameZh": "Laros Duarte",
+          "nameEn": "Laros Duarte",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_laros-duarte.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Ryan Mendes",
+          "nameEn": "Ryan Mendes",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_ryan-mendes.jpg"
+        },
+        {
+          "nameZh": "Garry Rodrigues",
+          "nameEn": "Garry Rodrigues",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_garry-rodrigues.jpg"
+        },
+        {
+          "nameZh": "Gilson Tavares",
+          "nameEn": "Gilson Tavares",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_gilson-tavares.jpg"
+        },
+        {
+          "nameZh": "Nuno da Costa",
+          "nameEn": "Nuno da Costa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/cape-verde_nuno-da-costa.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "28万欧元",
+      "marketValueMillion": 28
+    },
+    "沙特": {
+      "coach": "Georgios Donis",
+      "coachZh": "乔治奥斯·多尼斯",
+      "squadStatus": "pending",
+      "keyPlayers": [
+        {
+          "nameZh": "Salem Al-Dawsari",
+          "nameEn": "Salem Al-Dawsari",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/saudi-arabia_salem-al-dawsari.jpg"
+        },
+        {
+          "nameZh": "Saud Abdulhamid",
+          "nameEn": "Saud Abdulhamid",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/saudi-arabia_saud-abdulhamid.jpg"
+        },
+        {
+          "nameZh": "Firas Al-Buraikan",
+          "nameEn": "Firas Al-Buraikan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/saudi-arabia_firas-al-buraikan.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "1.15亿欧元",
+      "marketValueMillion": 115
+    },
+    "海地": {
+      "coach": "Sébastien Migné",
+      "coachZh": "塞巴斯蒂安·米涅",
+      "squadStatus": "final",
+      "note": "2026-05-15 公布正式 26 人名单",
+      "goalkeepers": [
+        {
+          "nameZh": "Johny Placide",
+          "nameEn": "Johny Placide",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_johny-placide.jpg"
+        },
+        {
+          "nameZh": "Alexandre Pierre",
+          "nameEn": "Alexandre Pierre",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_alexandre-pierre.jpg"
+        },
+        {
+          "nameZh": "Josué Duverger",
+          "nameEn": "Josué Duverger",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_josue-duverger.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Ricardo Adé",
+          "nameEn": "Ricardo Adé",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_ricardo-ade.jpg"
+        },
+        {
+          "nameZh": "Carlens Arcus",
+          "nameEn": "Carlens Arcus",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_carlens-arcus.jpg"
+        },
+        {
+          "nameZh": "Martin Expérience",
+          "nameEn": "Martin Expérience",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Martin%20Exp%C3%A9rience&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Jean-Kévin Duverne",
+          "nameEn": "Jean-Kévin Duverne",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_jean-kevin-duverne.jpg"
+        },
+        {
+          "nameZh": "Duke Lacroix",
+          "nameEn": "Duke Lacroix",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Duke%20Lacroix&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Wilguens Paugain",
+          "nameEn": "Wilguens Paugain",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Wilguens%20Paugain&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Hannes Delcroix",
+          "nameEn": "Hannes Delcroix",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_hannes-delcroix.jpg"
+        },
+        {
+          "nameZh": "Keeto Thermoncy",
+          "nameEn": "Keeto Thermoncy",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Keeto%20Thermoncy&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Leverton Pierre",
+          "nameEn": "Leverton Pierre",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Leverton%20Pierre&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Danley Jean Jacques",
+          "nameEn": "Danley Jean Jacques",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_danley-jean-jacques.jpg"
+        },
+        {
+          "nameZh": "Carl Sainté",
+          "nameEn": "Carl Sainté",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Carl%20Saint%C3%A9&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Jean-Ricner Bellegarde",
+          "nameEn": "Jean-Ricner Bellegarde",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_jean-ricner-bellegarde.jpg"
+        },
+        {
+          "nameZh": "Woodensky Pierre",
+          "nameEn": "Woodensky Pierre",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_woodensky-pierre.jpg"
+        },
+        {
+          "nameZh": "Dominique Simon",
+          "nameEn": "Dominique Simon",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Dominique%20Simon&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Duckens Nazon",
+          "nameEn": "Duckens Nazon",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_duckens-nazon.jpg"
+        },
+        {
+          "nameZh": "弗朗茨迪·皮埃罗",
+          "nameEn": "Frantzdy Pierrot",
+          "clubZh": "里泽斯堡",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/haiti_frantzdy-pierrot.jpg"
+        },
+        {
+          "nameZh": "Derrick Etienne Jr.",
+          "nameEn": "Derrick Etienne Jr.",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Derrick%20Etienne%20Jr.&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Louicius Deedson",
+          "nameEn": "Louicius Deedson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Louicius%20Deedson&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ruben Providence",
+          "nameEn": "Ruben Providence",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ruben%20Providence&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Josué Casimir",
+          "nameEn": "Josué Casimir",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/haiti_josue-casimir.jpg"
+        },
+        {
+          "nameZh": "Yassin Fortuné",
+          "nameEn": "Yassin Fortuné",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Yassin%20Fortun%C3%A9&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "威尔逊·伊西多尔",
+          "nameEn": "Wilson Isidor",
+          "clubZh": "桑德兰",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/haiti_wilson-isidor.jpg"
+        },
+        {
+          "nameZh": "Lenny Joseph",
+          "nameEn": "Lenny Joseph",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Lenny%20Joseph&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "32万欧元",
+      "marketValueMillion": 32
+    },
+    "摩洛哥": {
+      "coach": "Mohamed Ouahbi",
+      "coachZh": "穆罕默德·瓦赫比",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 26 日公布（维基）",
+      "keyPlayers": [
+        {
+          "nameZh": "阿什拉夫·哈基米",
+          "nameEn": "Achraf Hakimi",
+          "clubZh": "巴黎圣日耳曼",
+          "valueZh": "6000万欧元",
+          "valueWan": 6000,
+          "photo": "assets/players/morocco_achraf-hakimi.jpg"
+        },
+        {
+          "nameZh": "Youssef En-Nesyri",
+          "nameEn": "Youssef En-Nesyri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/morocco_youssef-en-nesyri.jpg"
+        },
+        {
+          "nameZh": "卜拉欣·迪亚斯",
+          "nameEn": "Brahim Díaz",
+          "clubZh": "皇家马德里",
+          "valueZh": "4000万欧元",
+          "valueWan": 4000,
+          "photo": "assets/players/morocco_brahim-diaz.jpg"
+        },
+        {
+          "nameZh": "Sofyan Amrabat",
+          "nameEn": "Sofyan Amrabat",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/morocco_sofyan-amrabat.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "3.60亿欧元",
+      "marketValueMillion": 360
+    },
+    "波黑": {
+      "coach": "Sergej Barbarez",
+      "coachZh": "塞尔日·巴巴雷兹",
+      "squadStatus": "final",
+      "note": "2026-05-11 公布正式 26 人名单",
+      "goalkeepers": [
+        {
+          "nameZh": "Nikola Vasilj",
+          "nameEn": "Nikola Vasilj",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_nikola-vasilj.jpg"
+        },
+        {
+          "nameZh": "Martin Zlomislić",
+          "nameEn": "Martin Zlomislić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_martin-zlomislic.jpg"
+        },
+        {
+          "nameZh": "Osman Hadžikić",
+          "nameEn": "Osman Hadžikić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_osman-hadzikic.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "塞阿德·科拉希纳茨",
+          "nameEn": "Sead Kolašinac",
+          "clubZh": "亚特兰大",
+          "valueZh": "500万欧元",
+          "valueWan": 500,
+          "photo": "assets/players/bosnia-and-herzegovina_sead-kolasinac.jpg"
+        },
+        {
+          "nameZh": "Dennis Hadžikadunić",
+          "nameEn": "Dennis Hadžikadunić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Dennis%20Had%C5%BEikaduni%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Amar Dedić",
+          "nameEn": "Amar Dedić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_amar-dedic.jpg"
+        },
+        {
+          "nameZh": "Nikola Katić",
+          "nameEn": "Nikola Katić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_nikola-katic.jpg"
+        },
+        {
+          "nameZh": "Tarik Muharemović",
+          "nameEn": "Tarik Muharemović",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_tarik-muharemovic.jpg"
+        },
+        {
+          "nameZh": "Nihad Mujakić",
+          "nameEn": "Nihad Mujakić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Nihad%20Mujaki%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Stjepan Radeljić",
+          "nameEn": "Stjepan Radeljić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Stjepan%20Radelji%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Nidal Čelik",
+          "nameEn": "Nidal Čelik",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Nidal%20%C4%8Celik&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Amir Hadžiahmetović",
+          "nameEn": "Amir Hadžiahmetović",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_amir-hadziahmetovic.jpg"
+        },
+        {
+          "nameZh": "Benjamin Tahirović",
+          "nameEn": "Benjamin Tahirović",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_benjamin-tahirovic.jpg"
+        },
+        {
+          "nameZh": "Armin Gigović",
+          "nameEn": "Armin Gigović",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Armin%20Gigovi%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Dženis Burnić",
+          "nameEn": "Dženis Burnić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=D%C5%BEenis%20Burni%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ivan Bašić",
+          "nameEn": "Ivan Bašić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ivan%20Ba%C5%A1i%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Esmir Bajraktarević",
+          "nameEn": "Esmir Bajraktarević",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_esmir-bajraktarevic.jpg"
+        },
+        {
+          "nameZh": "Amar Memić",
+          "nameEn": "Amar Memić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Amar%20Memi%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ivan Šunjić",
+          "nameEn": "Ivan Šunjić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_ivan-sunjic.jpg"
+        },
+        {
+          "nameZh": "Kerim Alajbegović",
+          "nameEn": "Kerim Alajbegović",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Kerim%20Alajbegovi%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ermin Mahmić",
+          "nameEn": "Ermin Mahmić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ermin%20Mahmi%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "埃丁·哲科",
+          "nameEn": "Edin Džeko",
+          "clubZh": "沙尔克04",
+          "valueZh": "100万欧元",
+          "valueWan": 100,
+          "photo": "assets/players/bosnia-and-herzegovina_edin-dzeko.jpg"
+        },
+        {
+          "nameZh": "埃尔梅丁·德米罗维奇",
+          "nameEn": "Ermedin Demirović",
+          "clubZh": "斯图加特",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/bosnia-and-herzegovina_ermedin-demirovic.jpg"
+        },
+        {
+          "nameZh": "Samed Baždar",
+          "nameEn": "Samed Baždar",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_samed-bazdar.jpg"
+        },
+        {
+          "nameZh": "Haris Tabaković",
+          "nameEn": "Haris Tabaković",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/bosnia-and-herzegovina_haris-tabakovic.jpg"
+        },
+        {
+          "nameZh": "Jovo Lukić",
+          "nameEn": "Jovo Lukić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jovo%20Luki%C4%87&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "95万欧元",
+      "marketValueMillion": 95
+    },
+    "加拿大": {
+      "coach": "Jesse Marsch",
+      "coachZh": "杰西·马什",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 29 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "阿方索·戴维斯",
+          "nameEn": "Alphonso Davies",
+          "clubZh": "拜仁慕尼黑",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/canada_alphonso-davies.jpg"
+        },
+        {
+          "nameZh": "乔纳森·戴维",
+          "nameEn": "Jonathan David",
+          "clubZh": "尤文图斯",
+          "valueZh": "4500万欧元",
+          "valueWan": 4500,
+          "photo": "assets/players/canada_jonathan-david.jpg"
+        },
+        {
+          "nameZh": "Tajon Buchanan",
+          "nameEn": "Tajon Buchanan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/canada_tajon-buchanan.jpg"
+        },
+        {
+          "nameZh": "Stephen Eustáquio",
+          "nameEn": "Stephen Eustáquio",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/canada_stephen-eustaquio.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "1.95亿欧元",
+      "marketValueMillion": 195
+    },
+    "瑞士": {
+      "coach": "Murat Yakin",
+      "coachZh": "穆拉特·雅金",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 20 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "格拉尼特·扎卡",
+          "nameEn": "Granit Xhaka",
+          "clubZh": "桑德兰",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/switzerland_granit-xhaka.jpg"
+        },
+        {
+          "nameZh": "Manuel Akanji",
+          "nameEn": "Manuel Akanji",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/switzerland_manuel-akanji.jpg"
+        },
+        {
+          "nameZh": "Breel Embolo",
+          "nameEn": "Breel Embolo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/switzerland_breel-embolo.jpg"
+        },
+        {
+          "nameZh": "Xherdan Shaqiri",
+          "nameEn": "Xherdan Shaqiri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/switzerland_xherdan-shaqiri.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "2.25亿欧元",
+      "marketValueMillion": 225
+    },
+    "巴拿马": {
+      "coach": "Thomas Christiansen",
+      "coachZh": "托马斯·克里斯蒂安森",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 26 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "José Fajardo",
+          "nameEn": "José Fajardo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/panama_jose-fajardo.jpg"
+        },
+        {
+          "nameZh": "Adalberto Carrasquilla",
+          "nameEn": "Adalberto Carrasquilla",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/panama_adalberto-carrasquilla.jpg"
+        },
+        {
+          "nameZh": "Aníbal Godoy",
+          "nameEn": "Aníbal Godoy",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/panama_anibal-godoy.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "48万欧元",
+      "marketValueMillion": 48
+    },
+    "加纳": {
+      "coach": "Carlos Queiroz",
+      "coachZh": "卡洛斯·奎罗斯",
+      "squadStatus": "pending",
+      "keyPlayers": [
+        {
+          "nameZh": "穆罕默德·库杜斯",
+          "nameEn": "Mohammed Kudus",
+          "clubZh": "热刺",
+          "valueZh": "5500万欧元",
+          "valueWan": 5500,
+          "photo": "assets/players/ghana_mohammed-kudus.jpg"
+        },
+        {
+          "nameZh": "托马斯·帕尔特伊",
+          "nameEn": "Thomas Partey",
+          "clubZh": "比利亚雷亚尔",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/ghana_thomas-partey.jpg"
+        },
+        {
+          "nameZh": "Inaki Williams",
+          "nameEn": "Inaki Williams",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ghana_inaki-williams.jpg"
+        },
+        {
+          "nameZh": "Jordan Ayew",
+          "nameEn": "Jordan Ayew",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ghana_jordan-ayew.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "2.25亿欧元",
+      "marketValueMillion": 225
+    },
+    "科特迪瓦": {
+      "coach": "Emerse Faé",
+      "coachZh": "埃默塞·法埃",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Yahia Fofana",
+          "nameEn": "Yahia Fofana",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_yahia-fofana.jpg"
+        },
+        {
+          "nameZh": "Alban Lafont",
+          "nameEn": "Alban Lafont",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_alban-lafont.jpg"
+        },
+        {
+          "nameZh": "Mohamed Koné",
+          "nameEn": "Mohamed Koné",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_mohamed-kone.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Odilon Kossounou",
+          "nameEn": "Odilon Kossounou",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_odilon-kossounou.jpg"
+        },
+        {
+          "nameZh": "埃万·恩迪卡",
+          "nameEn": "Evan Ndicka",
+          "clubZh": "罗马",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/ivory-coast_evan-ndicka.jpg"
+        },
+        {
+          "nameZh": "维利弗里德·辛戈",
+          "nameEn": "Wilfried Singo",
+          "clubZh": "加拉塔萨雷",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/ivory-coast_wilfried-singo.jpg"
+        },
+        {
+          "nameZh": "Ousmane Diomandé",
+          "nameEn": "Ousmane Diomandé",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_ousmane-diomande.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "弗兰克·凯西",
+          "nameEn": "Franck Kessié",
+          "clubZh": "利雅得新月",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/ivory-coast_franck-kessie.jpg"
+        },
+        {
+          "nameZh": "Ibrahim Sangaré",
+          "nameEn": "Ibrahim Sangaré",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_ibrahim-sangare.jpg"
+        },
+        {
+          "nameZh": "Seko Fofana",
+          "nameEn": "Seko Fofana",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_seko-fofana.jpg"
+        },
+        {
+          "nameZh": "Jean-Mickaël Seri",
+          "nameEn": "Jean-Mickaël Seri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_jean-mickael-seri.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "尼古拉斯·佩佩",
+          "nameEn": "Nicolas Pépé",
+          "clubZh": "比利亚雷亚尔",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/ivory-coast_nicolas-pepe.jpg"
+        },
+        {
+          "nameZh": "阿马德·迪亚洛",
+          "nameEn": "Amad Diallo",
+          "clubZh": "曼联",
+          "valueZh": "4500万欧元",
+          "valueWan": 4500,
+          "photo": "assets/players/ivory-coast_amad-diallo.jpg"
+        },
+        {
+          "nameZh": "Simon Adingra",
+          "nameEn": "Simon Adingra",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_simon-adingra.jpg"
+        },
+        {
+          "nameZh": "Elye Wahi",
+          "nameEn": "Elye Wahi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_elye-wahi.jpg"
+        },
+        {
+          "nameZh": "Ange-Yoan Bonny",
+          "nameEn": "Ange-Yoan Bonny",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ivory-coast_ange-yoan-bonny.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "3.85亿欧元",
+      "marketValueMillion": 385
+    },
+    "德国": {
+      "coach": "Julian Nagelsmann",
+      "coachZh": "尤利安·纳格尔斯曼",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 21 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "贾马尔·穆西亚拉",
+          "nameEn": "Jamal Musiala",
+          "clubZh": "拜仁慕尼黑",
+          "valueZh": "1.40亿欧元",
+          "valueWan": 14000,
+          "photo": "assets/players/germany_jamal-musiala.jpg"
+        },
+        {
+          "nameZh": "弗洛里安·维尔茨",
+          "nameEn": "Florian Wirtz",
+          "clubZh": "利物浦",
+          "valueZh": "1.40亿欧元",
+          "valueWan": 14000,
+          "photo": "assets/players/germany_florian-wirtz.jpg"
+        },
+        {
+          "nameZh": "Kai Havertz",
+          "nameEn": "Kai Havertz",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/germany_kai-havertz.jpg"
+        },
+        {
+          "nameZh": "Joshua Kimmich",
+          "nameEn": "Joshua Kimmich",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/germany_joshua-kimmich.jpg"
+        },
+        {
+          "nameZh": "Manuel Neuer",
+          "nameEn": "Manuel Neuer",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/germany_manuel-neuer.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "8.50亿欧元",
+      "marketValueMillion": 850
+    },
+    "克罗地亚": {
+      "coach": "Zlatko Dalić",
+      "coachZh": "兹拉特科·达利奇",
+      "squadStatus": "provisional",
+      "goalkeepers": [
+        {
+          "nameZh": "Dominik Livaković",
+          "nameEn": "Dominik Livaković",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_dominik-livakovic.jpg"
+        },
+        {
+          "nameZh": "Dominik Kotarski",
+          "nameEn": "Dominik Kotarski",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_dominik-kotarski.jpg"
+        },
+        {
+          "nameZh": "Ivo Pandur",
+          "nameEn": "Ivo Pandur",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_ivo-pandur.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "约什科·格瓦迪奥尔",
+          "nameEn": "Joško Gvardiol",
+          "clubZh": "曼城",
+          "valueZh": "7500万欧元",
+          "valueWan": 7500,
+          "photo": "assets/players/croatia_josko-gvardiol.jpg"
+        },
+        {
+          "nameZh": "Josip Šutalo",
+          "nameEn": "Josip Šutalo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_josip-sutalo.jpg"
+        },
+        {
+          "nameZh": "Josip Stanišić",
+          "nameEn": "Josip Stanišić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_josip-stanisic.jpg"
+        },
+        {
+          "nameZh": "Duje Ćaleta-Car",
+          "nameEn": "Duje Ćaleta-Car",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_duje-caleta-car.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "卢卡·莫德里奇",
+          "nameEn": "Luka Modrić",
+          "clubZh": "AC米兰",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/croatia_luka-modric.jpg"
+        },
+        {
+          "nameZh": "马特奥·科瓦契奇",
+          "nameEn": "Mateo Kovačić",
+          "clubZh": "曼城",
+          "valueZh": "4000万欧元",
+          "valueWan": 4000,
+          "photo": "assets/players/croatia_mateo-kovacic.jpg"
+        },
+        {
+          "nameZh": "Mario Pašalić",
+          "nameEn": "Mario Pašalić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_mario-pasalic.jpg"
+        },
+        {
+          "nameZh": "Nikola Vlašić",
+          "nameEn": "Nikola Vlašić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_nikola-vlasic.jpg"
+        },
+        {
+          "nameZh": "Lovro Majer",
+          "nameEn": "Lovro Majer",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_lovro-majer.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "安德雷·克拉马里奇",
+          "nameEn": "Andrej Kramarić",
+          "clubZh": "霍芬海姆",
+          "valueZh": "500万欧元",
+          "valueWan": 500,
+          "photo": "assets/players/croatia_andrej-kramaric.jpg"
+        },
+        {
+          "nameZh": "伊万·佩里西奇",
+          "nameEn": "Ivan Perišić",
+          "clubZh": "埃因霍温",
+          "valueZh": "200万欧元",
+          "valueWan": 200,
+          "photo": "assets/players/croatia_ivan-perisic.jpg"
+        },
+        {
+          "nameZh": "Ante Budimir",
+          "nameEn": "Ante Budimir",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_ante-budimir.jpg"
+        },
+        {
+          "nameZh": "Petar Musa",
+          "nameEn": "Petar Musa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/croatia_petar-musa.jpg"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "2.85亿欧元",
+      "marketValueMillion": 285
+    },
+    "伊拉克": {
+      "coach": "Graham Arnold",
+      "coachZh": "格雷厄姆·阿诺德",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 6 月 1 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "Zaidan Abbas",
+          "nameEn": "Zaidan Abbas",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/iraq_zaidan-abbas.jpg"
+        },
+        {
+          "nameZh": "Aymen Dhahir",
+          "nameEn": "Aymen Dhahir",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Aymen%20Dhahir&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mohammed Ali",
+          "nameEn": "Mohammed Ali",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohammed%20Ali&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "42万欧元",
+      "marketValueMillion": 42
+    },
+    "塞内加尔": {
+      "coach": "Pape Thiaw",
+      "coachZh": "帕普·蒂亚夫",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 21 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "萨迪奥·马内",
+          "nameEn": "Sadio Mané",
+          "clubZh": "利雅得胜利",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/senegal_sadio-mane.jpg"
+        },
+        {
+          "nameZh": "Nicolas Jackson",
+          "nameEn": "Nicolas Jackson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/senegal_nicolas-jackson.jpg"
+        },
+        {
+          "nameZh": "Kalidou Koulibaly",
+          "nameEn": "Kalidou Koulibaly",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/senegal_kalidou-koulibaly.jpg"
+        },
+        {
+          "nameZh": "Ismaïla Sarr",
+          "nameEn": "Ismaïla Sarr",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/senegal_ismaila-sarr.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "2.90亿欧元",
+      "marketValueMillion": 290
+    },
+    "卡塔尔": {
+      "coach": "Julen Lopetegui",
+      "coachZh": "胡伦·洛佩特吉",
+      "squadStatus": "provisional",
+      "note": "2026-05-12 公布 34 人初选，5/18 扩至 35 人（下列为核心球员）",
+      "goalkeepers": [
+        {
+          "nameZh": "Meshaal Barsham",
+          "nameEn": "Meshaal Barsham",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_meshaal-barsham.jpg"
+        },
+        {
+          "nameZh": "Salah Zakaria",
+          "nameEn": "Salah Zakaria",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_salah-zakaria.jpg"
+        },
+        {
+          "nameZh": "Mahmud Abunada",
+          "nameEn": "Mahmud Abunada",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mahmud%20Abunada&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Boualem Khoukhi",
+          "nameEn": "Boualem Khoukhi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_boualem-khoukhi.jpg"
+        },
+        {
+          "nameZh": "Pedro Miguel",
+          "nameEn": "Pedro Miguel",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_pedro-miguel.jpg"
+        },
+        {
+          "nameZh": "Tarek Salman",
+          "nameEn": "Tarek Salman",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Tarek%20Salman&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Bassam Al-Rawi",
+          "nameEn": "Bassam Al-Rawi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_bassam-al-rawi.jpg"
+        },
+        {
+          "nameZh": "Homam Ahmed",
+          "nameEn": "Homam Ahmed",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Homam%20Ahmed&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Lucas Mendes",
+          "nameEn": "Lucas Mendes",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_lucas-mendes.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Abdulaziz Hatem",
+          "nameEn": "Abdulaziz Hatem",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Abdulaziz%20Hatem&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Karim Boudiaf",
+          "nameEn": "Karim Boudiaf",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_karim-boudiaf.jpg"
+        },
+        {
+          "nameZh": "Assim Madibo",
+          "nameEn": "Assim Madibo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Assim%20Madibo&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mohammed Waad",
+          "nameEn": "Mohammed Waad",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohammed%20Waad&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ahmed Fathy",
+          "nameEn": "Ahmed Fathy",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ahmed%20Fathy&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Jassem Gaber",
+          "nameEn": "Jassem Gaber",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jassem%20Gaber&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Hassan Al-Haydos",
+          "nameEn": "Hassan Al-Haydos",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_hassan-al-haydos.jpg"
+        },
+        {
+          "nameZh": "阿克拉姆·阿菲夫",
+          "nameEn": "Akram Afif",
+          "clubZh": "萨德",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/qatar_akram-afif.jpg"
+        },
+        {
+          "nameZh": "Almoez Ali",
+          "nameEn": "Almoez Ali",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_almoez-ali.jpg"
+        },
+        {
+          "nameZh": "Mohammed Muntari",
+          "nameEn": "Mohammed Muntari",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohammed%20Muntari&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Yusuf Abdurisag",
+          "nameEn": "Yusuf Abdurisag",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_yusuf-abdurisag.jpg"
+        },
+        {
+          "nameZh": "Edmilson Junior",
+          "nameEn": "Edmilson Junior",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/qatar_edmilson-junior.jpg"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "58万欧元",
+      "marketValueMillion": 58
+    },
+    "巴拉圭": {
+      "coach": "Gustavo Alfaro",
+      "coachZh": "古斯塔沃·阿尔法罗",
+      "squadStatus": "provisional",
+      "note": "2026-05-12 公布 55 人初选名单（下列为核心球员）",
+      "goalkeepers": [
+        {
+          "nameZh": "Carlos Coronel",
+          "nameEn": "Carlos Coronel",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_carlos-coronel.jpg"
+        },
+        {
+          "nameZh": "Gastón Olveira",
+          "nameEn": "Gastón Olveira",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Gast%C3%B3n%20Olveira&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Orlando Gill",
+          "nameEn": "Orlando Gill",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Orlando%20Gill&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Gustavo Gómez",
+          "nameEn": "Gustavo Gómez",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_gustavo-gomez.jpg"
+        },
+        {
+          "nameZh": "Omar Alderete",
+          "nameEn": "Omar Alderete",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_omar-alderete.jpg"
+        },
+        {
+          "nameZh": "Júnior Alonso",
+          "nameEn": "Júnior Alonso",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=J%C3%BAnior%20Alonso&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Fabián Balbuena",
+          "nameEn": "Fabián Balbuena",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Fabi%C3%A1n%20Balbuena&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Diego León",
+          "nameEn": "Diego León",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_diego-leon.jpg"
+        },
+        {
+          "nameZh": "Blas Riveros",
+          "nameEn": "Blas Riveros",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Blas%20Riveros&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Juan José Cáceres",
+          "nameEn": "Juan José Cáceres",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Juan%20Jos%C3%A9%20C%C3%A1ceres&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "米格尔·阿尔米隆",
+          "nameEn": "Miguel Almirón",
+          "clubZh": "亚特兰大联",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/paraguay_miguel-almiron.jpg"
+        },
+        {
+          "nameZh": "Mathias Villasanti",
+          "nameEn": "Mathias Villasanti",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_mathias-villasanti.jpg"
+        },
+        {
+          "nameZh": "Diego Gómez",
+          "nameEn": "Diego Gómez",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_diego-gomez.jpg"
+        },
+        {
+          "nameZh": "Ramón Sosa",
+          "nameEn": "Ramón Sosa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_ramon-sosa.jpg"
+        },
+        {
+          "nameZh": "Andrés Cubas",
+          "nameEn": "Andrés Cubas",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Andr%C3%A9s%20Cubas&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Braian Ojeda",
+          "nameEn": "Braian Ojeda",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Braian%20Ojeda&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Antonio Sanabria",
+          "nameEn": "Antonio Sanabria",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_antonio-sanabria.jpg"
+        },
+        {
+          "nameZh": "Julio Enciso",
+          "nameEn": "Julio Enciso",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/paraguay_julio-enciso.jpg"
+        },
+        {
+          "nameZh": "Adam Bareiro",
+          "nameEn": "Adam Bareiro",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Adam%20Bareiro&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Óscar Romero",
+          "nameEn": "Óscar Romero",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=%C3%93scar%20Romero&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ángel Romero",
+          "nameEn": "Ángel Romero",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=%C3%81ngel%20Romero&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "1.35亿欧元",
+      "marketValueMillion": 135
+    },
+    "土耳其": {
+      "coach": "Vincenzo Montella",
+      "coachZh": "文森佐·蒙特拉",
+      "squadStatus": "provisional",
+      "note": "2026-05-18 公布 35 人初选名单",
+      "goalkeepers": [
+        {
+          "nameZh": "Uğurcan Çakır",
+          "nameEn": "Uğurcan Çakır",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=U%C4%9Furcan%20%C3%87ak%C4%B1r&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mert Günok",
+          "nameEn": "Mert Günok",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mert%20G%C3%BCnok&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Altay Bayındır",
+          "nameEn": "Altay Bayındır",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Altay%20Bay%C4%B1nd%C4%B1r&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Merih Demiral",
+          "nameEn": "Merih Demiral",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/turkiye_merih-demiral.jpg"
+        },
+        {
+          "nameZh": "Zeki Çelik",
+          "nameEn": "Zeki Çelik",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Zeki%20%C3%87elik&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Çağlar Söyüncü",
+          "nameEn": "Çağlar Söyüncü",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=%C3%87a%C4%9Flar%20S%C3%B6y%C3%BCnc%C3%BC&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ferdi Kadıoğlu",
+          "nameEn": "Ferdi Kadıoğlu",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ferdi%20Kad%C4%B1o%C4%9Flu&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Abdülkerim Bardakcı",
+          "nameEn": "Abdülkerim Bardakcı",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Abd%C3%BClkerim%20Bardakc%C4%B1&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mert Müldür",
+          "nameEn": "Mert Müldür",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mert%20M%C3%BCld%C3%BCr&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ozan Kabak",
+          "nameEn": "Ozan Kabak",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ozan%20Kabak&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Eren Elmalı",
+          "nameEn": "Eren Elmalı",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Eren%20Elmal%C4%B1&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "哈坎·恰尔汗奥卢",
+          "nameEn": "Hakan Çalhanoğlu",
+          "clubZh": "国际米兰",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/turkiye_hakan-calhanoglu.jpg"
+        },
+        {
+          "nameZh": "Kaan Ayhan",
+          "nameEn": "Kaan Ayhan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Kaan%20Ayhan&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Orkun Kökçü",
+          "nameEn": "Orkun Kökçü",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Orkun%20K%C3%B6k%C3%A7%C3%BC&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "İsmail Yüksek",
+          "nameEn": "İsmail Yüksek",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=%C4%B0smail%20Y%C3%BCksek&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Salih Özcan",
+          "nameEn": "Salih Özcan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Salih%20%C3%96zcan&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Atakan Karazor",
+          "nameEn": "Atakan Karazor",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Atakan%20Karazor&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "阿尔达·居勒",
+          "nameEn": "Arda Güler",
+          "clubZh": "皇家马德里",
+          "valueZh": "4500万欧元",
+          "valueWan": 4500,
+          "photo": "assets/players/turkiye_arda-guler.jpg"
+        },
+        {
+          "nameZh": "Kenan Yıldız",
+          "nameEn": "Kenan Yıldız",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/turkiye_kenan-y-ld-z.jpg"
+        },
+        {
+          "nameZh": "Kerem Aktürkoğlu",
+          "nameEn": "Kerem Aktürkoğlu",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Kerem%20Akt%C3%BCrko%C4%9Flu&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Barış Alper Yılmaz",
+          "nameEn": "Barış Alper Yılmaz",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Bar%C4%B1%C5%9F%20Alper%20Y%C4%B1lmaz&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Yunus Akgün",
+          "nameEn": "Yunus Akgün",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Yunus%20Akg%C3%BCn&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "İrfan Can Kahveci",
+          "nameEn": "İrfan Can Kahveci",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=%C4%B0rfan%20Can%20Kahveci&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "4.60亿欧元",
+      "marketValueMillion": 460
+    },
+    "澳大利亚": {
+      "coach": "Tony Popovic",
+      "coachZh": "托尼·波波维奇",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 6 月 1 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "Mathew Ryan",
+          "nameEn": "Mathew Ryan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/australia_mathew-ryan.jpg"
+        },
+        {
+          "nameZh": "Harry Souttar",
+          "nameEn": "Harry Souttar",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/australia_harry-souttar.jpg"
+        },
+        {
+          "nameZh": "Riley McGree",
+          "nameEn": "Riley McGree",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/australia_riley-mcgree.jpg"
+        },
+        {
+          "nameZh": "Mitchell Duke",
+          "nameEn": "Mitchell Duke",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/australia_mitchell-duke.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "98万欧元",
+      "marketValueMillion": 98
+    },
+    "约旦": {
+      "coach": "Jamal Sellami",
+      "coachZh": "贾迈勒·塞拉米",
+      "squadStatus": "provisional",
+      "note": "2026-05-17 公布 30 人初选名单",
+      "goalkeepers": [
+        {
+          "nameZh": "Yazeed Abulaila",
+          "nameEn": "Yazeed Abulaila",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/jordan_yazeed-abulaila.jpg"
+        },
+        {
+          "nameZh": "Abdallah Al-Fakhouri",
+          "nameEn": "Abdallah Al-Fakhouri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Abdallah%20Al-Fakhouri&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Nour Bani Attiah",
+          "nameEn": "Nour Bani Attiah",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Nour%20Bani%20Attiah&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ahmad Al-Juaidi",
+          "nameEn": "Ahmad Al-Juaidi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ahmad%20Al-Juaidi&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Ihsan Haddad",
+          "nameEn": "Ihsan Haddad",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/jordan_ihsan-haddad.jpg"
+        },
+        {
+          "nameZh": "Yazan Al-Arab",
+          "nameEn": "Yazan Al-Arab",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/jordan_yazan-al-arab.jpg"
+        },
+        {
+          "nameZh": "Abdallah Nasib",
+          "nameEn": "Abdallah Nasib",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/jordan_abdallah-nasib.jpg"
+        },
+        {
+          "nameZh": "Saed Al-Rosan",
+          "nameEn": "Saed Al-Rosan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Saed%20Al-Rosan&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Husam Abu Dahab",
+          "nameEn": "Husam Abu Dahab",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Husam%20Abu%20Dahab&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mo Abualnadi",
+          "nameEn": "Mo Abualnadi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mo%20Abualnadi&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Salim Obaid",
+          "nameEn": "Salim Obaid",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Salim%20Obaid&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ahmad Assaf",
+          "nameEn": "Ahmad Assaf",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ahmad%20Assaf&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Anas Badawi",
+          "nameEn": "Anas Badawi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Anas%20Badawi&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Rajaei Ayed",
+          "nameEn": "Rajaei Ayed",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/jordan_rajaei-ayed.jpg"
+        },
+        {
+          "nameZh": "Noor Al-Rawabdeh",
+          "nameEn": "Noor Al-Rawabdeh",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Noor%20Al-Rawabdeh&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ibrahim Sadeh",
+          "nameEn": "Ibrahim Sadeh",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ibrahim%20Sadeh&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mohammad Abu Hashish",
+          "nameEn": "Mohammad Abu Hashish",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohammad%20Abu%20Hashish&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Nizar Al-Rashdan",
+          "nameEn": "Nizar Al-Rashdan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Nizar%20Al-Rashdan&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mohannad Abu Taha",
+          "nameEn": "Mohannad Abu Taha",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohannad%20Abu%20Taha&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Amer Jamous",
+          "nameEn": "Amer Jamous",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/jordan_amer-jamous.jpg"
+        },
+        {
+          "nameZh": "Mohammad Al-Dawoud",
+          "nameEn": "Mohammad Al-Dawoud",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohammad%20Al-Dawoud&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Yousef Qashi",
+          "nameEn": "Yousef Qashi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Yousef%20Qashi&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mohammad Taha",
+          "nameEn": "Mohammad Taha",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohammad%20Taha&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "穆萨·塔马里",
+          "nameEn": "Mousa Al-Taamari",
+          "clubZh": "雷恩",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/jordan_mousa-al-taamari.jpg"
+        },
+        {
+          "nameZh": "Mahmoud Al-Mardi",
+          "nameEn": "Mahmoud Al-Mardi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mahmoud%20Al-Mardi&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ali Olwan",
+          "nameEn": "Ali Olwan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ali%20Olwan&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Mohammad Abu Zrayq",
+          "nameEn": "Mohammad Abu Zrayq",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Mohammad%20Abu%20Zrayq&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ibrahim Sabra",
+          "nameEn": "Ibrahim Sabra",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ibrahim%20Sabra&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Odeh Al-Fakhouri",
+          "nameEn": "Odeh Al-Fakhouri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Odeh%20Al-Fakhouri&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ali Azaizeh",
+          "nameEn": "Ali Azaizeh",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ali%20Azaizeh&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "28万欧元",
+      "marketValueMillion": 28
+    },
+    "奥地利": {
+      "coach": "Ralf Rangnick",
+      "coachZh": "拉尔夫·朗尼克",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Patrick Pentz",
+          "nameEn": "Patrick Pentz",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_patrick-pentz.jpg"
+        },
+        {
+          "nameZh": "Alexander Schlager",
+          "nameEn": "Alexander Schlager",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_alexander-schlager.jpg"
+        },
+        {
+          "nameZh": "Florian Wiegele",
+          "nameEn": "Florian Wiegele",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_florian-wiegele.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "大卫·阿拉巴",
+          "nameEn": "David Alaba",
+          "clubZh": "皇家马德里",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/austria_david-alaba.jpg"
+        },
+        {
+          "nameZh": "Kevin Danso",
+          "nameEn": "Kevin Danso",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_kevin-danso.jpg"
+        },
+        {
+          "nameZh": "Philipp Lienhart",
+          "nameEn": "Philipp Lienhart",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_philipp-lienhart.jpg"
+        },
+        {
+          "nameZh": "Stefan Posch",
+          "nameEn": "Stefan Posch",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_stefan-posch.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "马塞尔·萨比策",
+          "nameEn": "Marcel Sabitzer",
+          "clubZh": "多特蒙德",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/austria_marcel-sabitzer.jpg"
+        },
+        {
+          "nameZh": "Christoph Baumgartner",
+          "nameEn": "Christoph Baumgartner",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_christoph-baumgartner.jpg"
+        },
+        {
+          "nameZh": "Konrad Laimer",
+          "nameEn": "Konrad Laimer",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_konrad-laimer.jpg"
+        },
+        {
+          "nameZh": "Florian Grillitsch",
+          "nameEn": "Florian Grillitsch",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_florian-grillitsch.jpg"
+        },
+        {
+          "nameZh": "Nicolas Seiwald",
+          "nameEn": "Nicolas Seiwald",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_nicolas-seiwald.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "马尔科·阿瑙托维奇",
+          "nameEn": "Marko Arnautović",
+          "clubZh": "贝尔格莱德红星",
+          "valueZh": "300万欧元",
+          "valueWan": 300,
+          "photo": "assets/players/austria_marko-arnautovic.jpg"
+        },
+        {
+          "nameZh": "Michael Gregoritsch",
+          "nameEn": "Michael Gregoritsch",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_michael-gregoritsch.jpg"
+        },
+        {
+          "nameZh": "Saša Kalajdžić",
+          "nameEn": "Saša Kalajdžić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/austria_sasa-kalajdzic.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "3.25亿欧元",
+      "marketValueMillion": 325
+    },
+    "阿尔及利亚": {
+      "coach": "Vladimir Petrović",
+      "coachZh": "弗拉基米尔·彼得罗维奇",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 31 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "Riyad Mahrez",
+          "nameEn": "Riyad Mahrez",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/algeria_riyad-mahrez.jpg"
+        },
+        {
+          "nameZh": "Youcef Atal",
+          "nameEn": "Youcef Atal",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/algeria_youcef-atal.jpg"
+        },
+        {
+          "nameZh": "Ismaël Bennacer",
+          "nameEn": "Ismaël Bennacer",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/algeria_ismael-bennacer.jpg"
+        },
+        {
+          "nameZh": "Amine Gouiri",
+          "nameEn": "Amine Gouiri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/algeria_amine-gouiri.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "1.85亿欧元",
+      "marketValueMillion": 185
+    },
+    "新西兰": {
+      "coach": "Darren Bazeley",
+      "coachZh": "达伦·贝兹利",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Max Crocombe",
+          "nameEn": "Max Crocombe",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_max-crocombe.jpg"
+        },
+        {
+          "nameZh": "Alex Paulsen",
+          "nameEn": "Alex Paulsen",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_alex-paulsen.jpg"
+        },
+        {
+          "nameZh": "Michael Woud",
+          "nameEn": "Michael Woud",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_michael-woud.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Liberato Cacace",
+          "nameEn": "Liberato Cacace",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_liberato-cacace.jpg"
+        },
+        {
+          "nameZh": "Tyler Bindon",
+          "nameEn": "Tyler Bindon",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_tyler-bindon.jpg"
+        },
+        {
+          "nameZh": "Finn Surman",
+          "nameEn": "Finn Surman",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_finn-surman.jpg"
+        },
+        {
+          "nameZh": "Michael Boxall",
+          "nameEn": "Michael Boxall",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_michael-boxall.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Joe Bell",
+          "nameEn": "Joe Bell",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_joe-bell.jpg"
+        },
+        {
+          "nameZh": "Marko Stamenić",
+          "nameEn": "Marko Stamenić",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_marko-stamenic.jpg"
+        },
+        {
+          "nameZh": "Ryan Thomas",
+          "nameEn": "Ryan Thomas",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_ryan-thomas.jpg"
+        },
+        {
+          "nameZh": "Alex Rufer",
+          "nameEn": "Alex Rufer",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_alex-rufer.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "克里斯·伍德",
+          "nameEn": "Chris Wood",
+          "clubZh": "诺丁汉森林",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/new-zealand_chris-wood.jpg"
+        },
+        {
+          "nameZh": "Ben Old",
+          "nameEn": "Ben Old",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_ben-old.jpg"
+        },
+        {
+          "nameZh": "Callum McCowatt",
+          "nameEn": "Callum McCowatt",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_callum-mccowatt.jpg"
+        },
+        {
+          "nameZh": "Kosta Barbarouses",
+          "nameEn": "Kosta Barbarouses",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/new-zealand_kosta-barbarouses.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "38万欧元",
+      "marketValueMillion": 38
+    },
+    "伊朗": {
+      "coach": "Amir Ghalenoei",
+      "coachZh": "阿米尔·加莱诺埃",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 6 月 1 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "迈赫迪·塔雷米",
+          "nameEn": "Mehdi Taremi",
+          "clubZh": "国际米兰",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/iran_mehdi-taremi.jpg"
+        },
+        {
+          "nameZh": "萨达尔·阿兹蒙",
+          "nameEn": "Sardar Azmoun",
+          "clubZh": "沙巴布",
+          "valueZh": "400万欧元",
+          "valueWan": 400,
+          "photo": "assets/players/iran_sardar-azmoun.jpg"
+        },
+        {
+          "nameZh": "Alireza Jahanbakhsh",
+          "nameEn": "Alireza Jahanbakhsh",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/iran_alireza-jahanbakhsh.jpg"
+        },
+        {
+          "nameZh": "Saeid Ezatolahi",
+          "nameEn": "Saeid Ezatolahi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/iran_saeid-ezatolahi.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "95万欧元",
+      "marketValueMillion": 95
+    },
+    "比利时": {
+      "coach": "Rudi Garcia",
+      "coachZh": "鲁迪·加西亚",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "蒂博·库尔图瓦",
+          "nameEn": "Thibaut Courtois",
+          "clubZh": "皇家马德里",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/belgium_thibaut-courtois.jpg"
+        },
+        {
+          "nameZh": "Senne Lammens",
+          "nameEn": "Senne Lammens",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_senne-lammens.jpg"
+        },
+        {
+          "nameZh": "Mike Penders",
+          "nameEn": "Mike Penders",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_mike-penders.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Timothy Castagne",
+          "nameEn": "Timothy Castagne",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_timothy-castagne.jpg"
+        },
+        {
+          "nameZh": "Zeno Debast",
+          "nameEn": "Zeno Debast",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_zeno-debast.jpg"
+        },
+        {
+          "nameZh": "Arthur Theate",
+          "nameEn": "Arthur Theate",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_arthur-theate.jpg"
+        },
+        {
+          "nameZh": "Maxim De Cuyper",
+          "nameEn": "Maxim De Cuyper",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_maxim-de-cuyper.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "凯文·德布劳内",
+          "nameEn": "Kevin De Bruyne",
+          "clubZh": "那不勒斯",
+          "valueZh": "4000万欧元",
+          "valueWan": 4000,
+          "photo": "assets/players/belgium_kevin-de-bruyne.jpg"
+        },
+        {
+          "nameZh": "Youri Tielemans",
+          "nameEn": "Youri Tielemans",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_youri-tielemans.jpg"
+        },
+        {
+          "nameZh": "Amadou Onana",
+          "nameEn": "Amadou Onana",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_amadou-onana.jpg"
+        },
+        {
+          "nameZh": "Axel Witsel",
+          "nameEn": "Axel Witsel",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_axel-witsel.jpg"
+        },
+        {
+          "nameZh": "Hans Vanaken",
+          "nameEn": "Hans Vanaken",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_hans-vanaken.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "罗梅卢·卢卡库",
+          "nameEn": "Romelu Lukaku",
+          "clubZh": "那不勒斯",
+          "valueZh": "2500万欧元",
+          "valueWan": 2500,
+          "photo": "assets/players/belgium_romelu-lukaku.jpg"
+        },
+        {
+          "nameZh": "杰雷米·多库",
+          "nameEn": "Jeremy Doku",
+          "clubZh": "曼城",
+          "valueZh": "5500万欧元",
+          "valueWan": 5500,
+          "photo": "assets/players/belgium_jeremy-doku.jpg"
+        },
+        {
+          "nameZh": "莱昂德罗·特罗萨德",
+          "nameEn": "Leandro Trossard",
+          "clubZh": "阿森纳",
+          "valueZh": "3000万欧元",
+          "valueWan": 3000,
+          "photo": "assets/players/belgium_leandro-trossard.jpg"
+        },
+        {
+          "nameZh": "Charles De Ketelaere",
+          "nameEn": "Charles De Ketelaere",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/belgium_charles-de-ketelaere.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "4.50亿欧元",
+      "marketValueMillion": 450
+    },
+    "美国": {
+      "coach": "Mauricio Pochettino",
+      "coachZh": "毛里西奥·波切蒂诺",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 26 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "克里斯蒂安·普利西奇",
+          "nameEn": "Christian Pulisic",
+          "clubZh": "AC米兰",
+          "valueZh": "6000万欧元",
+          "valueWan": 6000,
+          "photo": "assets/players/united-states_christian-pulisic.jpg"
+        },
+        {
+          "nameZh": "Tyler Adams",
+          "nameEn": "Tyler Adams",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/united-states_tyler-adams.jpg"
+        },
+        {
+          "nameZh": "Weston McKennie",
+          "nameEn": "Weston McKennie",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/united-states_weston-mckennie.jpg"
+        },
+        {
+          "nameZh": "Giovanni Reyna",
+          "nameEn": "Giovanni Reyna",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/united-states_giovanni-reyna.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "3.60亿欧元",
+      "marketValueMillion": 360
+    },
+    "巴西": {
+      "coach": "Carlo Ancelotti",
+      "coachZh": "卡洛·安切洛蒂",
+      "squadStatus": "final",
+      "note": "2026-05-18 公布正式 26 人名单",
+      "goalkeepers": [
+        {
+          "nameZh": "阿利松",
+          "nameEn": "Alisson",
+          "clubZh": "利物浦",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/brazil_alisson.jpg"
+        },
+        {
+          "nameZh": "Ederson",
+          "nameEn": "Ederson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/brazil_ederson.jpg"
+        },
+        {
+          "nameZh": "Weverton",
+          "nameEn": "Weverton",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Weverton&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "马尔基尼奥斯",
+          "nameEn": "Marquinhos",
+          "clubZh": "巴黎圣日耳曼",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/brazil_marquinhos.jpg"
+        },
+        {
+          "nameZh": "Danilo",
+          "nameEn": "Danilo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/brazil_danilo.jpg"
+        },
+        {
+          "nameZh": "Alex Sandro",
+          "nameEn": "Alex Sandro",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Alex%20Sandro&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "加布里埃尔",
+          "nameEn": "Gabriel Magalhães",
+          "clubZh": "阿森纳",
+          "valueZh": "7500万欧元",
+          "valueWan": 7500,
+          "photo": "assets/players/brazil_gabriel-magalhaes.jpg"
+        },
+        {
+          "nameZh": "Bremer",
+          "nameEn": "Bremer",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Bremer&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Wesley",
+          "nameEn": "Wesley",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/brazil_wesley.jpg"
+        },
+        {
+          "nameZh": "Roger Ibañez",
+          "nameEn": "Roger Ibañez",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Roger%20Iba%C3%B1ez&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Douglas Santos",
+          "nameEn": "Douglas Santos",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Douglas%20Santos&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Léo Pereira",
+          "nameEn": "Léo Pereira",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=L%C3%A9o%20Pereira&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "卡塞米罗",
+          "nameEn": "Casemiro",
+          "clubZh": "曼联",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/brazil_casemiro.jpg"
+        },
+        {
+          "nameZh": "卢卡斯·帕奎塔",
+          "nameEn": "Lucas Paquetá",
+          "clubZh": "弗拉门戈",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/brazil_lucas-paqueta.jpg"
+        },
+        {
+          "nameZh": "布鲁诺·吉马良斯",
+          "nameEn": "Bruno Guimarães",
+          "clubZh": "纽卡斯尔",
+          "valueZh": "8000万欧元",
+          "valueWan": 8000,
+          "photo": "assets/players/brazil_bruno-guimaraes.jpg"
+        },
+        {
+          "nameZh": "Fabinho",
+          "nameEn": "Fabinho",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Fabinho&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Danilo Santos",
+          "nameEn": "Danilo Santos",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Danilo%20Santos&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "内马尔",
+          "nameEn": "Neymar",
+          "clubZh": "桑托斯",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/brazil_neymar.jpg"
+        },
+        {
+          "nameZh": "Vinícius Júnior",
+          "nameEn": "Vinícius Júnior",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Vin%C3%ADcius%20J%C3%BAnior&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "拉菲尼亚",
+          "nameEn": "Raphinha",
+          "clubZh": "巴塞罗那",
+          "valueZh": "8000万欧元",
+          "valueWan": 8000,
+          "photo": "assets/players/brazil_raphinha.jpg"
+        },
+        {
+          "nameZh": "Gabriel Martinelli",
+          "nameEn": "Gabriel Martinelli",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Gabriel%20Martinelli&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Matheus Cunha",
+          "nameEn": "Matheus Cunha",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Matheus%20Cunha&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Endrick",
+          "nameEn": "Endrick",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/brazil_endrick.jpg"
+        },
+        {
+          "nameZh": "Luiz Henrique",
+          "nameEn": "Luiz Henrique",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Luiz%20Henrique&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Igor Thiago",
+          "nameEn": "Igor Thiago",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Igor%20Thiago&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Rayan",
+          "nameEn": "Rayan",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Rayan&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "11.00亿欧元",
+      "marketValueMillion": 1100
+    },
+    "法国": {
+      "coach": "Didier Deschamps",
+      "coachZh": "迪迪埃·德尚",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "迈克·迈尼昂",
+          "nameEn": "Mike Maignan",
+          "clubZh": "AC米兰",
+          "valueZh": "3500万欧元",
+          "valueWan": 3500,
+          "photo": "assets/players/france_mike-maignan.jpg"
+        },
+        {
+          "nameZh": "Brice Samba",
+          "nameEn": "Brice Samba",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/france_brice-samba.jpg"
+        },
+        {
+          "nameZh": "Robin Risser",
+          "nameEn": "Robin Risser",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/france_robin-risser.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "威廉·萨利巴",
+          "nameEn": "William Saliba",
+          "clubZh": "阿森纳",
+          "valueZh": "8000万欧元",
+          "valueWan": 8000,
+          "photo": "assets/players/france_william-saliba.jpg"
+        },
+        {
+          "nameZh": "朱尔·孔德",
+          "nameEn": "Jules Koundé",
+          "clubZh": "巴塞罗那",
+          "valueZh": "6000万欧元",
+          "valueWan": 6000,
+          "photo": "assets/players/france_jules-kounde.jpg"
+        },
+        {
+          "nameZh": "达约·于帕梅卡诺",
+          "nameEn": "Dayot Upamecano",
+          "clubZh": "拜仁慕尼黑",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/france_dayot-upamecano.jpg"
+        },
+        {
+          "nameZh": "特奥·埃尔南德斯",
+          "nameEn": "Theo Hernández",
+          "clubZh": "利雅得新月",
+          "valueZh": "3000万欧元",
+          "valueWan": 3000,
+          "photo": "assets/players/france_theo-hernandez.jpg"
+        },
+        {
+          "nameZh": "卢卡斯·埃尔南德斯",
+          "nameEn": "Lucas Hernández",
+          "clubZh": "巴黎圣日耳曼",
+          "valueZh": "2500万欧元",
+          "valueWan": 2500,
+          "photo": "assets/players/france_lucas-hernandez.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "恩戈洛·坎特",
+          "nameEn": "N'Golo Kanté",
+          "clubZh": "费内巴切",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/france_n-golo-kante.jpg"
+        },
+        {
+          "nameZh": "奥雷利安·楚阿梅尼",
+          "nameEn": "Aurélien Tchouaméni",
+          "clubZh": "皇家马德里",
+          "valueZh": "9000万欧元",
+          "valueWan": 9000,
+          "photo": "assets/players/france_aurelien-tchouameni.jpg"
+        },
+        {
+          "nameZh": "阿德里安·拉比奥",
+          "nameEn": "Adrien Rabiot",
+          "clubZh": "AC米兰",
+          "valueZh": "2500万欧元",
+          "valueWan": 2500,
+          "photo": "assets/players/france_adrien-rabiot.jpg"
+        },
+        {
+          "nameZh": "Warren Zaïre-Emery",
+          "nameEn": "Warren Zaïre-Emery",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/france_warren-zaire-emery.jpg"
+        },
+        {
+          "nameZh": "Manu Koné",
+          "nameEn": "Manu Koné",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/france_manu-kone.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "基利安·姆巴佩",
+          "nameEn": "Kylian Mbappé",
+          "clubZh": "皇家马德里",
+          "valueZh": "1.80亿欧元",
+          "valueWan": 18000,
+          "photo": "assets/players/france_kylian-mbappe.jpg"
+        },
+        {
+          "nameZh": "奥斯曼·登贝莱",
+          "nameEn": "Ousmane Dembélé",
+          "clubZh": "巴黎圣日耳曼",
+          "valueZh": "9000万欧元",
+          "valueWan": 9000,
+          "photo": "assets/players/france_ousmane-dembele.jpg"
+        },
+        {
+          "nameZh": "迈克尔·奥利塞",
+          "nameEn": "Michael Olise",
+          "clubZh": "拜仁慕尼黑",
+          "valueZh": "1.30亿欧元",
+          "valueWan": 13000,
+          "photo": "assets/players/france_michael-olise.jpg"
+        },
+        {
+          "nameZh": "马库斯·图拉姆",
+          "nameEn": "Marcus Thuram",
+          "clubZh": "国际米兰",
+          "valueZh": "5500万欧元",
+          "valueWan": 5500,
+          "photo": "assets/players/france_marcus-thuram.jpg"
+        },
+        {
+          "nameZh": "德西雷·杜埃",
+          "nameEn": "Désiré Doué",
+          "clubZh": "巴黎圣日耳曼",
+          "valueZh": "9000万欧元",
+          "valueWan": 9000,
+          "photo": "assets/players/france_desire-doue.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "12.80亿欧元",
+      "marketValueMillion": 1280
+    },
+    "厄瓜多尔": {
+      "coach": "Sebastián Beccacece",
+      "coachZh": "塞巴斯蒂安·贝卡切切",
+      "squadStatus": "pending",
+      "keyPlayers": [
+        {
+          "nameZh": "恩纳·瓦伦西亚",
+          "nameEn": "Enner Valencia",
+          "clubZh": "巴西国际",
+          "valueZh": "200万欧元",
+          "valueWan": 200,
+          "photo": "assets/players/ecuador_enner-valencia.jpg"
+        },
+        {
+          "nameZh": "莫伊塞斯·凯塞多",
+          "nameEn": "Moisés Caicedo",
+          "clubZh": "切尔西",
+          "valueZh": "9000万欧元",
+          "valueWan": 9000,
+          "photo": "assets/players/ecuador_moises-caicedo.jpg"
+        },
+        {
+          "nameZh": "Pervis Estupiñán",
+          "nameEn": "Pervis Estupiñán",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ecuador_pervis-estupinan.jpg"
+        },
+        {
+          "nameZh": "Kendry Páez",
+          "nameEn": "Kendry Páez",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/ecuador_kendry-paez.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "2.25亿欧元",
+      "marketValueMillion": 225
+    },
+    "英格兰": {
+      "coach": "Thomas Tuchel",
+      "coachZh": "托马斯·图赫尔",
+      "squadStatus": "provisional",
+      "note": "55 人大名单已提交 FIFA，正式 26 人计划于 5 月 22 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "哈里·凯恩",
+          "nameEn": "Harry Kane",
+          "clubZh": "拜仁慕尼黑",
+          "valueZh": "9000万欧元",
+          "valueWan": 9000,
+          "photo": "assets/players/england_harry-kane.jpg"
+        },
+        {
+          "nameZh": "裘德·贝林厄姆",
+          "nameEn": "Jude Bellingham",
+          "clubZh": "皇家马德里",
+          "valueZh": "1.60亿欧元",
+          "valueWan": 16000,
+          "photo": "assets/players/england_jude-bellingham.jpg"
+        },
+        {
+          "nameZh": "菲尔·福登",
+          "nameEn": "Phil Foden",
+          "clubZh": "曼城",
+          "valueZh": "1.00亿欧元",
+          "valueWan": 10000,
+          "photo": "assets/players/england_phil-foden.jpg"
+        },
+        {
+          "nameZh": "德克兰·赖斯",
+          "nameEn": "Declan Rice",
+          "clubZh": "阿森纳",
+          "valueZh": "1.10亿欧元",
+          "valueWan": 11000,
+          "photo": "assets/players/england_declan-rice.jpg"
+        },
+        {
+          "nameZh": "布卡约·萨卡",
+          "nameEn": "Bukayo Saka",
+          "clubZh": "阿森纳",
+          "valueZh": "1.30亿欧元",
+          "valueWan": 13000,
+          "photo": "assets/players/england_bukayo-saka.jpg"
+        },
+        {
+          "nameZh": "特伦特·亚历山大-阿诺德",
+          "nameEn": "Trent Alexander-Arnold",
+          "clubZh": "皇家马德里",
+          "valueZh": "7500万欧元",
+          "valueWan": 7500,
+          "photo": "assets/players/england_trent-alexander-arnold.jpg"
+        },
+        {
+          "nameZh": "科尔·帕尔默",
+          "nameEn": "Cole Palmer",
+          "clubZh": "切尔西",
+          "valueZh": "1.20亿欧元",
+          "valueWan": 12000,
+          "photo": "assets/players/england_cole-palmer.jpg"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "13.00亿欧元",
+      "marketValueMillion": 1300
+    },
+    "苏格兰": {
+      "coach": "Steve Clarke",
+      "coachZh": "史蒂夫·克拉克",
+      "squadStatus": "final",
+      "note": "2026-05-19 公布正式 26 人名单",
+      "goalkeepers": [
+        {
+          "nameZh": "Craig Gordon",
+          "nameEn": "Craig Gordon",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Craig%20Gordon&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Angus Gunn",
+          "nameEn": "Angus Gunn",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Angus%20Gunn&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Liam Kelly",
+          "nameEn": "Liam Kelly",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Liam%20Kelly&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Andy Robertson",
+          "nameEn": "Andy Robertson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Andy%20Robertson&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Grant Hanley",
+          "nameEn": "Grant Hanley",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Grant%20Hanley&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Kieran Tierney",
+          "nameEn": "Kieran Tierney",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Kieran%20Tierney&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Scott McKenna",
+          "nameEn": "Scott McKenna",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Scott%20McKenna&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Jack Hendry",
+          "nameEn": "Jack Hendry",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jack%20Hendry&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Nathan Patterson",
+          "nameEn": "Nathan Patterson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Nathan%20Patterson&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Anthony Ralston",
+          "nameEn": "Anthony Ralston",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Anthony%20Ralston&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "John Souttar",
+          "nameEn": "John Souttar",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=John%20Souttar&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Aaron Hickey",
+          "nameEn": "Aaron Hickey",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Aaron%20Hickey&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Dominic Hyam",
+          "nameEn": "Dominic Hyam",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Dominic%20Hyam&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "约翰·麦金",
+          "nameEn": "John McGinn",
+          "clubZh": "阿斯顿维拉",
+          "valueZh": "2500万欧元",
+          "valueWan": 2500,
+          "photo": "assets/players/scotland_john-mcginn.jpg"
+        },
+        {
+          "nameZh": "斯科特·麦克托米奈",
+          "nameEn": "Scott McTominay",
+          "clubZh": "那不勒斯",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/scotland_scott-mctominay.jpg"
+        },
+        {
+          "nameZh": "Ryan Christie",
+          "nameEn": "Ryan Christie",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ryan%20Christie&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Kenny McLean",
+          "nameEn": "Kenny McLean",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Kenny%20McLean&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Billy Gilmour",
+          "nameEn": "Billy Gilmour",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Billy%20Gilmour&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Lewis Ferguson",
+          "nameEn": "Lewis Ferguson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Lewis%20Ferguson&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ben Gannon-Doak",
+          "nameEn": "Ben Gannon-Doak",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ben%20Gannon-Doak&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Findlay Curtis",
+          "nameEn": "Findlay Curtis",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Findlay%20Curtis&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Lyndon Dykes",
+          "nameEn": "Lyndon Dykes",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/scotland_lyndon-dykes.jpg"
+        },
+        {
+          "nameZh": "Ché Adams",
+          "nameEn": "Ché Adams",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ch%C3%A9%20Adams&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Lawrence Shankland",
+          "nameEn": "Lawrence Shankland",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Lawrence%20Shankland&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "George Hirst",
+          "nameEn": "George Hirst",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=George%20Hirst&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Ross Stewart",
+          "nameEn": "Ross Stewart",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Ross%20Stewart&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "1.85亿欧元",
+      "marketValueMillion": 185
+    },
+    "挪威": {
+      "coach": "Ståle Solbakken",
+      "coachZh": "斯塔尔·索尔斯克亚",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 21 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "埃尔林·哈兰德",
+          "nameEn": "Erling Haaland",
+          "clubZh": "曼城",
+          "valueZh": "1.80亿欧元",
+          "valueWan": 18000,
+          "photo": "assets/players/norway_erling-haaland.jpg"
+        },
+        {
+          "nameZh": "Martin Ødegaard",
+          "nameEn": "Martin Ødegaard",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/norway_martin-degaard.jpg"
+        },
+        {
+          "nameZh": "Alexander Sørloth",
+          "nameEn": "Alexander Sørloth",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/norway_alexander-s-rloth.jpg"
+        },
+        {
+          "nameZh": "Sander Berge",
+          "nameEn": "Sander Berge",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/norway_sander-berge.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "3.55亿欧元",
+      "marketValueMillion": 355
+    },
+    "库拉索": {
+      "coach": "Dick Advocaat",
+      "coachZh": "迪克·艾德沃卡特",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Tyrick Bodak",
+          "nameEn": "Tyrick Bodak",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_tyrick-bodak.jpg"
+        },
+        {
+          "nameZh": "Eloy Room",
+          "nameEn": "Eloy Room",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_eloy-room.jpg"
+        },
+        {
+          "nameZh": "Trevor Doornbusch",
+          "nameEn": "Trevor Doornbusch",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_trevor-doornbusch.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Riechedly Bazoer",
+          "nameEn": "Riechedly Bazoer",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_riechedly-bazoer.jpg"
+        },
+        {
+          "nameZh": "Sherel Floranus",
+          "nameEn": "Sherel Floranus",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_sherel-floranus.jpg"
+        },
+        {
+          "nameZh": "Shurandy Sambo",
+          "nameEn": "Shurandy Sambo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_shurandy-sambo.jpg"
+        },
+        {
+          "nameZh": "Juriën Gaari",
+          "nameEn": "Juriën Gaari",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_jurien-gaari.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Leandro Bacuna",
+          "nameEn": "Leandro Bacuna",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_leandro-bacuna.jpg"
+        },
+        {
+          "nameZh": "Tyrese Noslin",
+          "nameEn": "Tyrese Noslin",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_tyrese-noslin.jpg"
+        },
+        {
+          "nameZh": "Godfried Roemeratoe",
+          "nameEn": "Godfried Roemeratoe",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_godfried-roemeratoe.jpg"
+        },
+        {
+          "nameZh": "Juninho Bacuna",
+          "nameEn": "Juninho Bacuna",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_juninho-bacuna.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Cyle Larin",
+          "nameEn": "Cyle Larin",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_cyle-larin.jpg"
+        },
+        {
+          "nameZh": "Tahith Chong",
+          "nameEn": "Tahith Chong",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_tahith-chong.jpg"
+        },
+        {
+          "nameZh": "Jürgen Locadia",
+          "nameEn": "Jürgen Locadia",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_jurgen-locadia.jpg"
+        },
+        {
+          "nameZh": "Jearl Margaritha",
+          "nameEn": "Jearl Margaritha",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/curacao_jearl-margaritha.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "30万欧元",
+      "marketValueMillion": 30
+    },
+    "突尼斯": {
+      "coach": "Sabri Lamouchi",
+      "coachZh": "萨布里·拉穆奇",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Aymen Dahmen",
+          "nameEn": "Aymen Dahmen",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_aymen-dahmen.jpg"
+        },
+        {
+          "nameZh": "Sabri Ben Heesen",
+          "nameEn": "Sabri Ben Heesen",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Sabri%20Ben%20Heesen&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Abdelmouhib Chamakh",
+          "nameEn": "Abdelmouhib Chamakh",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_abdelmouhib-chamakh.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Montassar Talbi",
+          "nameEn": "Montassar Talbi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_montassar-talbi.jpg"
+        },
+        {
+          "nameZh": "Dylan Bronn",
+          "nameEn": "Dylan Bronn",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_dylan-bronn.jpg"
+        },
+        {
+          "nameZh": "Ali Abdi",
+          "nameEn": "Ali Abdi",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_ali-abdi.jpg"
+        },
+        {
+          "nameZh": "Yan Valery",
+          "nameEn": "Yan Valery",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_yan-valery.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "埃莱斯·斯基里",
+          "nameEn": "Ellyes Skhiri",
+          "clubZh": "法兰克福",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/tunisia_ellyes-skhiri.jpg"
+        },
+        {
+          "nameZh": "汉尼拔·梅布里",
+          "nameEn": "Hannibal Mejbri",
+          "clubZh": "伯恩利",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/tunisia_hannibal-mejbri.jpg"
+        },
+        {
+          "nameZh": "Aïssa Laïdouni",
+          "nameEn": "Aïssa Laïdouni",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_aissa-laidouni.jpg"
+        },
+        {
+          "nameZh": "Rani Khedira",
+          "nameEn": "Rani Khedira",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_rani-khedira.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "Elias Achouri",
+          "nameEn": "Elias Achouri",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_elias-achouri.jpg"
+        },
+        {
+          "nameZh": "Khalil Ayari",
+          "nameEn": "Khalil Ayari",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_khalil-ayari.jpg"
+        },
+        {
+          "nameZh": "Sebastian Tounekti",
+          "nameEn": "Sebastian Tounekti",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_sebastian-tounekti.jpg"
+        },
+        {
+          "nameZh": "Firas Chaouat",
+          "nameEn": "Firas Chaouat",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/tunisia_firas-chaouat.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "68万欧元",
+      "marketValueMillion": 68
+    },
+    "日本": {
+      "coach": "Hajime Moriyasu",
+      "coachZh": "森保一",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Zion Suzuki",
+          "nameEn": "Zion Suzuki",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_zion-suzuki.jpg"
+        },
+        {
+          "nameZh": "Keisuke Osako",
+          "nameEn": "Keisuke Osako",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_keisuke-osako.jpg"
+        },
+        {
+          "nameZh": "Tomoki Hayakawa",
+          "nameEn": "Tomoki Hayakawa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_tomoki-hayakawa.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Takehiro Tomiyasu",
+          "nameEn": "Takehiro Tomiyasu",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_takehiro-tomiyasu.jpg"
+        },
+        {
+          "nameZh": "Ko Itakura",
+          "nameEn": "Ko Itakura",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_ko-itakura.jpg"
+        },
+        {
+          "nameZh": "Hiroki Ito",
+          "nameEn": "Hiroki Ito",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_hiroki-ito.jpg"
+        },
+        {
+          "nameZh": "Yukinari Sugawara",
+          "nameEn": "Yukinari Sugawara",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_yukinari-sugawara.jpg"
+        },
+        {
+          "nameZh": "Tsuyoshi Watanabe",
+          "nameEn": "Tsuyoshi Watanabe",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_tsuyoshi-watanabe.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "远藤航",
+          "nameEn": "Wataru Endo",
+          "clubZh": "利物浦",
+          "valueZh": "800万欧元",
+          "valueWan": 800,
+          "photo": "assets/players/japan_wataru-endo.jpg"
+        },
+        {
+          "nameZh": "久保建英",
+          "nameEn": "Takefusa Kubo",
+          "clubZh": "皇家社会",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/japan_takefusa-kubo.jpg"
+        },
+        {
+          "nameZh": "堂安律",
+          "nameEn": "Ritsu Doan",
+          "clubZh": "法兰克福",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/japan_ritsu-doan.jpg"
+        },
+        {
+          "nameZh": "Kaishu Sano",
+          "nameEn": "Kaishu Sano",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_kaishu-sano.jpg"
+        },
+        {
+          "nameZh": "Daichi Kamada",
+          "nameEn": "Daichi Kamada",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_daichi-kamada.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "上田绮世",
+          "nameEn": "Ayase Ueda",
+          "clubZh": "费耶诺德",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/japan_ayase-ueda.jpg"
+        },
+        {
+          "nameZh": "Daizen Maeda",
+          "nameEn": "Daizen Maeda",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_daizen-maeda.jpg"
+        },
+        {
+          "nameZh": "Kōki Ogawa",
+          "nameEn": "Kōki Ogawa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_koki-ogawa.jpg"
+        },
+        {
+          "nameZh": "Keito Nakamura",
+          "nameEn": "Keito Nakamura",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/japan_keito-nakamura.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "1.85亿欧元",
+      "marketValueMillion": 185
+    },
+    "荷兰": {
+      "coach": "Ronald Koeman",
+      "coachZh": "罗纳德·科曼",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 27 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "维吉尔·范戴克",
+          "nameEn": "Virgil van Dijk",
+          "clubZh": "利物浦",
+          "valueZh": "2300万欧元",
+          "valueWan": 2300,
+          "photo": "assets/players/netherlands_virgil-van-dijk.jpg"
+        },
+        {
+          "nameZh": "孟菲斯·德佩",
+          "nameEn": "Memphis Depay",
+          "clubZh": "科林蒂安",
+          "valueZh": "600万欧元",
+          "valueWan": 600,
+          "photo": "assets/players/netherlands_memphis-depay.jpg"
+        },
+        {
+          "nameZh": "科迪·加克波",
+          "nameEn": "Cody Gakpo",
+          "clubZh": "利物浦",
+          "valueZh": "5500万欧元",
+          "valueWan": 5500,
+          "photo": "assets/players/netherlands_cody-gakpo.jpg"
+        },
+        {
+          "nameZh": "弗兰基·德容",
+          "nameEn": "Frenkie de Jong",
+          "clubZh": "巴塞罗那",
+          "valueZh": "4500万欧元",
+          "valueWan": 4500,
+          "photo": "assets/players/netherlands_frenkie-de-jong.jpg"
+        },
+        {
+          "nameZh": "Xavi Simons",
+          "nameEn": "Xavi Simons",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/netherlands_xavi-simons.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "7.50亿欧元",
+      "marketValueMillion": 750
+    },
+    "葡萄牙": {
+      "coach": "Roberto Martínez",
+      "coachZh": "罗伯托·马丁内斯",
+      "squadStatus": "provisional",
+      "note": "2026-05-19 前后公布初选/正式名单（下列为Olympics 整理名单）",
+      "goalkeepers": [
+        {
+          "nameZh": "Diogo Costa",
+          "nameEn": "Diogo Costa",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Diogo%20Costa&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "José Sá",
+          "nameEn": "José Sá",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jos%C3%A9%20S%C3%A1&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Rui Silva",
+          "nameEn": "Rui Silva",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Rui%20Silva&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Nuno Mendes",
+          "nameEn": "Nuno Mendes",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Nuno%20Mendes&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "João Cancelo",
+          "nameEn": "João Cancelo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jo%C3%A3o%20Cancelo&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Diogo Dalot",
+          "nameEn": "Diogo Dalot",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Diogo%20Dalot&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "鲁本·迪亚斯",
+          "nameEn": "Rúben Dias",
+          "clubZh": "曼城",
+          "valueZh": "6500万欧元",
+          "valueWan": 6500,
+          "photo": "assets/players/portugal_ruben-dias.jpg"
+        },
+        {
+          "nameZh": "Gonçalo Inácio",
+          "nameEn": "Gonçalo Inácio",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Gon%C3%A7alo%20In%C3%A1cio&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Nélson Semedo",
+          "nameEn": "Nélson Semedo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=N%C3%A9lson%20Semedo&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Matheus Nunes",
+          "nameEn": "Matheus Nunes",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Matheus%20Nunes&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Tomás Araújo",
+          "nameEn": "Tomás Araújo",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Tom%C3%A1s%20Ara%C3%BAjo&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "布鲁诺·费尔南德斯",
+          "nameEn": "Bruno Fernandes",
+          "clubZh": "曼联",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/portugal_bruno-fernandes.jpg"
+        },
+        {
+          "nameZh": "贝尔纳多·席尔瓦",
+          "nameEn": "Bernardo Silva",
+          "clubZh": "曼城",
+          "valueZh": "7000万欧元",
+          "valueWan": 7000,
+          "photo": "assets/players/portugal_bernardo-silva.jpg"
+        },
+        {
+          "nameZh": "Vitinha",
+          "nameEn": "Vitinha",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Vitinha&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "João Neves",
+          "nameEn": "João Neves",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jo%C3%A3o%20Neves&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Rúben Neves",
+          "nameEn": "Rúben Neves",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=R%C3%BAben%20Neves&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "C罗",
+          "nameEn": "Cristiano Ronaldo",
+          "clubZh": "利雅得胜利",
+          "valueZh": "1200万欧元",
+          "valueWan": 1200,
+          "photo": "assets/players/portugal_cristiano-ronaldo.jpg"
+        },
+        {
+          "nameZh": "Rafael Leão",
+          "nameEn": "Rafael Leão",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/portugal_rafael-leao.jpg"
+        },
+        {
+          "nameZh": "Pedro Neto",
+          "nameEn": "Pedro Neto",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Pedro%20Neto&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Francisco Conceição",
+          "nameEn": "Francisco Conceição",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Francisco%20Concei%C3%A7%C3%A3o&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "João Félix",
+          "nameEn": "João Félix",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Jo%C3%A3o%20F%C3%A9lix&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        },
+        {
+          "nameZh": "Gonçalo Ramos",
+          "nameEn": "Gonçalo Ramos",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "https://ui-avatars.com/api/?name=Gon%C3%A7alo%20Ramos&background=1e3a5f&color=e8edf5&size=128&bold=true"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "8.20亿欧元",
+      "marketValueMillion": 820
+    },
+    "瑞典": {
+      "coach": "Graham Potter",
+      "coachZh": "格雷厄姆·波特",
+      "squadStatus": "final",
+      "goalkeepers": [
+        {
+          "nameZh": "Viktor Johansson",
+          "nameEn": "Viktor Johansson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_viktor-johansson.jpg"
+        },
+        {
+          "nameZh": "Kristoffer Nordfeldt",
+          "nameEn": "Kristoffer Nordfeldt",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_kristoffer-nordfeldt.jpg"
+        },
+        {
+          "nameZh": "Jacob Widell Zetterström",
+          "nameEn": "Jacob Widell Zetterström",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_jacob-widell-zetterstrom.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "Victor Lindelöf",
+          "nameEn": "Victor Lindelöf",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_victor-lindelof.jpg"
+        },
+        {
+          "nameZh": "Isak Hien",
+          "nameEn": "Isak Hien",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_isak-hien.jpg"
+        },
+        {
+          "nameZh": "Gabriel Gudmundsson",
+          "nameEn": "Gabriel Gudmundsson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_gabriel-gudmundsson.jpg"
+        },
+        {
+          "nameZh": "Daniel Svensson",
+          "nameEn": "Daniel Svensson",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_daniel-svensson.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "Lucas Bergvall",
+          "nameEn": "Lucas Bergvall",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_lucas-bergvall.jpg"
+        },
+        {
+          "nameZh": "Yasin Ayari",
+          "nameEn": "Yasin Ayari",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_yasin-ayari.jpg"
+        },
+        {
+          "nameZh": "Mattias Svanberg",
+          "nameEn": "Mattias Svanberg",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_mattias-svanberg.jpg"
+        },
+        {
+          "nameZh": "Jesper Karlström",
+          "nameEn": "Jesper Karlström",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_jesper-karlstrom.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "亚历山大·伊萨克",
+          "nameEn": "Alexander Isak",
+          "clubZh": "利物浦",
+          "valueZh": "1.20亿欧元",
+          "valueWan": 12000,
+          "photo": "assets/players/sweden_alexander-isak.jpg"
+        },
+        {
+          "nameZh": "维克托·哲凯赖什",
+          "nameEn": "Viktor Gyökeres",
+          "clubZh": "阿森纳",
+          "valueZh": "7500万欧元",
+          "valueWan": 7500,
+          "photo": "assets/players/sweden_viktor-gyokeres.jpg"
+        },
+        {
+          "nameZh": "Anthony Elanga",
+          "nameEn": "Anthony Elanga",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_anthony-elanga.jpg"
+        },
+        {
+          "nameZh": "Benjamin Nygren",
+          "nameEn": "Benjamin Nygren",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/sweden_benjamin-nygren.jpg"
+        }
+      ],
+      "squadStatusLabel": "正式名单（26人）",
+      "marketValueZh": "4.25亿欧元",
+      "marketValueMillion": 425
+    },
+    "阿根廷": {
+      "coach": "Lionel Scaloni",
+      "coachZh": "利昂内尔·斯卡洛尼",
+      "squadStatus": "provisional",
+      "goalkeepers": [
+        {
+          "nameZh": "埃米利亚诺·马丁内斯",
+          "nameEn": "Emiliano Martínez",
+          "clubZh": "阿斯顿维拉",
+          "valueZh": "2000万欧元",
+          "valueWan": 2000,
+          "photo": "assets/players/argentina_emiliano-martinez.jpg"
+        },
+        {
+          "nameZh": "Geronimo Rulli",
+          "nameEn": "Geronimo Rulli",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/argentina_geronimo-rulli.jpg"
+        }
+      ],
+      "defenders": [
+        {
+          "nameZh": "克里斯蒂安·罗梅罗",
+          "nameEn": "Cristian Romero",
+          "clubZh": "热刺",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/argentina_cristian-romero.jpg"
+        },
+        {
+          "nameZh": "利桑德罗·马丁内斯",
+          "nameEn": "Lisandro Martínez",
+          "clubZh": "曼联",
+          "valueZh": "4000万欧元",
+          "valueWan": 4000,
+          "photo": "assets/players/argentina_lisandro-martinez.jpg"
+        },
+        {
+          "nameZh": "尼古拉斯·奥塔门迪",
+          "nameEn": "Nicolás Otamendi",
+          "clubZh": "本菲卡",
+          "valueZh": "200万欧元",
+          "valueWan": 200,
+          "photo": "assets/players/argentina_nicolas-otamendi.jpg"
+        },
+        {
+          "nameZh": "Nahuel Molina",
+          "nameEn": "Nahuel Molina",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/argentina_nahuel-molina.jpg"
+        }
+      ],
+      "midfielders": [
+        {
+          "nameZh": "恩佐·费尔南德斯",
+          "nameEn": "Enzo Fernández",
+          "clubZh": "切尔西",
+          "valueZh": "7500万欧元",
+          "valueWan": 7500,
+          "photo": "assets/players/argentina_enzo-fernandez.jpg"
+        },
+        {
+          "nameZh": "亚历克西斯·麦卡利斯特",
+          "nameEn": "Alexis Mac Allister",
+          "clubZh": "利物浦",
+          "valueZh": "9000万欧元",
+          "valueWan": 9000,
+          "photo": "assets/players/argentina_alexis-mac-allister.jpg"
+        },
+        {
+          "nameZh": "罗德里戈·德保罗",
+          "nameEn": "Rodrigo De Paul",
+          "clubZh": "迈阿密国际",
+          "valueZh": "2500万欧元",
+          "valueWan": 2500,
+          "photo": "assets/players/argentina_rodrigo-de-paul.jpg"
+        },
+        {
+          "nameZh": "Giovani Lo Celso",
+          "nameEn": "Giovani Lo Celso",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/argentina_giovani-lo-celso.jpg"
+        }
+      ],
+      "forwards": [
+        {
+          "nameZh": "梅西",
+          "nameEn": "Lionel Messi",
+          "clubZh": "迈阿密国际",
+          "valueZh": "1500万欧元",
+          "valueWan": 1500,
+          "photo": "assets/players/argentina_lionel-messi.jpg"
+        },
+        {
+          "nameZh": "劳塔罗·马丁内斯",
+          "nameEn": "Lautaro Martínez",
+          "clubZh": "国际米兰",
+          "valueZh": "9500万欧元",
+          "valueWan": 9500,
+          "photo": "assets/players/argentina_lautaro-martinez.jpg"
+        },
+        {
+          "nameZh": "胡利安·阿尔瓦雷斯",
+          "nameEn": "Julián Álvarez",
+          "clubZh": "马德里竞技",
+          "valueZh": "1.00亿欧元",
+          "valueWan": 10000,
+          "photo": "assets/players/argentina_julian-alvarez.jpg"
+        },
+        {
+          "nameZh": "亚历杭德罗·加纳乔",
+          "nameEn": "Alejandro Garnacho",
+          "clubZh": "切尔西",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/argentina_alejandro-garnacho.jpg"
+        },
+        {
+          "nameZh": "Thiago Almada",
+          "nameEn": "Thiago Almada",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/argentina_thiago-almada.jpg"
+        }
+      ],
+      "squadStatusLabel": "初选大名单",
+      "marketValueZh": "9.50亿欧元",
+      "marketValueMillion": 950
+    },
+    "埃及": {
+      "coach": "Hossam Hassan",
+      "coachZh": "侯赛姆·哈桑",
+      "squadStatus": "pending",
+      "note": "正式名单计划于 5 月 29 日公布",
+      "keyPlayers": [
+        {
+          "nameZh": "穆罕默德·萨拉赫",
+          "nameEn": "Mohamed Salah",
+          "clubZh": "利物浦",
+          "valueZh": "5000万欧元",
+          "valueWan": 5000,
+          "photo": "assets/players/egypt_mohamed-salah.jpg"
+        },
+        {
+          "nameZh": "Omar Marmoush",
+          "nameEn": "Omar Marmoush",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/egypt_omar-marmoush.jpg"
+        },
+        {
+          "nameZh": "Mohamed Elneny",
+          "nameEn": "Mohamed Elneny",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/egypt_mohamed-elneny.jpg"
+        },
+        {
+          "nameZh": "Trézéguet",
+          "nameEn": "Trézéguet",
+          "clubZh": "",
+          "valueZh": "—",
+          "valueWan": 0,
+          "photo": "assets/players/egypt_trezeguet.jpg"
+        }
+      ],
+      "squadStatusLabel": "名单待公布",
+      "marketValueZh": "1.25亿欧元",
+      "marketValueMillion": 125
+    }
+  }
+}

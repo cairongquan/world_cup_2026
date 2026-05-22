@@ -1,0 +1,734 @@
+{
+  "_meta": {
+    "description": "2026世界杯参赛队国旗映射",
+    "source": "https://flagcdn.com",
+    "format": "png",
+    "width": 320,
+    "teamCount": 48,
+    "generatedAt": "2026-05-19T08:44:49.613Z"
+  },
+  "teams": {
+    "墨西哥": {
+      "iso": "mx",
+      "nameEn": "Mexico",
+      "localPath": "assets/flags/mx.png",
+      "cdnUrl": "https://flagcdn.com/w320/mx.png",
+      "format": "png"
+    },
+    "南非": {
+      "iso": "za",
+      "nameEn": "South Africa",
+      "localPath": "assets/flags/za.png",
+      "cdnUrl": "https://flagcdn.com/w320/za.png",
+      "format": "png"
+    },
+    "捷克": {
+      "iso": "cz",
+      "nameEn": "Czechia",
+      "localPath": "assets/flags/cz.png",
+      "cdnUrl": "https://flagcdn.com/w320/cz.png",
+      "format": "png"
+    },
+    "哥伦比亚": {
+      "iso": "co",
+      "nameEn": "Colombia",
+      "localPath": "assets/flags/co.png",
+      "cdnUrl": "https://flagcdn.com/w320/co.png",
+      "format": "png"
+    },
+    "乌兹别克": {
+      "iso": "uz",
+      "nameEn": "Uzbekistan",
+      "localPath": "assets/flags/uz.png",
+      "cdnUrl": "https://flagcdn.com/w320/uz.png",
+      "format": "png"
+    },
+    "韩国": {
+      "iso": "kr",
+      "nameEn": "South Korea",
+      "localPath": "assets/flags/kr.png",
+      "cdnUrl": "https://flagcdn.com/w320/kr.png",
+      "format": "png"
+    },
+    "刚果(金)": {
+      "iso": "cd",
+      "nameEn": "DR Congo",
+      "localPath": "assets/flags/cd.png",
+      "cdnUrl": "https://flagcdn.com/w320/cd.png",
+      "format": "png"
+    },
+    "西班牙": {
+      "iso": "es",
+      "nameEn": "Spain",
+      "localPath": "assets/flags/es.png",
+      "cdnUrl": "https://flagcdn.com/w320/es.png",
+      "format": "png"
+    },
+    "乌拉圭": {
+      "iso": "uy",
+      "nameEn": "Uruguay",
+      "localPath": "assets/flags/uy.png",
+      "cdnUrl": "https://flagcdn.com/w320/uy.png",
+      "format": "png"
+    },
+    "佛得角": {
+      "iso": "cv",
+      "nameEn": "Cape Verde",
+      "localPath": "assets/flags/cv.png",
+      "cdnUrl": "https://flagcdn.com/w320/cv.png",
+      "format": "png"
+    },
+    "沙特": {
+      "iso": "sa",
+      "nameEn": "Saudi Arabia",
+      "localPath": "assets/flags/sa.png",
+      "cdnUrl": "https://flagcdn.com/w320/sa.png",
+      "format": "png"
+    },
+    "海地": {
+      "iso": "ht",
+      "nameEn": "Haiti",
+      "localPath": "assets/flags/ht.png",
+      "cdnUrl": "https://flagcdn.com/w320/ht.png",
+      "format": "png"
+    },
+    "摩洛哥": {
+      "iso": "ma",
+      "nameEn": "Morocco",
+      "localPath": "assets/flags/ma.png",
+      "cdnUrl": "https://flagcdn.com/w320/ma.png",
+      "format": "png"
+    },
+    "波黑": {
+      "iso": "ba",
+      "nameEn": "Bosnia and Herzegovina",
+      "localPath": "assets/flags/ba.png",
+      "cdnUrl": "https://flagcdn.com/w320/ba.png",
+      "format": "png"
+    },
+    "加拿大": {
+      "iso": "ca",
+      "nameEn": "Canada",
+      "localPath": "assets/flags/ca.png",
+      "cdnUrl": "https://flagcdn.com/w320/ca.png",
+      "format": "png"
+    },
+    "瑞士": {
+      "iso": "ch",
+      "nameEn": "Switzerland",
+      "localPath": "assets/flags/ch.png",
+      "cdnUrl": "https://flagcdn.com/w320/ch.png",
+      "format": "png"
+    },
+    "巴拿马": {
+      "iso": "pa",
+      "nameEn": "Panama",
+      "localPath": "assets/flags/pa.png",
+      "cdnUrl": "https://flagcdn.com/w320/pa.png",
+      "format": "png"
+    },
+    "加纳": {
+      "iso": "gh",
+      "nameEn": "Ghana",
+      "localPath": "assets/flags/gh.png",
+      "cdnUrl": "https://flagcdn.com/w320/gh.png",
+      "format": "png"
+    },
+    "科特迪瓦": {
+      "iso": "ci",
+      "nameEn": "Ivory Coast",
+      "localPath": "assets/flags/ci.png",
+      "cdnUrl": "https://flagcdn.com/w320/ci.png",
+      "format": "png"
+    },
+    "德国": {
+      "iso": "de",
+      "nameEn": "Germany",
+      "localPath": "assets/flags/de.png",
+      "cdnUrl": "https://flagcdn.com/w320/de.png",
+      "format": "png"
+    },
+    "克罗地亚": {
+      "iso": "hr",
+      "nameEn": "Croatia",
+      "localPath": "assets/flags/hr.png",
+      "cdnUrl": "https://flagcdn.com/w320/hr.png",
+      "format": "png"
+    },
+    "伊拉克": {
+      "iso": "iq",
+      "nameEn": "Iraq",
+      "localPath": "assets/flags/iq.png",
+      "cdnUrl": "https://flagcdn.com/w320/iq.png",
+      "format": "png"
+    },
+    "塞内加尔": {
+      "iso": "sn",
+      "nameEn": "Senegal",
+      "localPath": "assets/flags/sn.png",
+      "cdnUrl": "https://flagcdn.com/w320/sn.png",
+      "format": "png"
+    },
+    "卡塔尔": {
+      "iso": "qa",
+      "nameEn": "Qatar",
+      "localPath": "assets/flags/qa.png",
+      "cdnUrl": "https://flagcdn.com/w320/qa.png",
+      "format": "png"
+    },
+    "巴拉圭": {
+      "iso": "py",
+      "nameEn": "Paraguay",
+      "localPath": "assets/flags/py.png",
+      "cdnUrl": "https://flagcdn.com/w320/py.png",
+      "format": "png"
+    },
+    "土耳其": {
+      "iso": "tr",
+      "nameEn": "Türkiye",
+      "localPath": "assets/flags/tr.png",
+      "cdnUrl": "https://flagcdn.com/w320/tr.png",
+      "format": "png"
+    },
+    "澳大利亚": {
+      "iso": "au",
+      "nameEn": "Australia",
+      "localPath": "assets/flags/au.png",
+      "cdnUrl": "https://flagcdn.com/w320/au.png",
+      "format": "png"
+    },
+    "约旦": {
+      "iso": "jo",
+      "nameEn": "Jordan",
+      "localPath": "assets/flags/jo.png",
+      "cdnUrl": "https://flagcdn.com/w320/jo.png",
+      "format": "png"
+    },
+    "奥地利": {
+      "iso": "at",
+      "nameEn": "Austria",
+      "localPath": "assets/flags/at.png",
+      "cdnUrl": "https://flagcdn.com/w320/at.png",
+      "format": "png"
+    },
+    "阿尔及利亚": {
+      "iso": "dz",
+      "nameEn": "Algeria",
+      "localPath": "assets/flags/dz.png",
+      "cdnUrl": "https://flagcdn.com/w320/dz.png",
+      "format": "png"
+    },
+    "新西兰": {
+      "iso": "nz",
+      "nameEn": "New Zealand",
+      "localPath": "assets/flags/nz.png",
+      "cdnUrl": "https://flagcdn.com/w320/nz.png",
+      "format": "png"
+    },
+    "伊朗": {
+      "iso": "ir",
+      "nameEn": "Iran",
+      "localPath": "assets/flags/ir.png",
+      "cdnUrl": "https://flagcdn.com/w320/ir.png",
+      "format": "png"
+    },
+    "比利时": {
+      "iso": "be",
+      "nameEn": "Belgium",
+      "localPath": "assets/flags/be.png",
+      "cdnUrl": "https://flagcdn.com/w320/be.png",
+      "format": "png"
+    },
+    "美国": {
+      "iso": "us",
+      "nameEn": "United States",
+      "localPath": "assets/flags/us.png",
+      "cdnUrl": "https://flagcdn.com/w320/us.png",
+      "format": "png"
+    },
+    "巴西": {
+      "iso": "br",
+      "nameEn": "Brazil",
+      "localPath": "assets/flags/br.png",
+      "cdnUrl": "https://flagcdn.com/w320/br.png",
+      "format": "png"
+    },
+    "法国": {
+      "iso": "fr",
+      "nameEn": "France",
+      "localPath": "assets/flags/fr.png",
+      "cdnUrl": "https://flagcdn.com/w320/fr.png",
+      "format": "png"
+    },
+    "厄瓜多尔": {
+      "iso": "ec",
+      "nameEn": "Ecuador",
+      "localPath": "assets/flags/ec.png",
+      "cdnUrl": "https://flagcdn.com/w320/ec.png",
+      "format": "png"
+    },
+    "英格兰": {
+      "iso": "gb-eng",
+      "nameEn": "England",
+      "localPath": "assets/flags/gb_eng.png",
+      "cdnUrl": "https://flagcdn.com/w320/gb-eng.png",
+      "format": "png"
+    },
+    "苏格兰": {
+      "iso": "gb-sct",
+      "nameEn": "Scotland",
+      "localPath": "assets/flags/gb_sct.png",
+      "cdnUrl": "https://flagcdn.com/w320/gb-sct.png",
+      "format": "png"
+    },
+    "挪威": {
+      "iso": "no",
+      "nameEn": "Norway",
+      "localPath": "assets/flags/no.png",
+      "cdnUrl": "https://flagcdn.com/w320/no.png",
+      "format": "png"
+    },
+    "库拉索": {
+      "iso": "cw",
+      "nameEn": "Curaçao",
+      "localPath": "assets/flags/cw.png",
+      "cdnUrl": "https://flagcdn.com/w320/cw.png",
+      "format": "png"
+    },
+    "突尼斯": {
+      "iso": "tn",
+      "nameEn": "Tunisia",
+      "localPath": "assets/flags/tn.png",
+      "cdnUrl": "https://flagcdn.com/w320/tn.png",
+      "format": "png"
+    },
+    "日本": {
+      "iso": "jp",
+      "nameEn": "Japan",
+      "localPath": "assets/flags/jp.png",
+      "cdnUrl": "https://flagcdn.com/w320/jp.png",
+      "format": "png"
+    },
+    "荷兰": {
+      "iso": "nl",
+      "nameEn": "Netherlands",
+      "localPath": "assets/flags/nl.png",
+      "cdnUrl": "https://flagcdn.com/w320/nl.png",
+      "format": "png"
+    },
+    "葡萄牙": {
+      "iso": "pt",
+      "nameEn": "Portugal",
+      "localPath": "assets/flags/pt.png",
+      "cdnUrl": "https://flagcdn.com/w320/pt.png",
+      "format": "png"
+    },
+    "瑞典": {
+      "iso": "se",
+      "nameEn": "Sweden",
+      "localPath": "assets/flags/se.png",
+      "cdnUrl": "https://flagcdn.com/w320/se.png",
+      "format": "png"
+    },
+    "阿根廷": {
+      "iso": "ar",
+      "nameEn": "Argentina",
+      "localPath": "assets/flags/ar.png",
+      "cdnUrl": "https://flagcdn.com/w320/ar.png",
+      "format": "png"
+    },
+    "埃及": {
+      "iso": "eg",
+      "nameEn": "Egypt",
+      "localPath": "assets/flags/eg.png",
+      "cdnUrl": "https://flagcdn.com/w320/eg.png",
+      "format": "png"
+    }
+  },
+  "list": [
+    {
+      "id": "阿尔及利亚",
+      "iso": "dz",
+      "nameEn": "Algeria",
+      "localPath": "assets/flags/dz.png",
+      "cdnUrl": "https://flagcdn.com/w320/dz.png",
+      "format": "png"
+    },
+    {
+      "id": "阿根廷",
+      "iso": "ar",
+      "nameEn": "Argentina",
+      "localPath": "assets/flags/ar.png",
+      "cdnUrl": "https://flagcdn.com/w320/ar.png",
+      "format": "png"
+    },
+    {
+      "id": "埃及",
+      "iso": "eg",
+      "nameEn": "Egypt",
+      "localPath": "assets/flags/eg.png",
+      "cdnUrl": "https://flagcdn.com/w320/eg.png",
+      "format": "png"
+    },
+    {
+      "id": "奥地利",
+      "iso": "at",
+      "nameEn": "Austria",
+      "localPath": "assets/flags/at.png",
+      "cdnUrl": "https://flagcdn.com/w320/at.png",
+      "format": "png"
+    },
+    {
+      "id": "澳大利亚",
+      "iso": "au",
+      "nameEn": "Australia",
+      "localPath": "assets/flags/au.png",
+      "cdnUrl": "https://flagcdn.com/w320/au.png",
+      "format": "png"
+    },
+    {
+      "id": "巴拉圭",
+      "iso": "py",
+      "nameEn": "Paraguay",
+      "localPath": "assets/flags/py.png",
+      "cdnUrl": "https://flagcdn.com/w320/py.png",
+      "format": "png"
+    },
+    {
+      "id": "巴拿马",
+      "iso": "pa",
+      "nameEn": "Panama",
+      "localPath": "assets/flags/pa.png",
+      "cdnUrl": "https://flagcdn.com/w320/pa.png",
+      "format": "png"
+    },
+    {
+      "id": "巴西",
+      "iso": "br",
+      "nameEn": "Brazil",
+      "localPath": "assets/flags/br.png",
+      "cdnUrl": "https://flagcdn.com/w320/br.png",
+      "format": "png"
+    },
+    {
+      "id": "比利时",
+      "iso": "be",
+      "nameEn": "Belgium",
+      "localPath": "assets/flags/be.png",
+      "cdnUrl": "https://flagcdn.com/w320/be.png",
+      "format": "png"
+    },
+    {
+      "id": "波黑",
+      "iso": "ba",
+      "nameEn": "Bosnia and Herzegovina",
+      "localPath": "assets/flags/ba.png",
+      "cdnUrl": "https://flagcdn.com/w320/ba.png",
+      "format": "png"
+    },
+    {
+      "id": "德国",
+      "iso": "de",
+      "nameEn": "Germany",
+      "localPath": "assets/flags/de.png",
+      "cdnUrl": "https://flagcdn.com/w320/de.png",
+      "format": "png"
+    },
+    {
+      "id": "厄瓜多尔",
+      "iso": "ec",
+      "nameEn": "Ecuador",
+      "localPath": "assets/flags/ec.png",
+      "cdnUrl": "https://flagcdn.com/w320/ec.png",
+      "format": "png"
+    },
+    {
+      "id": "法国",
+      "iso": "fr",
+      "nameEn": "France",
+      "localPath": "assets/flags/fr.png",
+      "cdnUrl": "https://flagcdn.com/w320/fr.png",
+      "format": "png"
+    },
+    {
+      "id": "佛得角",
+      "iso": "cv",
+      "nameEn": "Cape Verde",
+      "localPath": "assets/flags/cv.png",
+      "cdnUrl": "https://flagcdn.com/w320/cv.png",
+      "format": "png"
+    },
+    {
+      "id": "刚果(金)",
+      "iso": "cd",
+      "nameEn": "DR Congo",
+      "localPath": "assets/flags/cd.png",
+      "cdnUrl": "https://flagcdn.com/w320/cd.png",
+      "format": "png"
+    },
+    {
+      "id": "哥伦比亚",
+      "iso": "co",
+      "nameEn": "Colombia",
+      "localPath": "assets/flags/co.png",
+      "cdnUrl": "https://flagcdn.com/w320/co.png",
+      "format": "png"
+    },
+    {
+      "id": "海地",
+      "iso": "ht",
+      "nameEn": "Haiti",
+      "localPath": "assets/flags/ht.png",
+      "cdnUrl": "https://flagcdn.com/w320/ht.png",
+      "format": "png"
+    },
+    {
+      "id": "韩国",
+      "iso": "kr",
+      "nameEn": "South Korea",
+      "localPath": "assets/flags/kr.png",
+      "cdnUrl": "https://flagcdn.com/w320/kr.png",
+      "format": "png"
+    },
+    {
+      "id": "荷兰",
+      "iso": "nl",
+      "nameEn": "Netherlands",
+      "localPath": "assets/flags/nl.png",
+      "cdnUrl": "https://flagcdn.com/w320/nl.png",
+      "format": "png"
+    },
+    {
+      "id": "加拿大",
+      "iso": "ca",
+      "nameEn": "Canada",
+      "localPath": "assets/flags/ca.png",
+      "cdnUrl": "https://flagcdn.com/w320/ca.png",
+      "format": "png"
+    },
+    {
+      "id": "加纳",
+      "iso": "gh",
+      "nameEn": "Ghana",
+      "localPath": "assets/flags/gh.png",
+      "cdnUrl": "https://flagcdn.com/w320/gh.png",
+      "format": "png"
+    },
+    {
+      "id": "捷克",
+      "iso": "cz",
+      "nameEn": "Czechia",
+      "localPath": "assets/flags/cz.png",
+      "cdnUrl": "https://flagcdn.com/w320/cz.png",
+      "format": "png"
+    },
+    {
+      "id": "卡塔尔",
+      "iso": "qa",
+      "nameEn": "Qatar",
+      "localPath": "assets/flags/qa.png",
+      "cdnUrl": "https://flagcdn.com/w320/qa.png",
+      "format": "png"
+    },
+    {
+      "id": "科特迪瓦",
+      "iso": "ci",
+      "nameEn": "Ivory Coast",
+      "localPath": "assets/flags/ci.png",
+      "cdnUrl": "https://flagcdn.com/w320/ci.png",
+      "format": "png"
+    },
+    {
+      "id": "克罗地亚",
+      "iso": "hr",
+      "nameEn": "Croatia",
+      "localPath": "assets/flags/hr.png",
+      "cdnUrl": "https://flagcdn.com/w320/hr.png",
+      "format": "png"
+    },
+    {
+      "id": "库拉索",
+      "iso": "cw",
+      "nameEn": "Curaçao",
+      "localPath": "assets/flags/cw.png",
+      "cdnUrl": "https://flagcdn.com/w320/cw.png",
+      "format": "png"
+    },
+    {
+      "id": "美国",
+      "iso": "us",
+      "nameEn": "United States",
+      "localPath": "assets/flags/us.png",
+      "cdnUrl": "https://flagcdn.com/w320/us.png",
+      "format": "png"
+    },
+    {
+      "id": "摩洛哥",
+      "iso": "ma",
+      "nameEn": "Morocco",
+      "localPath": "assets/flags/ma.png",
+      "cdnUrl": "https://flagcdn.com/w320/ma.png",
+      "format": "png"
+    },
+    {
+      "id": "墨西哥",
+      "iso": "mx",
+      "nameEn": "Mexico",
+      "localPath": "assets/flags/mx.png",
+      "cdnUrl": "https://flagcdn.com/w320/mx.png",
+      "format": "png"
+    },
+    {
+      "id": "南非",
+      "iso": "za",
+      "nameEn": "South Africa",
+      "localPath": "assets/flags/za.png",
+      "cdnUrl": "https://flagcdn.com/w320/za.png",
+      "format": "png"
+    },
+    {
+      "id": "挪威",
+      "iso": "no",
+      "nameEn": "Norway",
+      "localPath": "assets/flags/no.png",
+      "cdnUrl": "https://flagcdn.com/w320/no.png",
+      "format": "png"
+    },
+    {
+      "id": "葡萄牙",
+      "iso": "pt",
+      "nameEn": "Portugal",
+      "localPath": "assets/flags/pt.png",
+      "cdnUrl": "https://flagcdn.com/w320/pt.png",
+      "format": "png"
+    },
+    {
+      "id": "日本",
+      "iso": "jp",
+      "nameEn": "Japan",
+      "localPath": "assets/flags/jp.png",
+      "cdnUrl": "https://flagcdn.com/w320/jp.png",
+      "format": "png"
+    },
+    {
+      "id": "瑞典",
+      "iso": "se",
+      "nameEn": "Sweden",
+      "localPath": "assets/flags/se.png",
+      "cdnUrl": "https://flagcdn.com/w320/se.png",
+      "format": "png"
+    },
+    {
+      "id": "瑞士",
+      "iso": "ch",
+      "nameEn": "Switzerland",
+      "localPath": "assets/flags/ch.png",
+      "cdnUrl": "https://flagcdn.com/w320/ch.png",
+      "format": "png"
+    },
+    {
+      "id": "塞内加尔",
+      "iso": "sn",
+      "nameEn": "Senegal",
+      "localPath": "assets/flags/sn.png",
+      "cdnUrl": "https://flagcdn.com/w320/sn.png",
+      "format": "png"
+    },
+    {
+      "id": "沙特",
+      "iso": "sa",
+      "nameEn": "Saudi Arabia",
+      "localPath": "assets/flags/sa.png",
+      "cdnUrl": "https://flagcdn.com/w320/sa.png",
+      "format": "png"
+    },
+    {
+      "id": "苏格兰",
+      "iso": "gb-sct",
+      "nameEn": "Scotland",
+      "localPath": "assets/flags/gb_sct.png",
+      "cdnUrl": "https://flagcdn.com/w320/gb-sct.png",
+      "format": "png"
+    },
+    {
+      "id": "突尼斯",
+      "iso": "tn",
+      "nameEn": "Tunisia",
+      "localPath": "assets/flags/tn.png",
+      "cdnUrl": "https://flagcdn.com/w320/tn.png",
+      "format": "png"
+    },
+    {
+      "id": "土耳其",
+      "iso": "tr",
+      "nameEn": "Türkiye",
+      "localPath": "assets/flags/tr.png",
+      "cdnUrl": "https://flagcdn.com/w320/tr.png",
+      "format": "png"
+    },
+    {
+      "id": "乌拉圭",
+      "iso": "uy",
+      "nameEn": "Uruguay",
+      "localPath": "assets/flags/uy.png",
+      "cdnUrl": "https://flagcdn.com/w320/uy.png",
+      "format": "png"
+    },
+    {
+      "id": "乌兹别克",
+      "iso": "uz",
+      "nameEn": "Uzbekistan",
+      "localPath": "assets/flags/uz.png",
+      "cdnUrl": "https://flagcdn.com/w320/uz.png",
+      "format": "png"
+    },
+    {
+      "id": "西班牙",
+      "iso": "es",
+      "nameEn": "Spain",
+      "localPath": "assets/flags/es.png",
+      "cdnUrl": "https://flagcdn.com/w320/es.png",
+      "format": "png"
+    },
+    {
+      "id": "新西兰",
+      "iso": "nz",
+      "nameEn": "New Zealand",
+      "localPath": "assets/flags/nz.png",
+      "cdnUrl": "https://flagcdn.com/w320/nz.png",
+      "format": "png"
+    },
+    {
+      "id": "伊拉克",
+      "iso": "iq",
+      "nameEn": "Iraq",
+      "localPath": "assets/flags/iq.png",
+      "cdnUrl": "https://flagcdn.com/w320/iq.png",
+      "format": "png"
+    },
+    {
+      "id": "伊朗",
+      "iso": "ir",
+      "nameEn": "Iran",
+      "localPath": "assets/flags/ir.png",
+      "cdnUrl": "https://flagcdn.com/w320/ir.png",
+      "format": "png"
+    },
+    {
+      "id": "英格兰",
+      "iso": "gb-eng",
+      "nameEn": "England",
+      "localPath": "assets/flags/gb_eng.png",
+      "cdnUrl": "https://flagcdn.com/w320/gb-eng.png",
+      "format": "png"
+    },
+    {
+      "id": "约旦",
+      "iso": "jo",
+      "nameEn": "Jordan",
+      "localPath": "assets/flags/jo.png",
+      "cdnUrl": "https://flagcdn.com/w320/jo.png",
+      "format": "png"
+    }
+  ]
+}

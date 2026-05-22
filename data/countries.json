@@ -1,0 +1,4962 @@
+{
+  "_meta": {
+    "description": "2026世界杯48支参赛队国家信息",
+    "sources": [
+      "restcountries.com v3.1",
+      "FIFA WC2026"
+    ],
+    "teamCount": 48,
+    "generatedAt": "2026-05-19T08:44:49.613Z",
+    "note": "fifaRankingEstimate为2025年末近似值"
+  },
+  "teams": {
+    "墨西哥": {
+      "nameZh": "墨西哥",
+      "nameEn": "Mexico",
+      "nameOfficial": "United Mexican States",
+      "isoCode": "mx",
+      "cca2": "MX",
+      "cca3": "MEX",
+      "fifaCode": "MEX",
+      "capital": "Mexico City",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 130575786,
+      "populationFormatted": "130,575,786",
+      "areaKm2": 1964375,
+      "areaFormatted": "1,964,375 km²",
+      "densityPerKm2": 66,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "MXN",
+          "name": "Mexican peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        23,
+        -102
+      ],
+      "borders": [
+        "BLZ",
+        "GTM",
+        "USA"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00"
+      ],
+      "flagEmoji": "🇲🇽",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 15,
+      "worldCupAppearances": 18,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "南非": {
+      "nameZh": "南非",
+      "nameEn": "South Africa",
+      "nameOfficial": "Republic of South Africa",
+      "isoCode": "za",
+      "cca2": "ZA",
+      "cca3": "ZAF",
+      "fifaCode": "RSA",
+      "capital": "Pretoria",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 63100945,
+      "populationFormatted": "63,100,945",
+      "areaKm2": 1221037,
+      "areaFormatted": "1,221,037 km²",
+      "densityPerKm2": 52,
+      "languages": [
+        "Afrikaans",
+        "English",
+        "Southern Ndebele",
+        "Northern Sotho",
+        "Southern Sotho",
+        "Swazi",
+        "Tswana",
+        "Tsonga",
+        "Venda",
+        "Xhosa",
+        "Zulu"
+      ],
+      "currencies": [
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "R"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        -29,
+        24
+      ],
+      "borders": [
+        "BWA",
+        "LSO",
+        "MOZ",
+        "NAM",
+        "SWZ",
+        "ZWE"
+      ],
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "flagEmoji": "🇿🇦",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 52,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "捷克": {
+      "nameZh": "捷克",
+      "nameEn": "Czechia",
+      "nameOfficial": "Czech Republic",
+      "isoCode": "cz",
+      "cca2": "CZ",
+      "cca3": "CZE",
+      "fifaCode": "CZE",
+      "capital": "Prague",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 10882341,
+      "populationFormatted": "10,882,341",
+      "areaKm2": 78865,
+      "areaFormatted": "78,865 km²",
+      "densityPerKm2": 138,
+      "languages": [
+        "Czech",
+        "Slovak"
+      ],
+      "currencies": [
+        {
+          "code": "CZK",
+          "name": "Czech koruna",
+          "symbol": "Kč"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        49.75,
+        15.5
+      ],
+      "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇨🇿",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 41,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "哥伦比亚": {
+      "nameZh": "哥伦比亚",
+      "nameEn": "Colombia",
+      "nameOfficial": "Republic of Colombia",
+      "isoCode": "co",
+      "cca2": "CO",
+      "cca3": "COL",
+      "fifaCode": "COL",
+      "capital": "Bogotá",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 53057212,
+      "populationFormatted": "53,057,212",
+      "areaKm2": 1141748,
+      "areaFormatted": "1,141,748 km²",
+      "densityPerKm2": 46,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "COP",
+          "name": "Colombian peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        4,
+        -72
+      ],
+      "borders": [
+        "BRA",
+        "ECU",
+        "PAN",
+        "PER",
+        "VEN"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇨🇴",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 12,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "乌兹别克": {
+      "nameZh": "乌兹别克",
+      "nameEn": "Uzbekistan",
+      "nameOfficial": "Republic of Uzbekistan",
+      "isoCode": "uz",
+      "cca2": "UZ",
+      "cca3": "UZB",
+      "fifaCode": "UZB",
+      "capital": "Tashkent",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 37859698,
+      "populationFormatted": "37,859,698",
+      "areaKm2": 447400,
+      "areaFormatted": "447,400 km²",
+      "densityPerKm2": 85,
+      "languages": [
+        "Russian",
+        "Uzbek"
+      ],
+      "currencies": [
+        {
+          "code": "UZS",
+          "name": "Uzbekistani soʻm",
+          "symbol": "so'm"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        41,
+        64
+      ],
+      "borders": [
+        "AFG",
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM"
+      ],
+      "timezones": [
+        "UTC+05:00"
+      ],
+      "flagEmoji": "🇺🇿",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 65,
+      "worldCupAppearances": 0,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "韩国": {
+      "nameZh": "韩国",
+      "nameEn": "South Korea",
+      "nameOfficial": "Republic of Korea",
+      "isoCode": "kr",
+      "cca2": "KR",
+      "cca3": "KOR",
+      "fifaCode": "KOR",
+      "capital": "Seoul",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 51159889,
+      "populationFormatted": "51,159,889",
+      "areaKm2": 100210,
+      "areaFormatted": "100,210 km²",
+      "densityPerKm2": 511,
+      "languages": [
+        "Korean"
+      ],
+      "currencies": [
+        {
+          "code": "KRW",
+          "name": "South Korean won",
+          "symbol": "₩"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        37,
+        127.5
+      ],
+      "borders": [
+        "PRK"
+      ],
+      "timezones": [
+        "UTC+09:00"
+      ],
+      "flagEmoji": "🇰🇷",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 22,
+      "worldCupAppearances": 11,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "刚果(金)": {
+      "nameZh": "刚果(金)",
+      "nameEn": "DR Congo",
+      "nameOfficial": "Democratic Republic of the Congo",
+      "isoCode": "cd",
+      "cca2": "CD",
+      "cca3": "COD",
+      "fifaCode": "COD",
+      "capital": "Kinshasa",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 112832000,
+      "populationFormatted": "112,832,000",
+      "areaKm2": 2344858,
+      "areaFormatted": "2,344,858 km²",
+      "densityPerKm2": 48,
+      "languages": [
+        "French",
+        "Kikongo",
+        "Lingala",
+        "Tshiluba",
+        "Swahili"
+      ],
+      "currencies": [
+        {
+          "code": "CDF",
+          "name": "Congolese franc",
+          "symbol": "FC"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        0,
+        25
+      ],
+      "borders": [
+        "AGO",
+        "BDI",
+        "CAF",
+        "COG",
+        "RWA",
+        "SSD",
+        "TZA",
+        "UGA",
+        "ZMB"
+      ],
+      "timezones": [
+        "UTC+01:00",
+        "UTC+02:00"
+      ],
+      "flagEmoji": "🇨🇩",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 64,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "西班牙": {
+      "nameZh": "西班牙",
+      "nameEn": "Spain",
+      "nameOfficial": "Kingdom of Spain",
+      "isoCode": "es",
+      "cca2": "ES",
+      "cca3": "ESP",
+      "fifaCode": "ESP",
+      "capital": "Madrid",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 49315949,
+      "populationFormatted": "49,315,949",
+      "areaKm2": 505992,
+      "areaFormatted": "505,992 km²",
+      "densityPerKm2": 97,
+      "languages": [
+        "Spanish",
+        "Catalan",
+        "Basque",
+        "Galician"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        40,
+        -4
+      ],
+      "borders": [
+        "AND",
+        "FRA",
+        "GIB",
+        "PRT",
+        "MAR"
+      ],
+      "timezones": [
+        "UTC",
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇪🇸",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 3,
+      "worldCupAppearances": 16,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "乌拉圭": {
+      "nameZh": "乌拉圭",
+      "nameEn": "Uruguay",
+      "nameOfficial": "Oriental Republic of Uruguay",
+      "isoCode": "uy",
+      "cca2": "UY",
+      "cca3": "URY",
+      "fifaCode": "URU",
+      "capital": "Montevideo",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 3499451,
+      "populationFormatted": "3,499,451",
+      "areaKm2": 181034,
+      "areaFormatted": "181,034 km²",
+      "densityPerKm2": 19,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "UYU",
+          "name": "Uruguayan peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -33,
+        -56
+      ],
+      "borders": [
+        "ARG",
+        "BRA"
+      ],
+      "timezones": [
+        "UTC-03:00"
+      ],
+      "flagEmoji": "🇺🇾",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 13,
+      "worldCupAppearances": 14,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "佛得角": {
+      "nameZh": "佛得角",
+      "nameEn": "Cape Verde",
+      "nameOfficial": "Republic of Cabo Verde",
+      "isoCode": "cv",
+      "cca2": "CV",
+      "cca3": "CPV",
+      "fifaCode": "CPV",
+      "capital": "Praia",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 491233,
+      "populationFormatted": "491,233",
+      "areaKm2": 4033,
+      "areaFormatted": "4,033 km²",
+      "densityPerKm2": 122,
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "CVE",
+          "name": "Cape Verdean escudo",
+          "symbol": "Esc"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        16.5388,
+        -23.0418
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC-01:00"
+      ],
+      "flagEmoji": "🇨🇻",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 63,
+      "worldCupAppearances": 0,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "沙特": {
+      "nameZh": "沙特",
+      "nameEn": "Saudi Arabia",
+      "nameOfficial": "Kingdom of Saudi Arabia",
+      "isoCode": "sa",
+      "cca2": "SA",
+      "cca3": "SAU",
+      "fifaCode": "KSA",
+      "capital": "Riyadh",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 35300280,
+      "populationFormatted": "35,300,280",
+      "areaKm2": 2149690,
+      "areaFormatted": "2,149,690 km²",
+      "densityPerKm2": 16,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "SAR",
+          "name": "Saudi riyal",
+          "symbol": "ر.س"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        25,
+        45
+      ],
+      "borders": [
+        "IRQ",
+        "JOR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "ARE",
+        "YEM"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇸🇦",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 46,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "海地": {
+      "nameZh": "海地",
+      "nameEn": "Haiti",
+      "nameOfficial": "Republic of Haiti",
+      "isoCode": "ht",
+      "cca2": "HT",
+      "cca3": "HTI",
+      "fifaCode": "HAI",
+      "capital": "Port-au-Prince",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 11867032,
+      "populationFormatted": "11,867,032",
+      "areaKm2": 27750,
+      "areaFormatted": "27,750 km²",
+      "densityPerKm2": 428,
+      "languages": [
+        "French",
+        "Haitian Creole"
+      ],
+      "currencies": [
+        {
+          "code": "HTG",
+          "name": "Haitian gourde",
+          "symbol": "G"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        19,
+        -72.41666666
+      ],
+      "borders": [
+        "DOM"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇭🇹",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 68,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "摩洛哥": {
+      "nameZh": "摩洛哥",
+      "nameEn": "Morocco",
+      "nameOfficial": "Kingdom of Morocco",
+      "isoCode": "ma",
+      "cca2": "MA",
+      "cca3": "MAR",
+      "fifaCode": "MAR",
+      "capital": "Rabat",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 36828330,
+      "populationFormatted": "36,828,330",
+      "areaKm2": 446550,
+      "areaFormatted": "446,550 km²",
+      "densityPerKm2": 82,
+      "languages": [
+        "Arabic",
+        "Berber"
+      ],
+      "currencies": [
+        {
+          "code": "MAD",
+          "name": "Moroccan dirham",
+          "symbol": "د.م."
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        32,
+        -5
+      ],
+      "borders": [
+        "DZA",
+        "ESH",
+        "ESP"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇲🇦",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 11,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "波黑": {
+      "nameZh": "波黑",
+      "nameEn": "Bosnia and Herzegovina",
+      "nameOfficial": "Bosnia and Herzegovina",
+      "isoCode": "ba",
+      "cca2": "BA",
+      "cca3": "BIH",
+      "fifaCode": "BIH",
+      "capital": "Sarajevo",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 3422000,
+      "populationFormatted": "3,422,000",
+      "areaKm2": 51209,
+      "areaFormatted": "51,209 km²",
+      "densityPerKm2": 67,
+      "languages": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ],
+      "currencies": [
+        {
+          "code": "BAM",
+          "name": "Bosnia and Herzegovina convertible mark",
+          "symbol": "KM"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        44,
+        18
+      ],
+      "borders": [
+        "HRV",
+        "MNE",
+        "SRB"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇧🇦",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 61,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "加拿大": {
+      "nameZh": "加拿大",
+      "nameEn": "Canada",
+      "nameOfficial": "Canada",
+      "isoCode": "ca",
+      "cca2": "CA",
+      "cca3": "CAN",
+      "fifaCode": "CAN",
+      "capital": "Ottawa",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 41651653,
+      "populationFormatted": "41,651,653",
+      "areaKm2": 9984670,
+      "areaFormatted": "9,984,670 km²",
+      "densityPerKm2": 4,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "CAD",
+          "name": "Canadian dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        60,
+        -95
+      ],
+      "borders": [
+        "USA"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:30"
+      ],
+      "flagEmoji": "🇨🇦",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 27,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "瑞士": {
+      "nameZh": "瑞士",
+      "nameEn": "Switzerland",
+      "nameOfficial": "Swiss Confederation",
+      "isoCode": "ch",
+      "cca2": "CH",
+      "cca3": "CHE",
+      "fifaCode": "SUI",
+      "capital": "Bern",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 9082848,
+      "populationFormatted": "9,082,848",
+      "areaKm2": 41284,
+      "areaFormatted": "41,284 km²",
+      "densityPerKm2": 220,
+      "languages": [
+        "French",
+        "Swiss German",
+        "Italian",
+        "Romansh"
+      ],
+      "currencies": [
+        {
+          "code": "CHF",
+          "name": "Swiss franc",
+          "symbol": "Fr."
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        47,
+        8
+      ],
+      "borders": [
+        "AUT",
+        "FRA",
+        "ITA",
+        "LIE",
+        "DEU"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇨🇭",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 16,
+      "worldCupAppearances": 12,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "巴拿马": {
+      "nameZh": "巴拿马",
+      "nameEn": "Panama",
+      "nameOfficial": "Republic of Panama",
+      "isoCode": "pa",
+      "cca2": "PA",
+      "cca3": "PAN",
+      "fifaCode": "PAN",
+      "capital": "Panama City",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 4064780,
+      "populationFormatted": "4,064,780",
+      "areaKm2": 75417,
+      "areaFormatted": "75,417 km²",
+      "densityPerKm2": 54,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "PAB",
+          "name": "Panamanian balboa",
+          "symbol": "B/."
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        9,
+        -80
+      ],
+      "borders": [
+        "COL",
+        "CRI"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇵🇦",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 30,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "加纳": {
+      "nameZh": "加纳",
+      "nameEn": "Ghana",
+      "nameOfficial": "Republic of Ghana",
+      "isoCode": "gh",
+      "cca2": "GH",
+      "cca3": "GHA",
+      "fifaCode": "GHA",
+      "capital": "Accra",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 33742380,
+      "populationFormatted": "33,742,380",
+      "areaKm2": 238533,
+      "areaFormatted": "238,533 km²",
+      "densityPerKm2": 141,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GHS",
+          "name": "Ghanaian cedi",
+          "symbol": "₵"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        8,
+        -2
+      ],
+      "borders": [
+        "BFA",
+        "CIV",
+        "TGO"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇬🇭",
+      "confederation": "CAF",
+      "fifaRankingEstimate": null,
+      "worldCupAppearances": 4,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "科特迪瓦": {
+      "nameZh": "科特迪瓦",
+      "nameEn": "Ivory Coast",
+      "nameOfficial": "Republic of Côte d'Ivoire",
+      "isoCode": "ci",
+      "cca2": "CI",
+      "cca3": "CIV",
+      "fifaCode": "CIV",
+      "capital": "Yamoussoukro",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 31719275,
+      "populationFormatted": "31,719,275",
+      "areaKm2": 322463,
+      "areaFormatted": "322,463 km²",
+      "densityPerKm2": 98,
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        8,
+        -5
+      ],
+      "borders": [
+        "BFA",
+        "GHA",
+        "GIN",
+        "LBR",
+        "MLI"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇨🇮",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 38,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "德国": {
+      "nameZh": "德国",
+      "nameEn": "Germany",
+      "nameOfficial": "Federal Republic of Germany",
+      "isoCode": "de",
+      "cca2": "DE",
+      "cca3": "DEU",
+      "fifaCode": "GER",
+      "capital": "Berlin",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 83491249,
+      "populationFormatted": "83,491,249",
+      "areaKm2": 357114,
+      "areaFormatted": "357,114 km²",
+      "densityPerKm2": 234,
+      "languages": [
+        "German"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        51,
+        9
+      ],
+      "borders": [
+        "AUT",
+        "BEL",
+        "CZE",
+        "DNK",
+        "FRA",
+        "LUX",
+        "NLD",
+        "POL",
+        "CHE"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇩🇪",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 9,
+      "worldCupAppearances": 20,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "克罗地亚": {
+      "nameZh": "克罗地亚",
+      "nameEn": "Croatia",
+      "nameOfficial": "Republic of Croatia",
+      "isoCode": "hr",
+      "cca2": "HR",
+      "cca3": "HRV",
+      "fifaCode": "CRO",
+      "capital": "Zagreb",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 3866233,
+      "populationFormatted": "3,866,233",
+      "areaKm2": 56594,
+      "areaFormatted": "56,594 km²",
+      "densityPerKm2": 68,
+      "languages": [
+        "Croatian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        45.16666666,
+        15.5
+      ],
+      "borders": [
+        "BIH",
+        "HUN",
+        "MNE",
+        "SRB",
+        "SVN"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇭🇷",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 10,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "伊拉克": {
+      "nameZh": "伊拉克",
+      "nameEn": "Iraq",
+      "nameOfficial": "Republic of Iraq",
+      "isoCode": "iq",
+      "cca2": "IQ",
+      "cca3": "IRQ",
+      "fifaCode": "IRQ",
+      "capital": "Baghdad",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 46118793,
+      "populationFormatted": "46,118,793",
+      "areaKm2": 438317,
+      "areaFormatted": "438,317 km²",
+      "densityPerKm2": 105,
+      "languages": [
+        "Arabic",
+        "Aramaic",
+        "Sorani"
+      ],
+      "currencies": [
+        {
+          "code": "IQD",
+          "name": "Iraqi dinar",
+          "symbol": "ع.د"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        33,
+        44
+      ],
+      "borders": [
+        "IRN",
+        "JOR",
+        "KWT",
+        "SAU",
+        "SYR",
+        "TUR"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇮🇶",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 45,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "塞内加尔": {
+      "nameZh": "塞内加尔",
+      "nameEn": "Senegal",
+      "nameOfficial": "Republic of Senegal",
+      "isoCode": "sn",
+      "cca2": "SN",
+      "cca3": "SEN",
+      "fifaCode": "SEN",
+      "capital": "Dakar",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 18593258,
+      "populationFormatted": "18,593,258",
+      "areaKm2": 196722,
+      "areaFormatted": "196,722 km²",
+      "densityPerKm2": 95,
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        14,
+        -14
+      ],
+      "borders": [
+        "GMB",
+        "GIN",
+        "GNB",
+        "MLI",
+        "MRT"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇸🇳",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 18,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "卡塔尔": {
+      "nameZh": "卡塔尔",
+      "nameEn": "Qatar",
+      "nameOfficial": "State of Qatar",
+      "isoCode": "qa",
+      "cca2": "QA",
+      "cca3": "QAT",
+      "fifaCode": "QAT",
+      "capital": "Doha",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 3173024,
+      "populationFormatted": "3,173,024",
+      "areaKm2": 11586,
+      "areaFormatted": "11,586 km²",
+      "densityPerKm2": 274,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "QAR",
+          "name": "Qatari riyal",
+          "symbol": "ر.ق"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        25.5,
+        51.25
+      ],
+      "borders": [
+        "SAU"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇶🇦",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 42,
+      "worldCupAppearances": 2,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "巴拉圭": {
+      "nameZh": "巴拉圭",
+      "nameEn": "Paraguay",
+      "nameOfficial": "Republic of Paraguay",
+      "isoCode": "py",
+      "cca2": "PY",
+      "cca3": "PRY",
+      "fifaCode": "PAR",
+      "capital": "Asunción",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 6109644,
+      "populationFormatted": "6,109,644",
+      "areaKm2": 406752,
+      "areaFormatted": "406,752 km²",
+      "densityPerKm2": 15,
+      "languages": [
+        "Guaraní",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "PYG",
+          "name": "Paraguayan guaraní",
+          "symbol": "₲"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -23,
+        -58
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "BRA"
+      ],
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "flagEmoji": "🇵🇾",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 47,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "土耳其": {
+      "nameZh": "土耳其",
+      "nameEn": "Türkiye",
+      "nameOfficial": "Republic of Turkey",
+      "isoCode": "tr",
+      "cca2": "TR",
+      "cca3": "TUR",
+      "fifaCode": "TUR",
+      "capital": "Ankara",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 85664944,
+      "populationFormatted": "85,664,944",
+      "areaKm2": 783562,
+      "areaFormatted": "783,562 km²",
+      "densityPerKm2": 109,
+      "languages": [
+        "Turkish"
+      ],
+      "currencies": [
+        {
+          "code": "TRY",
+          "name": "Turkish lira",
+          "symbol": "₺"
+        }
+      ],
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "latlng": [
+        39,
+        35
+      ],
+      "borders": [
+        "ARM",
+        "AZE",
+        "BGR",
+        "GEO",
+        "GRC",
+        "IRN",
+        "IRQ",
+        "SYR"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇹🇷",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 25,
+      "worldCupAppearances": 2,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "澳大利亚": {
+      "nameZh": "澳大利亚",
+      "nameEn": "Australia",
+      "nameOfficial": "Commonwealth of Australia",
+      "isoCode": "au",
+      "cca2": "AU",
+      "cca3": "AUS",
+      "fifaCode": "AUS",
+      "capital": "Canberra",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 27536874,
+      "populationFormatted": "27,536,874",
+      "areaKm2": 7692024,
+      "areaFormatted": "7,692,024 km²",
+      "densityPerKm2": 4,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "latlng": [
+        -27,
+        133
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC+05:00",
+        "UTC+06:30",
+        "UTC+07:00",
+        "UTC+08:00",
+        "UTC+09:30",
+        "UTC+10:00",
+        "UTC+10:30",
+        "UTC+11:30"
+      ],
+      "flagEmoji": "🇦🇺",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 26,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "约旦": {
+      "nameZh": "约旦",
+      "nameEn": "Jordan",
+      "nameOfficial": "Hashemite Kingdom of Jordan",
+      "isoCode": "jo",
+      "cca2": "JO",
+      "cca3": "JOR",
+      "fifaCode": "JOR",
+      "capital": "Amman",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 11734000,
+      "populationFormatted": "11,734,000",
+      "areaKm2": 89342,
+      "areaFormatted": "89,342 km²",
+      "densityPerKm2": 131,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "JOD",
+          "name": "Jordanian dinar",
+          "symbol": "د.ا"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        31,
+        36
+      ],
+      "borders": [
+        "IRQ",
+        "ISR",
+        "PSE",
+        "SAU",
+        "SYR"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇯🇴",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 55,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "奥地利": {
+      "nameZh": "奥地利",
+      "nameEn": "Austria",
+      "nameOfficial": "Republic of Austria",
+      "isoCode": "at",
+      "cca2": "AT",
+      "cca3": "AUT",
+      "fifaCode": "AUT",
+      "capital": "Vienna",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 9200931,
+      "populationFormatted": "9,200,931",
+      "areaKm2": 83871,
+      "areaFormatted": "83,871 km²",
+      "densityPerKm2": 110,
+      "languages": [
+        "German"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        47.33333333,
+        13.33333333
+      ],
+      "borders": [
+        "CZE",
+        "DEU",
+        "HUN",
+        "ITA",
+        "LIE",
+        "SVK",
+        "SVN",
+        "CHE"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇦🇹",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 24,
+      "worldCupAppearances": 7,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "阿尔及利亚": {
+      "nameZh": "阿尔及利亚",
+      "nameEn": "Algeria",
+      "nameOfficial": "People's Democratic Republic of Algeria",
+      "isoCode": "dz",
+      "cca2": "DZ",
+      "cca3": "DZA",
+      "fifaCode": "ALG",
+      "capital": "Algiers",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 47400000,
+      "populationFormatted": "47,400,000",
+      "areaKm2": 2381741,
+      "areaFormatted": "2,381,741 km²",
+      "densityPerKm2": 20,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "DZD",
+          "name": "Algerian dinar",
+          "symbol": "د.ج"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        28,
+        3
+      ],
+      "borders": [
+        "TUN",
+        "LBY",
+        "NER",
+        "ESH",
+        "MRT",
+        "MLI",
+        "MAR"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇩🇿",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 44,
+      "worldCupAppearances": 4,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "新西兰": {
+      "nameZh": "新西兰",
+      "nameEn": "New Zealand",
+      "nameOfficial": "New Zealand",
+      "isoCode": "nz",
+      "cca2": "NZ",
+      "cca3": "NZL",
+      "fifaCode": "NZL",
+      "capital": "Wellington",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 5324700,
+      "populationFormatted": "5,324,700",
+      "areaKm2": 268838,
+      "areaFormatted": "268,838 km²",
+      "densityPerKm2": 20,
+      "languages": [
+        "English",
+        "Māori",
+        "New Zealand Sign Language"
+      ],
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "latlng": [
+        -41,
+        174
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC+12:00",
+        "UTC+12:45",
+        "UTC+13:00"
+      ],
+      "flagEmoji": "🇳🇿",
+      "confederation": "OFC",
+      "fifaRankingEstimate": 50,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "伊朗": {
+      "nameZh": "伊朗",
+      "nameEn": "Iran",
+      "nameOfficial": "Islamic Republic of Iran",
+      "isoCode": "ir",
+      "cca2": "IR",
+      "cca3": "IRN",
+      "fifaCode": "IRN",
+      "capital": "Tehran",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 85961000,
+      "populationFormatted": "85,961,000",
+      "areaKm2": 1648195,
+      "areaFormatted": "1,648,195 km²",
+      "densityPerKm2": 52,
+      "languages": [
+        "Persian (Farsi)"
+      ],
+      "currencies": [
+        {
+          "code": "IRR",
+          "name": "Iranian rial",
+          "symbol": "﷼"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        32,
+        53
+      ],
+      "borders": [
+        "AFG",
+        "ARM",
+        "AZE",
+        "IRQ",
+        "PAK",
+        "TUR",
+        "TKM"
+      ],
+      "timezones": [
+        "UTC+03:30"
+      ],
+      "flagEmoji": "🇮🇷",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 19,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "比利时": {
+      "nameZh": "比利时",
+      "nameEn": "Belgium",
+      "nameOfficial": "Kingdom of Belgium",
+      "isoCode": "be",
+      "cca2": "BE",
+      "cca3": "BEL",
+      "fifaCode": "BEL",
+      "capital": "Brussels",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 11825551,
+      "populationFormatted": "11,825,551",
+      "areaKm2": 30528,
+      "areaFormatted": "30,528 km²",
+      "densityPerKm2": 387,
+      "languages": [
+        "German",
+        "French",
+        "Dutch"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        50.83333333,
+        4
+      ],
+      "borders": [
+        "FRA",
+        "DEU",
+        "LUX",
+        "NLD"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇧🇪",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 8,
+      "worldCupAppearances": 14,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "美国": {
+      "nameZh": "美国",
+      "nameEn": "United States",
+      "nameOfficial": "United States of America",
+      "isoCode": "us",
+      "cca2": "US",
+      "cca3": "USA",
+      "fifaCode": "USA",
+      "capital": "Washington, D.C.",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 340110988,
+      "populationFormatted": "340,110,988",
+      "areaKm2": 9525067,
+      "areaFormatted": "9,525,067 km²",
+      "densityPerKm2": 36,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        38,
+        -97
+      ],
+      "borders": [
+        "CAN",
+        "MEX"
+      ],
+      "timezones": [
+        "UTC-12:00",
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC+10:00",
+        "UTC+12:00"
+      ],
+      "flagEmoji": "🇺🇸",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 14,
+      "worldCupAppearances": 12,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "巴西": {
+      "nameZh": "巴西",
+      "nameEn": "Brazil",
+      "nameOfficial": "Federative Republic of Brazil",
+      "isoCode": "br",
+      "cca2": "BR",
+      "cca3": "BRA",
+      "fifaCode": "BRA",
+      "capital": "Brasília",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 213421037,
+      "populationFormatted": "213,421,037",
+      "areaKm2": 8515767,
+      "areaFormatted": "8,515,767 km²",
+      "densityPerKm2": 25,
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "BRL",
+          "name": "Brazilian real",
+          "symbol": "R$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -10,
+        -55
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "COL",
+        "GUF",
+        "GUY",
+        "PRY",
+        "PER",
+        "SUR",
+        "URY",
+        "VEN"
+      ],
+      "timezones": [
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00"
+      ],
+      "flagEmoji": "🇧🇷",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 5,
+      "worldCupAppearances": 22,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "法国": {
+      "nameZh": "法国",
+      "nameEn": "France",
+      "nameOfficial": "French Republic",
+      "isoCode": "fr",
+      "cca2": "FR",
+      "cca3": "FRA",
+      "fifaCode": "FRA",
+      "capital": "Paris",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 66351959,
+      "populationFormatted": "66,351,959",
+      "areaKm2": 543908,
+      "areaFormatted": "543,908 km²",
+      "densityPerKm2": 122,
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        46,
+        2
+      ],
+      "borders": [
+        "AND",
+        "BEL",
+        "DEU",
+        "ITA",
+        "LUX",
+        "MCO",
+        "ESP",
+        "CHE"
+      ],
+      "timezones": [
+        "UTC-10:00",
+        "UTC-09:30",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+03:00",
+        "UTC+04:00",
+        "UTC+05:00",
+        "UTC+10:00",
+        "UTC+11:00",
+        "UTC+12:00"
+      ],
+      "flagEmoji": "🇫🇷",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 2,
+      "worldCupAppearances": 16,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "厄瓜多尔": {
+      "nameZh": "厄瓜多尔",
+      "nameEn": "Ecuador",
+      "nameOfficial": "Republic of Ecuador",
+      "isoCode": "ec",
+      "cca2": "EC",
+      "cca3": "ECU",
+      "fifaCode": "ECU",
+      "capital": "Quito",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 18103660,
+      "populationFormatted": "18,103,660",
+      "areaKm2": 276841,
+      "areaFormatted": "276,841 km²",
+      "densityPerKm2": 65,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -2,
+        -77.5
+      ],
+      "borders": [
+        "COL",
+        "PER"
+      ],
+      "timezones": [
+        "UTC-06:00",
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇪🇨",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 23,
+      "worldCupAppearances": 4,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "英格兰": {
+      "nameZh": "英格兰",
+      "nameEn": "England",
+      "nameOfficial": "United Kingdom of Great Britain and Northern Ireland",
+      "isoCode": "gb-eng",
+      "cca2": "GB",
+      "cca3": "GBR",
+      "fifaCode": null,
+      "capital": "London",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 56000000,
+      "populationFormatted": "69,281,437",
+      "areaKm2": 244376,
+      "areaFormatted": "244,376 km²",
+      "densityPerKm2": 284,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        52.3555,
+        -1.1743
+      ],
+      "borders": [
+        "IRL"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00",
+        "UTC",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+06:00"
+      ],
+      "flagEmoji": "🇬🇧",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 4,
+      "worldCupAppearances": 16,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19",
+      "note": "主场国家队；主权国家为英国",
+      "isHomeNation": true
+    },
+    "苏格兰": {
+      "nameZh": "苏格兰",
+      "nameEn": "Scotland",
+      "nameOfficial": "United Kingdom of Great Britain and Northern Ireland",
+      "isoCode": "gb-sct",
+      "cca2": "GB",
+      "cca3": "GBR",
+      "fifaCode": null,
+      "capital": "Edinburgh",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5500000,
+      "populationFormatted": "69,281,437",
+      "areaKm2": 244376,
+      "areaFormatted": "244,376 km²",
+      "densityPerKm2": 284,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        56.4907,
+        -4.2026
+      ],
+      "borders": [
+        "IRL"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00",
+        "UTC",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+06:00"
+      ],
+      "flagEmoji": "🇬🇧",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 36,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19",
+      "note": "主场国家队；主权国家为英国",
+      "isHomeNation": true
+    },
+    "挪威": {
+      "nameZh": "挪威",
+      "nameEn": "Norway",
+      "nameOfficial": "Kingdom of Norway",
+      "isoCode": "no",
+      "cca2": "NO",
+      "cca3": "NOR",
+      "fifaCode": "NOR",
+      "capital": "Oslo",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5606944,
+      "populationFormatted": "5,606,944",
+      "areaKm2": 386224,
+      "areaFormatted": "386,224 km²",
+      "densityPerKm2": 15,
+      "languages": [
+        "Norwegian Nynorsk",
+        "Norwegian Bokmål",
+        "Sami"
+      ],
+      "currencies": [
+        {
+          "code": "NOK",
+          "name": "Norwegian krone",
+          "symbol": "kr"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        62,
+        10
+      ],
+      "borders": [
+        "FIN",
+        "SWE",
+        "RUS"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇳🇴",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 28,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "库拉索": {
+      "nameZh": "库拉索",
+      "nameEn": "Curaçao",
+      "nameOfficial": "Country of Curaçao",
+      "isoCode": "cw",
+      "cca2": "CW",
+      "cca3": "CUW",
+      "fifaCode": "CUW",
+      "capital": "Willemstad",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 156115,
+      "populationFormatted": "156,115",
+      "areaKm2": 444,
+      "areaFormatted": "444 km²",
+      "densityPerKm2": 352,
+      "languages": [
+        "English",
+        "Dutch",
+        "Papiamento"
+      ],
+      "currencies": [
+        {
+          "code": "ANG",
+          "name": "Netherlands Antillean guilder",
+          "symbol": "ƒ"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        12.116667,
+        -68.933333
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "flagEmoji": "🇨🇼",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 69,
+      "worldCupAppearances": 0,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "突尼斯": {
+      "nameZh": "突尼斯",
+      "nameEn": "Tunisia",
+      "nameOfficial": "Tunisian Republic",
+      "isoCode": "tn",
+      "cca2": "TN",
+      "cca3": "TUN",
+      "fifaCode": "TUN",
+      "capital": "Tunis",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 11972169,
+      "populationFormatted": "11,972,169",
+      "areaKm2": 163610,
+      "areaFormatted": "163,610 km²",
+      "densityPerKm2": 73,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "TND",
+          "name": "Tunisian dinar",
+          "symbol": "د.ت"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        34,
+        9
+      ],
+      "borders": [
+        "DZA",
+        "LBY"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇹🇳",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 43,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "日本": {
+      "nameZh": "日本",
+      "nameEn": "Japan",
+      "nameOfficial": "Japan",
+      "isoCode": "jp",
+      "cca2": "JP",
+      "cca3": "JPN",
+      "fifaCode": "JPN",
+      "capital": "Tokyo",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 123210000,
+      "populationFormatted": "123,210,000",
+      "areaKm2": 377930,
+      "areaFormatted": "377,930 km²",
+      "densityPerKm2": 326,
+      "languages": [
+        "Japanese"
+      ],
+      "currencies": [
+        {
+          "code": "JPY",
+          "name": "Japanese yen",
+          "symbol": "¥"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        36,
+        138
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC+09:00"
+      ],
+      "flagEmoji": "🇯🇵",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 17,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "荷兰": {
+      "nameZh": "荷兰",
+      "nameEn": "Netherlands",
+      "nameOfficial": "Kingdom of the Netherlands",
+      "isoCode": "nl",
+      "cca2": "NL",
+      "cca3": "NLD",
+      "fifaCode": "NED",
+      "capital": "Amsterdam",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 18100436,
+      "populationFormatted": "18,100,436",
+      "areaKm2": 41865,
+      "areaFormatted": "41,865 km²",
+      "densityPerKm2": 432,
+      "languages": [
+        "Dutch"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        52.5,
+        5.75
+      ],
+      "borders": [
+        "BEL",
+        "DEU"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇳🇱",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 7,
+      "worldCupAppearances": 11,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "葡萄牙": {
+      "nameZh": "葡萄牙",
+      "nameEn": "Portugal",
+      "nameOfficial": "Portuguese Republic",
+      "isoCode": "pt",
+      "cca2": "PT",
+      "cca3": "PRT",
+      "fifaCode": "POR",
+      "capital": "Lisbon",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 10749635,
+      "populationFormatted": "10,749,635",
+      "areaKm2": 92090,
+      "areaFormatted": "92,090 km²",
+      "densityPerKm2": 117,
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        39.5,
+        -8
+      ],
+      "borders": [
+        "ESP"
+      ],
+      "timezones": [
+        "UTC-01:00",
+        "UTC"
+      ],
+      "flagEmoji": "🇵🇹",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 6,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "瑞典": {
+      "nameZh": "瑞典",
+      "nameEn": "Sweden",
+      "nameOfficial": "Kingdom of Sweden",
+      "isoCode": "se",
+      "cca2": "SE",
+      "cca3": "SWE",
+      "fifaCode": "SWE",
+      "capital": "Stockholm",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 10605098,
+      "populationFormatted": "10,605,098",
+      "areaKm2": 450295,
+      "areaFormatted": "450,295 km²",
+      "densityPerKm2": 24,
+      "languages": [
+        "Swedish"
+      ],
+      "currencies": [
+        {
+          "code": "SEK",
+          "name": "Swedish krona",
+          "symbol": "kr"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        62,
+        15
+      ],
+      "borders": [
+        "FIN",
+        "NOR"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇸🇪",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 39,
+      "worldCupAppearances": 12,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "阿根廷": {
+      "nameZh": "阿根廷",
+      "nameEn": "Argentina",
+      "nameOfficial": "Argentine Republic",
+      "isoCode": "ar",
+      "cca2": "AR",
+      "cca3": "ARG",
+      "fifaCode": "ARG",
+      "capital": "Buenos Aires",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 46735004,
+      "populationFormatted": "46,735,004",
+      "areaKm2": 2780400,
+      "areaFormatted": "2,780,400 km²",
+      "densityPerKm2": 17,
+      "languages": [
+        "Guaraní",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "ARS",
+          "name": "Argentine peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -34,
+        -64
+      ],
+      "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "PRY",
+        "URY"
+      ],
+      "timezones": [
+        "UTC-03:00"
+      ],
+      "flagEmoji": "🇦🇷",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 1,
+      "worldCupAppearances": 18,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    "埃及": {
+      "nameZh": "埃及",
+      "nameEn": "Egypt",
+      "nameOfficial": "Arab Republic of Egypt",
+      "isoCode": "eg",
+      "cca2": "EG",
+      "cca3": "EGY",
+      "fifaCode": "EGY",
+      "capital": "Cairo",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 107271260,
+      "populationFormatted": "107,271,260",
+      "areaKm2": 1002450,
+      "areaFormatted": "1,002,450 km²",
+      "densityPerKm2": 107,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "EGP",
+          "name": "Egyptian pound",
+          "symbol": "£"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        27,
+        30
+      ],
+      "borders": [
+        "ISR",
+        "LBY",
+        "PSE",
+        "SDN"
+      ],
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "flagEmoji": "🇪🇬",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 29,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    }
+  },
+  "list": [
+    {
+      "id": "阿尔及利亚",
+      "nameZh": "阿尔及利亚",
+      "nameEn": "Algeria",
+      "nameOfficial": "People's Democratic Republic of Algeria",
+      "isoCode": "dz",
+      "cca2": "DZ",
+      "cca3": "DZA",
+      "fifaCode": "ALG",
+      "capital": "Algiers",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 47400000,
+      "populationFormatted": "47,400,000",
+      "areaKm2": 2381741,
+      "areaFormatted": "2,381,741 km²",
+      "densityPerKm2": 20,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "DZD",
+          "name": "Algerian dinar",
+          "symbol": "د.ج"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        28,
+        3
+      ],
+      "borders": [
+        "TUN",
+        "LBY",
+        "NER",
+        "ESH",
+        "MRT",
+        "MLI",
+        "MAR"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇩🇿",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 44,
+      "worldCupAppearances": 4,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "阿根廷",
+      "nameZh": "阿根廷",
+      "nameEn": "Argentina",
+      "nameOfficial": "Argentine Republic",
+      "isoCode": "ar",
+      "cca2": "AR",
+      "cca3": "ARG",
+      "fifaCode": "ARG",
+      "capital": "Buenos Aires",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 46735004,
+      "populationFormatted": "46,735,004",
+      "areaKm2": 2780400,
+      "areaFormatted": "2,780,400 km²",
+      "densityPerKm2": 17,
+      "languages": [
+        "Guaraní",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "ARS",
+          "name": "Argentine peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -34,
+        -64
+      ],
+      "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "PRY",
+        "URY"
+      ],
+      "timezones": [
+        "UTC-03:00"
+      ],
+      "flagEmoji": "🇦🇷",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 1,
+      "worldCupAppearances": 18,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "埃及",
+      "nameZh": "埃及",
+      "nameEn": "Egypt",
+      "nameOfficial": "Arab Republic of Egypt",
+      "isoCode": "eg",
+      "cca2": "EG",
+      "cca3": "EGY",
+      "fifaCode": "EGY",
+      "capital": "Cairo",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 107271260,
+      "populationFormatted": "107,271,260",
+      "areaKm2": 1002450,
+      "areaFormatted": "1,002,450 km²",
+      "densityPerKm2": 107,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "EGP",
+          "name": "Egyptian pound",
+          "symbol": "£"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        27,
+        30
+      ],
+      "borders": [
+        "ISR",
+        "LBY",
+        "PSE",
+        "SDN"
+      ],
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "flagEmoji": "🇪🇬",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 29,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "奥地利",
+      "nameZh": "奥地利",
+      "nameEn": "Austria",
+      "nameOfficial": "Republic of Austria",
+      "isoCode": "at",
+      "cca2": "AT",
+      "cca3": "AUT",
+      "fifaCode": "AUT",
+      "capital": "Vienna",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 9200931,
+      "populationFormatted": "9,200,931",
+      "areaKm2": 83871,
+      "areaFormatted": "83,871 km²",
+      "densityPerKm2": 110,
+      "languages": [
+        "German"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        47.33333333,
+        13.33333333
+      ],
+      "borders": [
+        "CZE",
+        "DEU",
+        "HUN",
+        "ITA",
+        "LIE",
+        "SVK",
+        "SVN",
+        "CHE"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇦🇹",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 24,
+      "worldCupAppearances": 7,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "澳大利亚",
+      "nameZh": "澳大利亚",
+      "nameEn": "Australia",
+      "nameOfficial": "Commonwealth of Australia",
+      "isoCode": "au",
+      "cca2": "AU",
+      "cca3": "AUS",
+      "fifaCode": "AUS",
+      "capital": "Canberra",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 27536874,
+      "populationFormatted": "27,536,874",
+      "areaKm2": 7692024,
+      "areaFormatted": "7,692,024 km²",
+      "densityPerKm2": 4,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "latlng": [
+        -27,
+        133
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC+05:00",
+        "UTC+06:30",
+        "UTC+07:00",
+        "UTC+08:00",
+        "UTC+09:30",
+        "UTC+10:00",
+        "UTC+10:30",
+        "UTC+11:30"
+      ],
+      "flagEmoji": "🇦🇺",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 26,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "巴拉圭",
+      "nameZh": "巴拉圭",
+      "nameEn": "Paraguay",
+      "nameOfficial": "Republic of Paraguay",
+      "isoCode": "py",
+      "cca2": "PY",
+      "cca3": "PRY",
+      "fifaCode": "PAR",
+      "capital": "Asunción",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 6109644,
+      "populationFormatted": "6,109,644",
+      "areaKm2": 406752,
+      "areaFormatted": "406,752 km²",
+      "densityPerKm2": 15,
+      "languages": [
+        "Guaraní",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "PYG",
+          "name": "Paraguayan guaraní",
+          "symbol": "₲"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -23,
+        -58
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "BRA"
+      ],
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "flagEmoji": "🇵🇾",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 47,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "巴拿马",
+      "nameZh": "巴拿马",
+      "nameEn": "Panama",
+      "nameOfficial": "Republic of Panama",
+      "isoCode": "pa",
+      "cca2": "PA",
+      "cca3": "PAN",
+      "fifaCode": "PAN",
+      "capital": "Panama City",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 4064780,
+      "populationFormatted": "4,064,780",
+      "areaKm2": 75417,
+      "areaFormatted": "75,417 km²",
+      "densityPerKm2": 54,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "PAB",
+          "name": "Panamanian balboa",
+          "symbol": "B/."
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        9,
+        -80
+      ],
+      "borders": [
+        "COL",
+        "CRI"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇵🇦",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 30,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "巴西",
+      "nameZh": "巴西",
+      "nameEn": "Brazil",
+      "nameOfficial": "Federative Republic of Brazil",
+      "isoCode": "br",
+      "cca2": "BR",
+      "cca3": "BRA",
+      "fifaCode": "BRA",
+      "capital": "Brasília",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 213421037,
+      "populationFormatted": "213,421,037",
+      "areaKm2": 8515767,
+      "areaFormatted": "8,515,767 km²",
+      "densityPerKm2": 25,
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "BRL",
+          "name": "Brazilian real",
+          "symbol": "R$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -10,
+        -55
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "COL",
+        "GUF",
+        "GUY",
+        "PRY",
+        "PER",
+        "SUR",
+        "URY",
+        "VEN"
+      ],
+      "timezones": [
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00"
+      ],
+      "flagEmoji": "🇧🇷",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 5,
+      "worldCupAppearances": 22,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "比利时",
+      "nameZh": "比利时",
+      "nameEn": "Belgium",
+      "nameOfficial": "Kingdom of Belgium",
+      "isoCode": "be",
+      "cca2": "BE",
+      "cca3": "BEL",
+      "fifaCode": "BEL",
+      "capital": "Brussels",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 11825551,
+      "populationFormatted": "11,825,551",
+      "areaKm2": 30528,
+      "areaFormatted": "30,528 km²",
+      "densityPerKm2": 387,
+      "languages": [
+        "German",
+        "French",
+        "Dutch"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        50.83333333,
+        4
+      ],
+      "borders": [
+        "FRA",
+        "DEU",
+        "LUX",
+        "NLD"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇧🇪",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 8,
+      "worldCupAppearances": 14,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "波黑",
+      "nameZh": "波黑",
+      "nameEn": "Bosnia and Herzegovina",
+      "nameOfficial": "Bosnia and Herzegovina",
+      "isoCode": "ba",
+      "cca2": "BA",
+      "cca3": "BIH",
+      "fifaCode": "BIH",
+      "capital": "Sarajevo",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 3422000,
+      "populationFormatted": "3,422,000",
+      "areaKm2": 51209,
+      "areaFormatted": "51,209 km²",
+      "densityPerKm2": 67,
+      "languages": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ],
+      "currencies": [
+        {
+          "code": "BAM",
+          "name": "Bosnia and Herzegovina convertible mark",
+          "symbol": "KM"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        44,
+        18
+      ],
+      "borders": [
+        "HRV",
+        "MNE",
+        "SRB"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇧🇦",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 61,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "德国",
+      "nameZh": "德国",
+      "nameEn": "Germany",
+      "nameOfficial": "Federal Republic of Germany",
+      "isoCode": "de",
+      "cca2": "DE",
+      "cca3": "DEU",
+      "fifaCode": "GER",
+      "capital": "Berlin",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 83491249,
+      "populationFormatted": "83,491,249",
+      "areaKm2": 357114,
+      "areaFormatted": "357,114 km²",
+      "densityPerKm2": 234,
+      "languages": [
+        "German"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        51,
+        9
+      ],
+      "borders": [
+        "AUT",
+        "BEL",
+        "CZE",
+        "DNK",
+        "FRA",
+        "LUX",
+        "NLD",
+        "POL",
+        "CHE"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇩🇪",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 9,
+      "worldCupAppearances": 20,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "厄瓜多尔",
+      "nameZh": "厄瓜多尔",
+      "nameEn": "Ecuador",
+      "nameOfficial": "Republic of Ecuador",
+      "isoCode": "ec",
+      "cca2": "EC",
+      "cca3": "ECU",
+      "fifaCode": "ECU",
+      "capital": "Quito",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 18103660,
+      "populationFormatted": "18,103,660",
+      "areaKm2": 276841,
+      "areaFormatted": "276,841 km²",
+      "densityPerKm2": 65,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -2,
+        -77.5
+      ],
+      "borders": [
+        "COL",
+        "PER"
+      ],
+      "timezones": [
+        "UTC-06:00",
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇪🇨",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 23,
+      "worldCupAppearances": 4,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "法国",
+      "nameZh": "法国",
+      "nameEn": "France",
+      "nameOfficial": "French Republic",
+      "isoCode": "fr",
+      "cca2": "FR",
+      "cca3": "FRA",
+      "fifaCode": "FRA",
+      "capital": "Paris",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 66351959,
+      "populationFormatted": "66,351,959",
+      "areaKm2": 543908,
+      "areaFormatted": "543,908 km²",
+      "densityPerKm2": 122,
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        46,
+        2
+      ],
+      "borders": [
+        "AND",
+        "BEL",
+        "DEU",
+        "ITA",
+        "LUX",
+        "MCO",
+        "ESP",
+        "CHE"
+      ],
+      "timezones": [
+        "UTC-10:00",
+        "UTC-09:30",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+03:00",
+        "UTC+04:00",
+        "UTC+05:00",
+        "UTC+10:00",
+        "UTC+11:00",
+        "UTC+12:00"
+      ],
+      "flagEmoji": "🇫🇷",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 2,
+      "worldCupAppearances": 16,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "佛得角",
+      "nameZh": "佛得角",
+      "nameEn": "Cape Verde",
+      "nameOfficial": "Republic of Cabo Verde",
+      "isoCode": "cv",
+      "cca2": "CV",
+      "cca3": "CPV",
+      "fifaCode": "CPV",
+      "capital": "Praia",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 491233,
+      "populationFormatted": "491,233",
+      "areaKm2": 4033,
+      "areaFormatted": "4,033 km²",
+      "densityPerKm2": 122,
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "CVE",
+          "name": "Cape Verdean escudo",
+          "symbol": "Esc"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        16.5388,
+        -23.0418
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC-01:00"
+      ],
+      "flagEmoji": "🇨🇻",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 63,
+      "worldCupAppearances": 0,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "刚果(金)",
+      "nameZh": "刚果(金)",
+      "nameEn": "DR Congo",
+      "nameOfficial": "Democratic Republic of the Congo",
+      "isoCode": "cd",
+      "cca2": "CD",
+      "cca3": "COD",
+      "fifaCode": "COD",
+      "capital": "Kinshasa",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 112832000,
+      "populationFormatted": "112,832,000",
+      "areaKm2": 2344858,
+      "areaFormatted": "2,344,858 km²",
+      "densityPerKm2": 48,
+      "languages": [
+        "French",
+        "Kikongo",
+        "Lingala",
+        "Tshiluba",
+        "Swahili"
+      ],
+      "currencies": [
+        {
+          "code": "CDF",
+          "name": "Congolese franc",
+          "symbol": "FC"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        0,
+        25
+      ],
+      "borders": [
+        "AGO",
+        "BDI",
+        "CAF",
+        "COG",
+        "RWA",
+        "SSD",
+        "TZA",
+        "UGA",
+        "ZMB"
+      ],
+      "timezones": [
+        "UTC+01:00",
+        "UTC+02:00"
+      ],
+      "flagEmoji": "🇨🇩",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 64,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "哥伦比亚",
+      "nameZh": "哥伦比亚",
+      "nameEn": "Colombia",
+      "nameOfficial": "Republic of Colombia",
+      "isoCode": "co",
+      "cca2": "CO",
+      "cca3": "COL",
+      "fifaCode": "COL",
+      "capital": "Bogotá",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 53057212,
+      "populationFormatted": "53,057,212",
+      "areaKm2": 1141748,
+      "areaFormatted": "1,141,748 km²",
+      "densityPerKm2": 46,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "COP",
+          "name": "Colombian peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        4,
+        -72
+      ],
+      "borders": [
+        "BRA",
+        "ECU",
+        "PAN",
+        "PER",
+        "VEN"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇨🇴",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 12,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "海地",
+      "nameZh": "海地",
+      "nameEn": "Haiti",
+      "nameOfficial": "Republic of Haiti",
+      "isoCode": "ht",
+      "cca2": "HT",
+      "cca3": "HTI",
+      "fifaCode": "HAI",
+      "capital": "Port-au-Prince",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 11867032,
+      "populationFormatted": "11,867,032",
+      "areaKm2": 27750,
+      "areaFormatted": "27,750 km²",
+      "densityPerKm2": 428,
+      "languages": [
+        "French",
+        "Haitian Creole"
+      ],
+      "currencies": [
+        {
+          "code": "HTG",
+          "name": "Haitian gourde",
+          "symbol": "G"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        19,
+        -72.41666666
+      ],
+      "borders": [
+        "DOM"
+      ],
+      "timezones": [
+        "UTC-05:00"
+      ],
+      "flagEmoji": "🇭🇹",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 68,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "韩国",
+      "nameZh": "韩国",
+      "nameEn": "South Korea",
+      "nameOfficial": "Republic of Korea",
+      "isoCode": "kr",
+      "cca2": "KR",
+      "cca3": "KOR",
+      "fifaCode": "KOR",
+      "capital": "Seoul",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 51159889,
+      "populationFormatted": "51,159,889",
+      "areaKm2": 100210,
+      "areaFormatted": "100,210 km²",
+      "densityPerKm2": 511,
+      "languages": [
+        "Korean"
+      ],
+      "currencies": [
+        {
+          "code": "KRW",
+          "name": "South Korean won",
+          "symbol": "₩"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        37,
+        127.5
+      ],
+      "borders": [
+        "PRK"
+      ],
+      "timezones": [
+        "UTC+09:00"
+      ],
+      "flagEmoji": "🇰🇷",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 22,
+      "worldCupAppearances": 11,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "荷兰",
+      "nameZh": "荷兰",
+      "nameEn": "Netherlands",
+      "nameOfficial": "Kingdom of the Netherlands",
+      "isoCode": "nl",
+      "cca2": "NL",
+      "cca3": "NLD",
+      "fifaCode": "NED",
+      "capital": "Amsterdam",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 18100436,
+      "populationFormatted": "18,100,436",
+      "areaKm2": 41865,
+      "areaFormatted": "41,865 km²",
+      "densityPerKm2": 432,
+      "languages": [
+        "Dutch"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        52.5,
+        5.75
+      ],
+      "borders": [
+        "BEL",
+        "DEU"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇳🇱",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 7,
+      "worldCupAppearances": 11,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "加拿大",
+      "nameZh": "加拿大",
+      "nameEn": "Canada",
+      "nameOfficial": "Canada",
+      "isoCode": "ca",
+      "cca2": "CA",
+      "cca3": "CAN",
+      "fifaCode": "CAN",
+      "capital": "Ottawa",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 41651653,
+      "populationFormatted": "41,651,653",
+      "areaKm2": 9984670,
+      "areaFormatted": "9,984,670 km²",
+      "densityPerKm2": 4,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "CAD",
+          "name": "Canadian dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        60,
+        -95
+      ],
+      "borders": [
+        "USA"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:30"
+      ],
+      "flagEmoji": "🇨🇦",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 27,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "加纳",
+      "nameZh": "加纳",
+      "nameEn": "Ghana",
+      "nameOfficial": "Republic of Ghana",
+      "isoCode": "gh",
+      "cca2": "GH",
+      "cca3": "GHA",
+      "fifaCode": "GHA",
+      "capital": "Accra",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 33742380,
+      "populationFormatted": "33,742,380",
+      "areaKm2": 238533,
+      "areaFormatted": "238,533 km²",
+      "densityPerKm2": 141,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GHS",
+          "name": "Ghanaian cedi",
+          "symbol": "₵"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        8,
+        -2
+      ],
+      "borders": [
+        "BFA",
+        "CIV",
+        "TGO"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇬🇭",
+      "confederation": "CAF",
+      "fifaRankingEstimate": null,
+      "worldCupAppearances": 4,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "捷克",
+      "nameZh": "捷克",
+      "nameEn": "Czechia",
+      "nameOfficial": "Czech Republic",
+      "isoCode": "cz",
+      "cca2": "CZ",
+      "cca3": "CZE",
+      "fifaCode": "CZE",
+      "capital": "Prague",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 10882341,
+      "populationFormatted": "10,882,341",
+      "areaKm2": 78865,
+      "areaFormatted": "78,865 km²",
+      "densityPerKm2": 138,
+      "languages": [
+        "Czech",
+        "Slovak"
+      ],
+      "currencies": [
+        {
+          "code": "CZK",
+          "name": "Czech koruna",
+          "symbol": "Kč"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        49.75,
+        15.5
+      ],
+      "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇨🇿",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 41,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "卡塔尔",
+      "nameZh": "卡塔尔",
+      "nameEn": "Qatar",
+      "nameOfficial": "State of Qatar",
+      "isoCode": "qa",
+      "cca2": "QA",
+      "cca3": "QAT",
+      "fifaCode": "QAT",
+      "capital": "Doha",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 3173024,
+      "populationFormatted": "3,173,024",
+      "areaKm2": 11586,
+      "areaFormatted": "11,586 km²",
+      "densityPerKm2": 274,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "QAR",
+          "name": "Qatari riyal",
+          "symbol": "ر.ق"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        25.5,
+        51.25
+      ],
+      "borders": [
+        "SAU"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇶🇦",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 42,
+      "worldCupAppearances": 2,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "科特迪瓦",
+      "nameZh": "科特迪瓦",
+      "nameEn": "Ivory Coast",
+      "nameOfficial": "Republic of Côte d'Ivoire",
+      "isoCode": "ci",
+      "cca2": "CI",
+      "cca3": "CIV",
+      "fifaCode": "CIV",
+      "capital": "Yamoussoukro",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 31719275,
+      "populationFormatted": "31,719,275",
+      "areaKm2": 322463,
+      "areaFormatted": "322,463 km²",
+      "densityPerKm2": 98,
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        8,
+        -5
+      ],
+      "borders": [
+        "BFA",
+        "GHA",
+        "GIN",
+        "LBR",
+        "MLI"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇨🇮",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 38,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "克罗地亚",
+      "nameZh": "克罗地亚",
+      "nameEn": "Croatia",
+      "nameOfficial": "Republic of Croatia",
+      "isoCode": "hr",
+      "cca2": "HR",
+      "cca3": "HRV",
+      "fifaCode": "CRO",
+      "capital": "Zagreb",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 3866233,
+      "populationFormatted": "3,866,233",
+      "areaKm2": 56594,
+      "areaFormatted": "56,594 km²",
+      "densityPerKm2": 68,
+      "languages": [
+        "Croatian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        45.16666666,
+        15.5
+      ],
+      "borders": [
+        "BIH",
+        "HUN",
+        "MNE",
+        "SRB",
+        "SVN"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇭🇷",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 10,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "库拉索",
+      "nameZh": "库拉索",
+      "nameEn": "Curaçao",
+      "nameOfficial": "Country of Curaçao",
+      "isoCode": "cw",
+      "cca2": "CW",
+      "cca3": "CUW",
+      "fifaCode": "CUW",
+      "capital": "Willemstad",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 156115,
+      "populationFormatted": "156,115",
+      "areaKm2": 444,
+      "areaFormatted": "444 km²",
+      "densityPerKm2": 352,
+      "languages": [
+        "English",
+        "Dutch",
+        "Papiamento"
+      ],
+      "currencies": [
+        {
+          "code": "ANG",
+          "name": "Netherlands Antillean guilder",
+          "symbol": "ƒ"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        12.116667,
+        -68.933333
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "flagEmoji": "🇨🇼",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 69,
+      "worldCupAppearances": 0,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "美国",
+      "nameZh": "美国",
+      "nameEn": "United States",
+      "nameOfficial": "United States of America",
+      "isoCode": "us",
+      "cca2": "US",
+      "cca3": "USA",
+      "fifaCode": "USA",
+      "capital": "Washington, D.C.",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 340110988,
+      "populationFormatted": "340,110,988",
+      "areaKm2": 9525067,
+      "areaFormatted": "9,525,067 km²",
+      "densityPerKm2": 36,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        38,
+        -97
+      ],
+      "borders": [
+        "CAN",
+        "MEX"
+      ],
+      "timezones": [
+        "UTC-12:00",
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC+10:00",
+        "UTC+12:00"
+      ],
+      "flagEmoji": "🇺🇸",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 14,
+      "worldCupAppearances": 12,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "摩洛哥",
+      "nameZh": "摩洛哥",
+      "nameEn": "Morocco",
+      "nameOfficial": "Kingdom of Morocco",
+      "isoCode": "ma",
+      "cca2": "MA",
+      "cca3": "MAR",
+      "fifaCode": "MAR",
+      "capital": "Rabat",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 36828330,
+      "populationFormatted": "36,828,330",
+      "areaKm2": 446550,
+      "areaFormatted": "446,550 km²",
+      "densityPerKm2": 82,
+      "languages": [
+        "Arabic",
+        "Berber"
+      ],
+      "currencies": [
+        {
+          "code": "MAD",
+          "name": "Moroccan dirham",
+          "symbol": "د.م."
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        32,
+        -5
+      ],
+      "borders": [
+        "DZA",
+        "ESH",
+        "ESP"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇲🇦",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 11,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "墨西哥",
+      "nameZh": "墨西哥",
+      "nameEn": "Mexico",
+      "nameOfficial": "United Mexican States",
+      "isoCode": "mx",
+      "cca2": "MX",
+      "cca3": "MEX",
+      "fifaCode": "MEX",
+      "capital": "Mexico City",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 130575786,
+      "populationFormatted": "130,575,786",
+      "areaKm2": 1964375,
+      "areaFormatted": "1,964,375 km²",
+      "densityPerKm2": 66,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "MXN",
+          "name": "Mexican peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "North America"
+      ],
+      "latlng": [
+        23,
+        -102
+      ],
+      "borders": [
+        "BLZ",
+        "GTM",
+        "USA"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00"
+      ],
+      "flagEmoji": "🇲🇽",
+      "confederation": "CONCACAF",
+      "fifaRankingEstimate": 15,
+      "worldCupAppearances": 18,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "南非",
+      "nameZh": "南非",
+      "nameEn": "South Africa",
+      "nameOfficial": "Republic of South Africa",
+      "isoCode": "za",
+      "cca2": "ZA",
+      "cca3": "ZAF",
+      "fifaCode": "RSA",
+      "capital": "Pretoria",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 63100945,
+      "populationFormatted": "63,100,945",
+      "areaKm2": 1221037,
+      "areaFormatted": "1,221,037 km²",
+      "densityPerKm2": 52,
+      "languages": [
+        "Afrikaans",
+        "English",
+        "Southern Ndebele",
+        "Northern Sotho",
+        "Southern Sotho",
+        "Swazi",
+        "Tswana",
+        "Tsonga",
+        "Venda",
+        "Xhosa",
+        "Zulu"
+      ],
+      "currencies": [
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "R"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        -29,
+        24
+      ],
+      "borders": [
+        "BWA",
+        "LSO",
+        "MOZ",
+        "NAM",
+        "SWZ",
+        "ZWE"
+      ],
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "flagEmoji": "🇿🇦",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 52,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "挪威",
+      "nameZh": "挪威",
+      "nameEn": "Norway",
+      "nameOfficial": "Kingdom of Norway",
+      "isoCode": "no",
+      "cca2": "NO",
+      "cca3": "NOR",
+      "fifaCode": "NOR",
+      "capital": "Oslo",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5606944,
+      "populationFormatted": "5,606,944",
+      "areaKm2": 386224,
+      "areaFormatted": "386,224 km²",
+      "densityPerKm2": 15,
+      "languages": [
+        "Norwegian Nynorsk",
+        "Norwegian Bokmål",
+        "Sami"
+      ],
+      "currencies": [
+        {
+          "code": "NOK",
+          "name": "Norwegian krone",
+          "symbol": "kr"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        62,
+        10
+      ],
+      "borders": [
+        "FIN",
+        "SWE",
+        "RUS"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇳🇴",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 28,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "葡萄牙",
+      "nameZh": "葡萄牙",
+      "nameEn": "Portugal",
+      "nameOfficial": "Portuguese Republic",
+      "isoCode": "pt",
+      "cca2": "PT",
+      "cca3": "PRT",
+      "fifaCode": "POR",
+      "capital": "Lisbon",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 10749635,
+      "populationFormatted": "10,749,635",
+      "areaKm2": 92090,
+      "areaFormatted": "92,090 km²",
+      "densityPerKm2": 117,
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        39.5,
+        -8
+      ],
+      "borders": [
+        "ESP"
+      ],
+      "timezones": [
+        "UTC-01:00",
+        "UTC"
+      ],
+      "flagEmoji": "🇵🇹",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 6,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "日本",
+      "nameZh": "日本",
+      "nameEn": "Japan",
+      "nameOfficial": "Japan",
+      "isoCode": "jp",
+      "cca2": "JP",
+      "cca3": "JPN",
+      "fifaCode": "JPN",
+      "capital": "Tokyo",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 123210000,
+      "populationFormatted": "123,210,000",
+      "areaKm2": 377930,
+      "areaFormatted": "377,930 km²",
+      "densityPerKm2": 326,
+      "languages": [
+        "Japanese"
+      ],
+      "currencies": [
+        {
+          "code": "JPY",
+          "name": "Japanese yen",
+          "symbol": "¥"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        36,
+        138
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC+09:00"
+      ],
+      "flagEmoji": "🇯🇵",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 17,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "瑞典",
+      "nameZh": "瑞典",
+      "nameEn": "Sweden",
+      "nameOfficial": "Kingdom of Sweden",
+      "isoCode": "se",
+      "cca2": "SE",
+      "cca3": "SWE",
+      "fifaCode": "SWE",
+      "capital": "Stockholm",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 10605098,
+      "populationFormatted": "10,605,098",
+      "areaKm2": 450295,
+      "areaFormatted": "450,295 km²",
+      "densityPerKm2": 24,
+      "languages": [
+        "Swedish"
+      ],
+      "currencies": [
+        {
+          "code": "SEK",
+          "name": "Swedish krona",
+          "symbol": "kr"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        62,
+        15
+      ],
+      "borders": [
+        "FIN",
+        "NOR"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇸🇪",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 39,
+      "worldCupAppearances": 12,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "瑞士",
+      "nameZh": "瑞士",
+      "nameEn": "Switzerland",
+      "nameOfficial": "Swiss Confederation",
+      "isoCode": "ch",
+      "cca2": "CH",
+      "cca3": "CHE",
+      "fifaCode": "SUI",
+      "capital": "Bern",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 9082848,
+      "populationFormatted": "9,082,848",
+      "areaKm2": 41284,
+      "areaFormatted": "41,284 km²",
+      "densityPerKm2": 220,
+      "languages": [
+        "French",
+        "Swiss German",
+        "Italian",
+        "Romansh"
+      ],
+      "currencies": [
+        {
+          "code": "CHF",
+          "name": "Swiss franc",
+          "symbol": "Fr."
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        47,
+        8
+      ],
+      "borders": [
+        "AUT",
+        "FRA",
+        "ITA",
+        "LIE",
+        "DEU"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇨🇭",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 16,
+      "worldCupAppearances": 12,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "塞内加尔",
+      "nameZh": "塞内加尔",
+      "nameEn": "Senegal",
+      "nameOfficial": "Republic of Senegal",
+      "isoCode": "sn",
+      "cca2": "SN",
+      "cca3": "SEN",
+      "fifaCode": "SEN",
+      "capital": "Dakar",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 18593258,
+      "populationFormatted": "18,593,258",
+      "areaKm2": 196722,
+      "areaFormatted": "196,722 km²",
+      "densityPerKm2": 95,
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        14,
+        -14
+      ],
+      "borders": [
+        "GMB",
+        "GIN",
+        "GNB",
+        "MLI",
+        "MRT"
+      ],
+      "timezones": [
+        "UTC"
+      ],
+      "flagEmoji": "🇸🇳",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 18,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "沙特",
+      "nameZh": "沙特",
+      "nameEn": "Saudi Arabia",
+      "nameOfficial": "Kingdom of Saudi Arabia",
+      "isoCode": "sa",
+      "cca2": "SA",
+      "cca3": "SAU",
+      "fifaCode": "KSA",
+      "capital": "Riyadh",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 35300280,
+      "populationFormatted": "35,300,280",
+      "areaKm2": 2149690,
+      "areaFormatted": "2,149,690 km²",
+      "densityPerKm2": 16,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "SAR",
+          "name": "Saudi riyal",
+          "symbol": "ر.س"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        25,
+        45
+      ],
+      "borders": [
+        "IRQ",
+        "JOR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "ARE",
+        "YEM"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇸🇦",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 46,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "苏格兰",
+      "nameZh": "苏格兰",
+      "nameEn": "Scotland",
+      "nameOfficial": "United Kingdom of Great Britain and Northern Ireland",
+      "isoCode": "gb-sct",
+      "cca2": "GB",
+      "cca3": "GBR",
+      "fifaCode": null,
+      "capital": "Edinburgh",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5500000,
+      "populationFormatted": "69,281,437",
+      "areaKm2": 244376,
+      "areaFormatted": "244,376 km²",
+      "densityPerKm2": 284,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        56.4907,
+        -4.2026
+      ],
+      "borders": [
+        "IRL"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00",
+        "UTC",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+06:00"
+      ],
+      "flagEmoji": "🇬🇧",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 36,
+      "worldCupAppearances": 8,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19",
+      "note": "主场国家队；主权国家为英国",
+      "isHomeNation": true
+    },
+    {
+      "id": "突尼斯",
+      "nameZh": "突尼斯",
+      "nameEn": "Tunisia",
+      "nameOfficial": "Tunisian Republic",
+      "isoCode": "tn",
+      "cca2": "TN",
+      "cca3": "TUN",
+      "fifaCode": "TUN",
+      "capital": "Tunis",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 11972169,
+      "populationFormatted": "11,972,169",
+      "areaKm2": 163610,
+      "areaFormatted": "163,610 km²",
+      "densityPerKm2": 73,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "TND",
+          "name": "Tunisian dinar",
+          "symbol": "د.ت"
+        }
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "latlng": [
+        34,
+        9
+      ],
+      "borders": [
+        "DZA",
+        "LBY"
+      ],
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇹🇳",
+      "confederation": "CAF",
+      "fifaRankingEstimate": 43,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "土耳其",
+      "nameZh": "土耳其",
+      "nameEn": "Türkiye",
+      "nameOfficial": "Republic of Turkey",
+      "isoCode": "tr",
+      "cca2": "TR",
+      "cca3": "TUR",
+      "fifaCode": "TUR",
+      "capital": "Ankara",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 85664944,
+      "populationFormatted": "85,664,944",
+      "areaKm2": 783562,
+      "areaFormatted": "783,562 km²",
+      "densityPerKm2": 109,
+      "languages": [
+        "Turkish"
+      ],
+      "currencies": [
+        {
+          "code": "TRY",
+          "name": "Turkish lira",
+          "symbol": "₺"
+        }
+      ],
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "latlng": [
+        39,
+        35
+      ],
+      "borders": [
+        "ARM",
+        "AZE",
+        "BGR",
+        "GEO",
+        "GRC",
+        "IRN",
+        "IRQ",
+        "SYR"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇹🇷",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 25,
+      "worldCupAppearances": 2,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "乌拉圭",
+      "nameZh": "乌拉圭",
+      "nameEn": "Uruguay",
+      "nameOfficial": "Oriental Republic of Uruguay",
+      "isoCode": "uy",
+      "cca2": "UY",
+      "cca3": "URY",
+      "fifaCode": "URU",
+      "capital": "Montevideo",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 3499451,
+      "populationFormatted": "3,499,451",
+      "areaKm2": 181034,
+      "areaFormatted": "181,034 km²",
+      "densityPerKm2": 19,
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "UYU",
+          "name": "Uruguayan peso",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "South America"
+      ],
+      "latlng": [
+        -33,
+        -56
+      ],
+      "borders": [
+        "ARG",
+        "BRA"
+      ],
+      "timezones": [
+        "UTC-03:00"
+      ],
+      "flagEmoji": "🇺🇾",
+      "confederation": "CONMEBOL",
+      "fifaRankingEstimate": 13,
+      "worldCupAppearances": 14,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "乌兹别克",
+      "nameZh": "乌兹别克",
+      "nameEn": "Uzbekistan",
+      "nameOfficial": "Republic of Uzbekistan",
+      "isoCode": "uz",
+      "cca2": "UZ",
+      "cca3": "UZB",
+      "fifaCode": "UZB",
+      "capital": "Tashkent",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 37859698,
+      "populationFormatted": "37,859,698",
+      "areaKm2": 447400,
+      "areaFormatted": "447,400 km²",
+      "densityPerKm2": 85,
+      "languages": [
+        "Russian",
+        "Uzbek"
+      ],
+      "currencies": [
+        {
+          "code": "UZS",
+          "name": "Uzbekistani soʻm",
+          "symbol": "so'm"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        41,
+        64
+      ],
+      "borders": [
+        "AFG",
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM"
+      ],
+      "timezones": [
+        "UTC+05:00"
+      ],
+      "flagEmoji": "🇺🇿",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 65,
+      "worldCupAppearances": 0,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "西班牙",
+      "nameZh": "西班牙",
+      "nameEn": "Spain",
+      "nameOfficial": "Kingdom of Spain",
+      "isoCode": "es",
+      "cca2": "ES",
+      "cca3": "ESP",
+      "fifaCode": "ESP",
+      "capital": "Madrid",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 49315949,
+      "populationFormatted": "49,315,949",
+      "areaKm2": 505992,
+      "areaFormatted": "505,992 km²",
+      "densityPerKm2": 97,
+      "languages": [
+        "Spanish",
+        "Catalan",
+        "Basque",
+        "Galician"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "euro",
+          "symbol": "€"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        40,
+        -4
+      ],
+      "borders": [
+        "AND",
+        "FRA",
+        "GIB",
+        "PRT",
+        "MAR"
+      ],
+      "timezones": [
+        "UTC",
+        "UTC+01:00"
+      ],
+      "flagEmoji": "🇪🇸",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 3,
+      "worldCupAppearances": 16,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "新西兰",
+      "nameZh": "新西兰",
+      "nameEn": "New Zealand",
+      "nameOfficial": "New Zealand",
+      "isoCode": "nz",
+      "cca2": "NZ",
+      "cca3": "NZL",
+      "fifaCode": "NZL",
+      "capital": "Wellington",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 5324700,
+      "populationFormatted": "5,324,700",
+      "areaKm2": 268838,
+      "areaFormatted": "268,838 km²",
+      "densityPerKm2": 20,
+      "languages": [
+        "English",
+        "Māori",
+        "New Zealand Sign Language"
+      ],
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$"
+        }
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "latlng": [
+        -41,
+        174
+      ],
+      "borders": [],
+      "timezones": [
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC+12:00",
+        "UTC+12:45",
+        "UTC+13:00"
+      ],
+      "flagEmoji": "🇳🇿",
+      "confederation": "OFC",
+      "fifaRankingEstimate": 50,
+      "worldCupAppearances": 3,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "伊拉克",
+      "nameZh": "伊拉克",
+      "nameEn": "Iraq",
+      "nameOfficial": "Republic of Iraq",
+      "isoCode": "iq",
+      "cca2": "IQ",
+      "cca3": "IRQ",
+      "fifaCode": "IRQ",
+      "capital": "Baghdad",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 46118793,
+      "populationFormatted": "46,118,793",
+      "areaKm2": 438317,
+      "areaFormatted": "438,317 km²",
+      "densityPerKm2": 105,
+      "languages": [
+        "Arabic",
+        "Aramaic",
+        "Sorani"
+      ],
+      "currencies": [
+        {
+          "code": "IQD",
+          "name": "Iraqi dinar",
+          "symbol": "ع.د"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        33,
+        44
+      ],
+      "borders": [
+        "IRN",
+        "JOR",
+        "KWT",
+        "SAU",
+        "SYR",
+        "TUR"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇮🇶",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 45,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "伊朗",
+      "nameZh": "伊朗",
+      "nameEn": "Iran",
+      "nameOfficial": "Islamic Republic of Iran",
+      "isoCode": "ir",
+      "cca2": "IR",
+      "cca3": "IRN",
+      "fifaCode": "IRN",
+      "capital": "Tehran",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 85961000,
+      "populationFormatted": "85,961,000",
+      "areaKm2": 1648195,
+      "areaFormatted": "1,648,195 km²",
+      "densityPerKm2": 52,
+      "languages": [
+        "Persian (Farsi)"
+      ],
+      "currencies": [
+        {
+          "code": "IRR",
+          "name": "Iranian rial",
+          "symbol": "﷼"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        32,
+        53
+      ],
+      "borders": [
+        "AFG",
+        "ARM",
+        "AZE",
+        "IRQ",
+        "PAK",
+        "TUR",
+        "TKM"
+      ],
+      "timezones": [
+        "UTC+03:30"
+      ],
+      "flagEmoji": "🇮🇷",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 19,
+      "worldCupAppearances": 6,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    },
+    {
+      "id": "英格兰",
+      "nameZh": "英格兰",
+      "nameEn": "England",
+      "nameOfficial": "United Kingdom of Great Britain and Northern Ireland",
+      "isoCode": "gb-eng",
+      "cca2": "GB",
+      "cca3": "GBR",
+      "fifaCode": null,
+      "capital": "London",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 56000000,
+      "populationFormatted": "69,281,437",
+      "areaKm2": 244376,
+      "areaFormatted": "244,376 km²",
+      "densityPerKm2": 284,
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£"
+        }
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "latlng": [
+        52.3555,
+        -1.1743
+      ],
+      "borders": [
+        "IRL"
+      ],
+      "timezones": [
+        "UTC-08:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00",
+        "UTC",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+06:00"
+      ],
+      "flagEmoji": "🇬🇧",
+      "confederation": "UEFA",
+      "fifaRankingEstimate": 4,
+      "worldCupAppearances": 16,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19",
+      "note": "主场国家队；主权国家为英国",
+      "isHomeNation": true
+    },
+    {
+      "id": "约旦",
+      "nameZh": "约旦",
+      "nameEn": "Jordan",
+      "nameOfficial": "Hashemite Kingdom of Jordan",
+      "isoCode": "jo",
+      "cca2": "JO",
+      "cca3": "JOR",
+      "fifaCode": "JOR",
+      "capital": "Amman",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 11734000,
+      "populationFormatted": "11,734,000",
+      "areaKm2": 89342,
+      "areaFormatted": "89,342 km²",
+      "densityPerKm2": 131,
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "JOD",
+          "name": "Jordanian dinar",
+          "symbol": "د.ا"
+        }
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "latlng": [
+        31,
+        36
+      ],
+      "borders": [
+        "IRQ",
+        "ISR",
+        "PSE",
+        "SAU",
+        "SYR"
+      ],
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "flagEmoji": "🇯🇴",
+      "confederation": "AFC",
+      "fifaRankingEstimate": 55,
+      "worldCupAppearances": 1,
+      "source": "restcountries.com v3.1",
+      "fetchedAt": "2026-05-19"
+    }
+  ]
+}
