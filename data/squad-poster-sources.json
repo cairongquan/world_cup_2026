@@ -1,0 +1,45 @@
+{
+  "_meta": {
+    "description": "各队大名单公布时间与海报来源（懂球帝文章 ID 或足协官网图）",
+    "posterDir": "assets/squads"
+  },
+  "teams": {
+    "巴西": { "announcedAt": "2026-05-18", "dongqiudiArticle": 5856611 },
+    "韩国": {
+      "announcedAt": "2026-05-16",
+      "dongqiudiArticle": 5852128,
+      "posterUrl": "https://bdimg7.qunliao.info/fastdfs8/M00/CB/44/rBXRDGoI6AKANwqoAAOVpjFa6eU345.jpg"
+    },
+    "刚果(金)": { "announcedAt": "2026-05-18", "dongqiudiArticle": 5856176 },
+    "佛得角": { "announcedAt": "2026-05-14", "dongqiudiArticle": 5855978 },
+    "海地": { "announcedAt": "2026-05-15", "dongqiudiArticle": 5848766 },
+    "波黑": { "announcedAt": "2026-05-11", "dongqiudiArticle": 5838761 },
+    "比利时": { "announcedAt": "2026-05-12" },
+    "法国": {
+      "announcedAt": "2026-05-14",
+      "posterUrl": "https://media.fff.fr/uploads/images/98dd894e7a97fa72e250a4c338bc259c.png"
+    },
+    "日本": {
+      "announcedAt": "2026-05-15",
+      "dongqiudiArticle": 5848280,
+      "posterUrl": "https://bdimg7.qunliao.info/fastdfs8/M00/C5/AD/rBXRDGoGrDaAR4-3AASjSWvGZEA543.jpg"
+    },
+    "瑞典": { "announcedAt": "2026-05-17", "dongqiudiArticle": 5841269 },
+    "苏格兰": { "announcedAt": "2026-05-19", "dongqiudiArticle": 5106734 },
+    "突尼斯": { "announcedAt": "2026-05-17" },
+    "新西兰": { "announcedAt": "2026-05-18" },
+    "奥地利": { "announcedAt": "2026-05-18", "dongqiudiArticle": 5856211 },
+    "德国": {
+      "announcedAt": "2026-05-21",
+      "posterUrl": "https://assets.dfb.de/uploads/000/333/149/original_260521_Kader_WM_JPG.jpg"
+    },
+    "塞内加尔": { "announcedAt": "2026-05-21", "dongqiudiArticle": 5862764 },
+    "科特迪瓦": { "announcedAt": "2026-05-14" },
+    "库拉索": { "announcedAt": "2026-05-16", "dongqiudiArticle": 5856220 },
+    "挪威": { "announcedAt": "2026-05-21", "dongqiudiArticle": 5863786 },
+    "瑞士": { "announcedAt": "2026-05-20", "dongqiudiArticle": 5860085 },
+    "克罗地亚": { "announcedAt": "2026-05-18", "dongqiudiArticle": 5855857 },
+    "葡萄牙": { "announcedAt": "2026-05-19", "dongqiudiArticle": 5857920 },
+    "埃及": { "announcedAt": "2026-05-14" }
+  }
+}

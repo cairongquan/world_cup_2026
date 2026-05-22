@@ -2,11 +2,16 @@
   import { squadModalTeam } from '../stores/ui.js';
   import { squadsData } from '../stores/squads.js';
   import { fixPlayerPhotoUrl } from '../services/squads.js';
+  import { formatSquadAnnouncedAt } from '../formatSquadDate.js';
   import FlagImg from './FlagImg.svelte';
 
   let team = $derived($squadModalTeam);
   let squad = $derived(team ? $squadsData?.[team] : null);
   let open = $derived(!!team);
+  let hasSquadPoster = $derived(!!squad?.squadPoster);
+  let announcedLabel = $derived(
+    squad?.announcedAt ? formatSquadAnnouncedAt(squad.announcedAt) : '',
+  );
 
   function close() {
     squadModalTeam.set(null);
@@ -47,11 +52,22 @@
   role="presentation"
 >
   {#if team}
-    <div class="squad-modal" role="dialog" aria-labelledby="squadModalTitle">
+    <div
+      class="squad-modal"
+      class:has-poster={hasSquadPoster}
+      role="dialog"
+      aria-labelledby="squadModalTitle"
+    >
       <button type="button" class="squad-modal-close" aria-label="关闭" onclick={close}>✕</button>
+      {#if hasSquadPoster}
+        <div class="squad-poster-pane" aria-hidden="true">
+          <img src={squad.squadPoster} alt="" loading="lazy" decoding="async" />
+        </div>
+      {/if}
+      <div class="squad-modal-main">
       <div class="squad-modal-header">
         <FlagImg name={team} className="flag-img" />
-        <div>
+        <div class="squad-modal-header-text">
           <h3 id="squadModalTitle">{team}</h3>
           {#if squad}
             <div class="coach">
@@ -60,6 +76,9 @@
                 ({squad.coach})
               {/if}
             </div>
+            {#if announcedLabel}
+              <div class="announced-at">📅 {announcedLabel}</div>
+            {/if}
             {#if squad.squadStatusLabel}
               <div class="status">{squad.squadStatusLabel}</div>
             {/if}
@@ -73,9 +92,9 @@
       </div>
       <div class="squad-modal-body">
         {#if !squad}
-          <p class="squad-note">请稍后刷新，或运行 node scripts/build-squads.mjs 更新数据。</p>
+          <p class="squad-note">请稍后刷新，或运行 node scripts/sync-squads-online.mjs 更新数据。</p>
         {:else}
-          {#if squad.note}
+          {#if squad.note && !announcedLabel}
             <p class="squad-note">{squad.note}</p>
           {/if}
           {#each sections as [title, players]}
@@ -115,10 +134,9 @@
               </div>
             {/if}
           {/each}
-          <p class="squad-source">
-            阵容：Olympics.com / Football365 · 身价/头像：Transfermarkt 估算 · 2026.05
-          </p>
+          <p class="squad-source">阵容来源：Sky Sports / 各国足协 · 身价：Transfermarkt 估算</p>
         {/if}
+      </div>
       </div>
     </div>
   {/if}

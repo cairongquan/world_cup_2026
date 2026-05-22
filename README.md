@@ -160,7 +160,13 @@ world_cup_2026/
 在**仓库根目录**执行（需 Node.js 18+）：
 
 ```bash
-# 从脚本内维护的球队资料生成 squads.json
+# 联网同步 Sky Sports 已公布名单（未公布球队保持不动）
+node scripts/sync-squads-online.mjs
+node scripts/enrich-squads.mjs
+node scripts/fetch-squad-posters.mjs   # 懂球帝等大名单海报 → assets/squads/
+node scripts/apply-squad-posters.mjs   # 写入公布时间与海报路径
+
+# 从脚本内维护的球队资料生成 squads.json（全量重建时使用）
 node scripts/build-squads.mjs
 
 # 生成/更新国家中文名等

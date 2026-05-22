@@ -122,6 +122,7 @@ for (const [teamName, team] of Object.entries(raw.teams)) {
   for (const key of ['goalkeepers', 'defenders', 'midfielders', 'forwards', 'keyPlayers']) {
     if (team[key]) team[key] = enrichList(team[key], teamName);
   }
+  // squadPoster 由 sync-squads-online 写入，enrich 不覆盖
 }
 
 raw._meta.playerFormat = 'nameZh, clubZh, valueZh, photo';
