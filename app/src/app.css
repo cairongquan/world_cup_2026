@@ -32,10 +32,22 @@
     pointer-events: none;
   }
   .header h1 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
     font-size: 20px;
     font-weight: 800;
     color: #f0f4ff;
     letter-spacing: 0.5px;
+  }
+  .header-wc-icon {
+    flex-shrink: 0;
+    width: auto;
+    height: 40px;
+    border-radius: 6px;
+    object-fit: contain;
+    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.4));
   }
   .header h1 span { color: #60a5fa; }
   .header p {
