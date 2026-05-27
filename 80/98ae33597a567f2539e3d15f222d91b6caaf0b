@@ -1,0 +1,29 @@
+app/.env.example
+  h_cae5f48391e66f 4-5,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "8098ae33597a567f2539e3d15f222d91b6caaf0b",
+  "prompts": {
+    "2ae66d7a501b0f32": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "05092c5d-2176-4379-a3b4-6e2db56870c5",
+        "model": "default"
+      },
+      "human_author": "cairongquan",
+      "messages": [],
+      "total_additions": 335,
+      "total_deletions": 102,
+      "accepted_lines": 247,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.tongbaninfo.com/cas/1cad36fc3c4f1ff89bec452a54d05a3f72bc006b6021fd2df2493bdb885a0822"
+    }
+  },
+  "humans": {
+    "h_cae5f48391e66f": {
+      "author": "cairongquan"
+    }
+  }
+}
