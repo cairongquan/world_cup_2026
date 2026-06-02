@@ -160,8 +160,9 @@ world_cup_2026/
 在**仓库根目录**执行（需 Node.js 18+）：
 
 ```bash
-# 联网同步 Sky Sports 已公布名单（未公布球队保持不动）
-node scripts/sync-squads-online.mjs
+# 联网同步正式大名单（推荐：Wikipedia/FIFA 全 48 队；或 Sky Sports 补充）
+node scripts/sync-squads-wikipedia.mjs
+node scripts/sync-squads-online.mjs   # 可选，与 Wikipedia 交叉核对
 node scripts/enrich-squads.mjs
 node scripts/fetch-squad-posters.mjs   # 懂球帝等大名单海报 → assets/squads/
 node scripts/apply-squad-posters.mjs   # 写入公布时间与海报路径

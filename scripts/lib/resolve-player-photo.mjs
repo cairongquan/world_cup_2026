@@ -12,6 +12,7 @@ import {
   getSearchAlias,
 } from './photo-sources-extra.mjs';
 import { probeImageUrl, sleep } from './image-probe.mjs';
+import { setupHttpProxy } from './http-fetch.mjs';
 
 export { probeImageUrl, sleep };
 
@@ -54,6 +55,7 @@ export function extractRemotePhoto(photo) {
 }
 
 async function searchSportsDbOnce(query, nationalityEn) {
+  setupHttpProxy();
   const url = `${SPORTSDB_API}?p=${encodeURIComponent(query)}`;
   const res = await fetch(url, { headers: { 'User-Agent': UA } });
   if (!res.ok) return null;
@@ -173,6 +175,25 @@ export async function tryWikidata(nameEn) {
  * @param {{ nameEn: string, nationalityEn?: string, existingPhoto?: string }} ctx
  * @returns {Promise<{ url: string, source: string } | null>}
  */
+/** 批量更新时优先 TM / 单次 SportsDB，减少 API 轮询 */
+export async function resolvePlayerPhotoFast(ctx) {
+  const { nameEn, nationalityEn = '', existingPhoto = '' } = ctx;
+  const hit =
+    (await tryManualOverride(nameEn)) ||
+    (await tryTransfermarkt(nameEn, existingPhoto)) ||
+    (await tryExistingRemote(existingPhoto)) ||
+    (await tryWikipediaI18n(nameEn, nationalityEn));
+  if (hit?.url) return hit;
+
+  const player = await searchSportsDbOnce(nameEn, nationalityEn);
+  if (player) {
+    for (const imgUrl of sportsDbImageUrls(player)) {
+      if (await probeImageUrl(imgUrl)) return { url: imgUrl, source: 'thesportsdb' };
+    }
+  }
+  return null;
+}
+
 export async function resolvePlayerPhoto(ctx) {
   const { nameEn, nationalityEn = '', existingPhoto = '' } = ctx;
 
@@ -180,11 +201,12 @@ export async function resolvePlayerPhoto(ctx) {
   const alias = getSearchAlias(nameEn);
   const providers = [
     () => tryManualOverride(nameEn),
-    ...(hasRemote ? [() => tryExistingRemote(existingPhoto), () => tryTransfermarkt(nameEn, existingPhoto)] : []),
+    () => tryTransfermarkt(nameEn, existingPhoto),
+    ...(hasRemote ? [() => tryExistingRemote(existingPhoto)] : []),
     () => tryWikipediaI18n(nameEn, nationalityEn),
     () => tryTheSportsDb(nameEn, nationalityEn),
     () => trySportsDbDetail(nameEn, nationalityEn),
-    ...(!hasRemote ? [() => tryExistingRemote(existingPhoto), () => tryTransfermarkt(nameEn, existingPhoto)] : []),
+    ...(!hasRemote ? [() => tryExistingRemote(existingPhoto)] : []),
     () => tryWikipedia(nameEn, nationalityEn),
     () => tryWikidata(nameEn),
     () => tryWikidataFromWikiTitle(nameEn, alias),

@@ -6,7 +6,9 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { resolvePlayerPhoto } from './lib/resolve-player-photo.mjs';
+import { resolvePlayerPhoto, resolvePlayerPhotoFast } from './lib/resolve-player-photo.mjs';
+import { lookupTmId, TM_CDN, TM_CDN_ALT } from './lib/player-meta.mjs';
+import { setupHttpProxy } from './lib/http-fetch.mjs';
 import { sleep } from './lib/image-probe.mjs';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -14,7 +16,8 @@ const SQUADS = path.join(ROOT, 'data', 'squads.json');
 const COUNTRIES = path.join(ROOT, 'data', 'countries.json');
 const CACHE = path.join(ROOT, 'data', 'player-photo-cache.json');
 const OUT_DIR = path.join(ROOT, 'assets', 'players');
-const DELAY_MS = 100;
+const DELAY_MS = process.argv.includes('--fast') ? 40 : 100;
+const FAST = process.argv.includes('--fast');
 
 const PLAYER_KEYS = ['goalkeepers', 'defenders', 'midfielders', 'forwards', 'keyPlayers'];
 
@@ -42,6 +45,7 @@ function collectPlayers(team) {
 }
 
 async function downloadImage(url, dest, retries = 2) {
+  setupHttpProxy();
   for (let i = 0; i <= retries; i += 1) {
     try {
       const res = await fetch(url, { ...FETCH_IMAGE, signal: AbortSignal.timeout(45000) });
@@ -84,6 +88,11 @@ fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const stats = { downloaded: 0, skipped: 0, failed: 0, updated: 0, bySource: {} };
 
+setupHttpProxy();
+if (process.env.HTTP_PROXY || process.env.HTTPS_PROXY) {
+  console.log('使用代理:', process.env.HTTPS_PROXY || process.env.HTTP_PROXY);
+}
+
 for (const [teamName, team] of Object.entries(raw.teams)) {
   const nationalityEn = countries.teams?.[teamName]?.nameEn || '';
   for (const p of collectPlayers(team)) {
@@ -96,17 +105,34 @@ for (const [teamName, team] of Object.entries(raw.teams)) {
       continue;
     }
 
+    const fileName = `${teamSlug(teamName, countries)}_${slug(nameEn)}.jpg`;
+    const localRel = `assets/players/${fileName}`;
+    const dest = path.join(ROOT, localRel);
+
     let resolved = parseCacheEntry(cache[cacheKey]);
-    const needSearch = !resolved?.url || p.photo?.includes('ui-avatars.com');
+    const needSearch = !resolved?.url;
+
+    if (needSearch && lookupTmId(nameEn)) {
+      for (const base of [TM_CDN, TM_CDN_ALT]) {
+        const tmUrl = `${base}/${lookupTmId(nameEn)}.jpg`;
+        if (await downloadImage(tmUrl, dest)) {
+          cache[cacheKey] = tmUrl;
+          p.photo = localRel;
+          stats.downloaded += 1;
+          stats.updated += 1;
+          stats.bySource.transfermarkt = (stats.bySource.transfermarkt || 0) + 1;
+          await sleep(DELAY_MS);
+          continue;
+        }
+      }
+    }
 
     if (needSearch) {
       process.stdout.write(`search ${teamName} / ${nameEn}... `);
       try {
-        resolved = await resolvePlayerPhoto({
-          nameEn,
-          nationalityEn,
-          existingPhoto: p.photo,
-        });
+        resolved = FAST
+          ? await resolvePlayerPhotoFast({ nameEn, nationalityEn, existingPhoto: p.photo })
+          : await resolvePlayerPhoto({ nameEn, nationalityEn, existingPhoto: p.photo });
         cache[cacheKey] = resolved?.url || null;
         if (resolved) {
           stats.bySource[resolved.source] = (stats.bySource[resolved.source] || 0) + 1;
@@ -128,10 +154,6 @@ for (const [teamName, team] of Object.entries(raw.teams)) {
       stats.failed += 1;
       continue;
     }
-
-    const fileName = `${teamSlug(teamName, countries)}_${slug(nameEn)}.jpg`;
-    const localRel = `assets/players/${fileName}`;
-    const dest = path.join(ROOT, localRel);
 
     if (!fs.existsSync(dest) || fs.statSync(dest).size < 1000) {
       process.stdout.write(`  dl ${fileName}... `);

@@ -19,6 +19,7 @@ const EXTRA = {
   USA: '美国',
   'Saudi Arabia': '沙特',
   'Bosnia and Herzegovina': '波黑',
+  'Bosnia-Herzegovina': '波黑',
   'Cape Verde': '佛得角',
   'New Zealand': '新西兰',
   Türkiye: '土耳其',
