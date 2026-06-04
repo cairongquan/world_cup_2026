@@ -4,7 +4,7 @@ import { flagPath } from '../flags.js';
 
 export async function loadSquads() {
   try {
-    const res = await fetch('/data/squads.json');
+    const res = await fetch('/world_cup_2026/data/squads.json');
     const d = await res.json();
     squadsData.set(d.teams);
   } catch {

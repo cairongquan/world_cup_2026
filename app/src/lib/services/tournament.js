@@ -252,11 +252,11 @@ export async function refreshTournamentData() {
 
 export async function initTournamentBootstrap() {
   await Promise.all([
-    fetch('/data/countries.json')
+    fetch('/world_cup_2026/data/countries.json')
       .then((r) => r.json())
       .then((d) => setEnToZhFromCountries(d.teams))
       .catch(() => {}),
-    fetch('/data/flags-mapping.json')
+    fetch('/world_cup_2026/data/flags-mapping.json')
       .then((r) => r.json())
       .then((d) => {
         const mapping = {};
