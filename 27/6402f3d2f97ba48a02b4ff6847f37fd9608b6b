@@ -1,0 +1,18 @@
+app/src/lib/services/squads.js
+  h_cae5f48391e66f 7
+config.example.js
+  h_cae5f48391e66f 2
+app/src/lib/services/tournament.js
+  h_cae5f48391e66f 255,259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "276402f3d2f97ba48a02b4ff6847f37fd9608b6b",
+  "prompts": {},
+  "humans": {
+    "h_cae5f48391e66f": {
+      "author": "cairongquan"
+    }
+  }
+}
